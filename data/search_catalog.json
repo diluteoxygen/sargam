@@ -1532,5 +1532,1237 @@
     "movie": "Yeh Jawaani Hai Deewani",
     "genre": "new-age",
     "year": 2013
+  },
+  {
+    "id": "cheques",
+    "title": "Cheques",
+    "artist": "Shubh",
+    "movie": "",
+    "genre": "trending"
+  },
+  {
+    "id": "maan-meri-jaan",
+    "title": "Maan Meri Jaan",
+    "artist": "King",
+    "movie": "",
+    "genre": "trending"
+  },
+  {
+    "id": "295",
+    "title": "295",
+    "artist": "Sidhu Moose Wala",
+    "movie": "",
+    "genre": "trending"
+  },
+  {
+    "id": "big-dawgs",
+    "title": "Big Dawgs",
+    "artist": "Hanumankind, Kalmi",
+    "movie": "",
+    "genre": "trending"
+  },
+  {
+    "id": "husn",
+    "title": "Husn",
+    "artist": "Anuv Jain",
+    "movie": "",
+    "genre": "trending"
+  },
+  {
+    "id": "genda-phool",
+    "title": "Genda Phool",
+    "artist": "Badshah, Payal Dev",
+    "movie": "",
+    "genre": "trending"
+  },
+  {
+    "id": "millionaire",
+    "title": "Millionaire",
+    "artist": "Yo Yo Honey Singh",
+    "movie": "",
+    "genre": "trending"
+  },
+  {
+    "id": "titliaan",
+    "title": "Titliaan",
+    "artist": "Afsana Khan, Jaani, B Praak",
+    "movie": "",
+    "genre": "trending"
+  },
+  {
+    "id": "jamal-kudu",
+    "title": "Jamal Kudu",
+    "artist": "Kayan, Harshavardhan Rameshwar",
+    "movie": "",
+    "genre": "trending"
+  },
+  {
+    "id": "kahani-suno-2-0",
+    "title": "Kahani Suno 2.0",
+    "artist": "Kaifi Khalil",
+    "movie": "",
+    "genre": "trending"
+  },
+  {
+    "id": "elevated",
+    "title": "Elevated",
+    "artist": "Shubh",
+    "movie": "",
+    "genre": "trending"
+  },
+  {
+    "id": "no-love",
+    "title": "No Love",
+    "artist": "Shubh",
+    "movie": "",
+    "genre": "trending"
+  },
+  {
+    "id": "baller",
+    "title": "Baller",
+    "artist": "Shubh, Ikky",
+    "movie": "",
+    "genre": "trending"
+  },
+  {
+    "id": "sajni-o-sajni-re",
+    "title": "Sajni (O Sajni Re)",
+    "artist": "Arijit Singh, Ram Sampath",
+    "movie": "",
+    "genre": "trending"
+  },
+  {
+    "id": "the-last-ride",
+    "title": "The Last Ride",
+    "artist": "Sidhu Moose Wala, Wazir Patar",
+    "movie": "",
+    "genre": "trending"
+  },
+  {
+    "id": "levels",
+    "title": "Levels",
+    "artist": "Sidhu Moose Wala, Sunny Malton",
+    "movie": "",
+    "genre": "trending"
+  },
+  {
+    "id": "admirin-you",
+    "title": "Admirin' You",
+    "artist": "Karan Aujla, Preston Pablo, Ikky",
+    "movie": "",
+    "genre": "trending"
+  },
+  {
+    "id": "jugnu",
+    "title": "Jugnu",
+    "artist": "Badshah, Nikhita Gandhi",
+    "movie": "",
+    "genre": "trending"
+  },
+  {
+    "id": "pani-pani",
+    "title": "Pani Pani",
+    "artist": "Badshah, Aastha Gill",
+    "movie": "",
+    "genre": "trending"
+  },
+  {
+    "id": "ve-haaniyaan",
+    "title": "Ve Haaniyaan",
+    "artist": "Danny, Avvy Sra, Sagar",
+    "movie": "",
+    "genre": "trending"
+  },
+  {
+    "id": "illuminati",
+    "title": "Illuminati",
+    "artist": "Sushin Shyam, Dabzee",
+    "movie": "",
+    "genre": "trending"
+  },
+  {
+    "id": "tu-aake-dekhle",
+    "title": "Tu Aake Dekhle",
+    "artist": "King",
+    "movie": "",
+    "genre": "trending"
+  },
+  {
+    "id": "jo-tum-mere-ho",
+    "title": "Jo Tum Mere Ho",
+    "artist": "Anuv Jain",
+    "movie": "",
+    "genre": "trending"
+  },
+  {
+    "id": "daku",
+    "title": "Daku",
+    "artist": "Chani Nattan, Inderpal Moga",
+    "movie": "",
+    "genre": "trending"
+  },
+  {
+    "id": "still-rollin",
+    "title": "Still Rollin",
+    "artist": "Shubh",
+    "movie": "",
+    "genre": "trending"
+  },
+  {
+    "id": "king-shit",
+    "title": "King Shit",
+    "artist": "Shubh",
+    "movie": "",
+    "genre": "trending"
+  },
+  {
+    "id": "52-bars",
+    "title": "52 Bars",
+    "artist": "Karan Aujla, Ikky",
+    "movie": "",
+    "genre": "trending"
+  },
+  {
+    "id": "one-love",
+    "title": "One Love",
+    "artist": "Shubh",
+    "movie": "",
+    "genre": "trending"
+  },
+  {
+    "id": "wo-noor",
+    "title": "Wo Noor",
+    "artist": "AP Dhillon",
+    "movie": "",
+    "genre": "trending"
+  },
+  {
+    "id": "spaceship",
+    "title": "Spaceship",
+    "artist": "AP Dhillon, Gurinder Gill",
+    "movie": "",
+    "genre": "trending"
+  },
+  {
+    "id": "signed-to-god",
+    "title": "Signed To God",
+    "artist": "Sidhu Moose Wala",
+    "movie": "",
+    "genre": "trending"
+  },
+  {
+    "id": "syl",
+    "title": "SYL",
+    "artist": "Sidhu Moose Wala",
+    "movie": "",
+    "genre": "trending"
+  },
+  {
+    "id": "drippy",
+    "title": "Drippy",
+    "artist": "Sidhu Moose Wala, AR Paisley, Mxrci",
+    "movie": "",
+    "genre": "trending"
+  },
+  {
+    "id": "410",
+    "title": "410",
+    "artist": "Sidhu Moose Wala, Sunny Malton",
+    "movie": "",
+    "genre": "trending"
+  },
+  {
+    "id": "watch-out",
+    "title": "Watch Out",
+    "artist": "Sidhu Moose Wala, Sikander Kahlon",
+    "movie": "",
+    "genre": "trending"
+  },
+  {
+    "id": "we-rollin",
+    "title": "We Rollin",
+    "artist": "Shubh",
+    "movie": "",
+    "genre": "trending"
+  },
+  {
+    "id": "her",
+    "title": "Her",
+    "artist": "Shubh",
+    "movie": "",
+    "genre": "trending"
+  },
+  {
+    "id": "offshore",
+    "title": "Offshore",
+    "artist": "Shubh",
+    "movie": "",
+    "genre": "trending"
+  },
+  {
+    "id": "dior",
+    "title": "Dior",
+    "artist": "Shubh",
+    "movie": "",
+    "genre": "trending"
+  },
+  {
+    "id": "you-and-me",
+    "title": "You and Me",
+    "artist": "Shubh",
+    "movie": "",
+    "genre": "trending"
+  },
+  {
+    "id": "bandana",
+    "title": "Bandana",
+    "artist": "Shubh",
+    "movie": "",
+    "genre": "trending"
+  },
+  {
+    "id": "mvp",
+    "title": "MVP",
+    "artist": "Shubh",
+    "movie": "",
+    "genre": "trending"
+  },
+  {
+    "id": "safety-off",
+    "title": "Safety Off",
+    "artist": "Shubh",
+    "movie": "",
+    "genre": "trending"
+  },
+  {
+    "id": "antidote",
+    "title": "Antidote",
+    "artist": "Karan Aujla, Jay Trak",
+    "movie": "",
+    "genre": "trending"
+  },
+  {
+    "id": "jee-ni-lagda",
+    "title": "Jee Ni Lagda",
+    "artist": "Karan Aujla",
+    "movie": "",
+    "genre": "trending"
+  },
+  {
+    "id": "chitta-kurta",
+    "title": "Chitta Kurta",
+    "artist": "Karan Aujla",
+    "movie": "",
+    "genre": "trending"
+  },
+  {
+    "id": "players",
+    "title": "Players",
+    "artist": "Badshah, Karan Aujla",
+    "movie": "",
+    "genre": "trending"
+  },
+  {
+    "id": "god-damn",
+    "title": "God Damn",
+    "artist": "Badshah, Karan Aujla",
+    "movie": "",
+    "genre": "trending"
+  },
+  {
+    "id": "soulmate",
+    "title": "Soulmate",
+    "artist": "Badshah, Arijit Singh",
+    "movie": "",
+    "genre": "trending"
+  },
+  {
+    "id": "payal",
+    "title": "Payal",
+    "artist": "Yo Yo Honey Singh, Paradox",
+    "movie": "",
+    "genre": "trending"
+  },
+  {
+    "id": "bonita",
+    "title": "Bonita",
+    "artist": "Yo Yo Honey Singh",
+    "movie": "",
+    "genre": "trending"
+  },
+  {
+    "id": "jatt-mehkma",
+    "title": "Jatt Mehkma",
+    "artist": "Yo Yo Honey Singh",
+    "movie": "",
+    "genre": "trending"
+  },
+  {
+    "id": "bhool-bhulaiyaa-3-title-track",
+    "title": "Bhool Bhulaiyaa 3 Title Track",
+    "artist": "Pitbull, Diljit Dosanjh, Neeraj Shridhar",
+    "movie": "",
+    "genre": "trending"
+  },
+  {
+    "id": "ami-je-tomar-3-0",
+    "title": "Ami Je Tomar 3.0",
+    "artist": "Shreya Ghoshal, Arijit Singh, Pritam",
+    "movie": "",
+    "genre": "trending"
+  },
+  {
+    "id": "jaana-samjho-na",
+    "title": "Jaana Samjho Na",
+    "artist": "Aditya Rikhari, Tulsi Kumar, Lijo George-DJ Chetas",
+    "movie": "",
+    "genre": "trending"
+  },
+  {
+    "id": "samjho-na",
+    "title": "Samjho Na",
+    "artist": "Aditya Rikhari",
+    "movie": "",
+    "genre": "trending"
+  },
+  {
+    "id": "teri-baaton-mein-aisa-uljha-jiya",
+    "title": "Teri Baaton Mein Aisa Uljha Jiya",
+    "artist": "Raghav, Tanishk Bagchi, Asees Kaur",
+    "movie": "",
+    "genre": "trending"
+  },
+  {
+    "id": "laal-peeli-akhiyaan",
+    "title": "Laal Peeli Akhiyaan",
+    "artist": "Romy, Tanishk Bagchi",
+    "movie": "",
+    "genre": "trending"
+  },
+  {
+    "id": "tum-se",
+    "title": "Tum Se",
+    "artist": "Sachin-Jigar, Raghav Chaitanya, Varun Jain",
+    "movie": "",
+    "genre": "trending"
+  },
+  {
+    "id": "ishq-mitaye",
+    "title": "Ishq Mitaye",
+    "artist": "Mohit Chauhan, A.R. Rahman",
+    "movie": "",
+    "genre": "trending"
+  },
+  {
+    "id": "naram-kaalja",
+    "title": "Naram Kaalja",
+    "artist": "Alka Yagnik, Richa Sharma, Pooja Tiwari, A.R. Rahman",
+    "movie": "",
+    "genre": "trending"
+  },
+  {
+    "id": "vida-karo",
+    "title": "Vida Karo",
+    "artist": "Arijit Singh, Jonita Gandhi, A.R. Rahman",
+    "movie": "",
+    "genre": "trending"
+  },
+  {
+    "id": "tu-kya-jaane",
+    "title": "Tu Kya Jaane",
+    "artist": "Yashika Sikka, A.R. Rahman",
+    "movie": "",
+    "genre": "trending"
+  },
+  {
+    "id": "baaja",
+    "title": "Baaja",
+    "artist": "Mohit Chauhan, Romy, A.R. Rahman",
+    "movie": "",
+    "genre": "trending"
+  },
+  {
+    "id": "chaka-chak",
+    "title": "Chaka Chak",
+    "artist": "Shreya Ghoshal, A.R. Rahman",
+    "movie": "",
+    "genre": "trending"
+  },
+  {
+    "id": "rait-zara-si",
+    "title": "Rait Zara Si",
+    "artist": "Arijit Singh, Shashaa Tirupati, A.R. Rahman",
+    "movie": "",
+    "genre": "trending"
+  },
+  {
+    "id": "doobey",
+    "title": "Doobey",
+    "artist": "Lothika, OAFF, Savera",
+    "movie": "",
+    "genre": "trending"
+  },
+  {
+    "id": "gehraiyaan-title-track",
+    "title": "Gehraiyaan Title Track",
+    "artist": "Lothika, OAFF, Savera",
+    "movie": "",
+    "genre": "trending"
+  },
+  {
+    "id": "ghodey-pe-sawaar",
+    "title": "Ghodey Pe Sawaar",
+    "artist": "Sireesha Bhagavatula, Amit Trivedi",
+    "movie": "",
+    "genre": "trending"
+  },
+  {
+    "id": "phero-na-najariya",
+    "title": "Phero Na Najariya",
+    "artist": "Sireesha Bhagavatula, Amit Trivedi",
+    "movie": "",
+    "genre": "trending"
+  },
+  {
+    "id": "shauq",
+    "title": "Shauq",
+    "artist": "Shahid Mallya, Sireesha Bhagavatula, Swanand Kirkire, Amit Trivedi",
+    "movie": "",
+    "genre": "trending"
+  },
+  {
+    "id": "jehda-nasha",
+    "title": "Jehda Nasha",
+    "artist": "Amar Jalal, IP Singh, Yohani, Harjot Kaur",
+    "movie": "",
+    "genre": "trending"
+  },
+  {
+    "id": "rasiya",
+    "title": "Rasiya",
+    "artist": "Shreya Ghoshal, Tushar Joshi, Pritam",
+    "movie": "",
+    "genre": "trending"
+  },
+  {
+    "id": "kudmayi",
+    "title": "Kudmayi",
+    "artist": "Sachet Tandon, Shahid Mallya, Pritam",
+    "movie": "",
+    "genre": "trending"
+  },
+  {
+    "id": "dhindhora-baje-re",
+    "title": "Dhindhora Baje Re",
+    "artist": "Darshan Raval, Bhoomi Trivedi, Pritam",
+    "movie": "",
+    "genre": "trending"
+  },
+  {
+    "id": "pyaar-hota-kayi-baar-hai",
+    "title": "Pyaar Hota Kayi Baar Hai",
+    "artist": "Arijit Singh, Pritam",
+    "movie": "",
+    "genre": "trending"
+  },
+  {
+    "id": "nikle-the-kabhi-hum-ghar-se",
+    "title": "Nikle The Kabhi Hum Ghar Se",
+    "artist": "Sonu Nigam, Pritam",
+    "movie": "",
+    "genre": "trending"
+  },
+  {
+    "id": "papa-meri-jaan",
+    "title": "Papa Meri Jaan",
+    "artist": "Sonu Nigam, Harshavardhan Rameshwar",
+    "movie": "",
+    "genre": "trending"
+  },
+  {
+    "id": "main-nikla-gaddi-leke-reprise",
+    "title": "Main Nikla Gaddi Leke (Reprise)",
+    "artist": "Udit Narayan, Aditya Narayan, Mithoon",
+    "movie": "",
+    "genre": "trending"
+  },
+  {
+    "id": "udd-jaa-kaale-kaava-reprise",
+    "title": "Udd Jaa Kaale Kaava (Reprise)",
+    "artist": "Udit Narayan, Alka Yagnik, Mithoon",
+    "movie": "",
+    "genre": "trending"
+  },
+  {
+    "id": "zihaal-e-miskin",
+    "title": "Zihaal e Miskin",
+    "artist": "Vishal Mishra, Shreya Ghoshal",
+    "movie": "",
+    "genre": "trending"
+  },
+  {
+    "id": "naseeb-se",
+    "title": "Naseeb Se",
+    "artist": "Vishal Mishra, Payal Dev",
+    "movie": "",
+    "genre": "trending"
+  },
+  {
+    "id": "jaanam",
+    "title": "Jaanam",
+    "artist": "Vishal Mishra",
+    "movie": "",
+    "genre": "trending"
+  },
+  {
+    "id": "khoobsurat",
+    "title": "Khoobsurat",
+    "artist": "Vishal Mishra, Sachin-Jigar",
+    "movie": "",
+    "genre": "trending"
+  },
+  {
+    "id": "tumhare-hi-rahenge-hum",
+    "title": "Tumhare Hi Rahenge Hum",
+    "artist": "Varun Jain, Shilpa Rao, Sachin-Jigar",
+    "movie": "",
+    "genre": "trending"
+  },
+  {
+    "id": "tilasmi-bahein",
+    "title": "Tilasmi Bahein",
+    "artist": "Sharmistha Chatterjee, Sanjay Leela Bhansali",
+    "movie": "",
+    "genre": "trending"
+  },
+  {
+    "id": "sakal-ban",
+    "title": "Sakal Ban",
+    "artist": "Raja Hasan, Sanjay Leela Bhansali",
+    "movie": "",
+    "genre": "trending"
+  },
+  {
+    "id": "chaudhavi-shab",
+    "title": "Chaudhavi Shab",
+    "artist": "Sanjay Leela Bhansali",
+    "movie": "",
+    "genre": "trending"
+  },
+  {
+    "id": "choli-ke-peeche",
+    "title": "Choli Ke Peeche",
+    "artist": "Diljit Dosanjh, Ila Arun, Alka Yagnik",
+    "movie": "",
+    "genre": "trending"
+  },
+  {
+    "id": "ghagra",
+    "title": "Ghagra",
+    "artist": "Ila Arun, Romy, Srushti Tawade",
+    "movie": "",
+    "genre": "trending"
+  },
+  {
+    "id": "do-u-know-khel-khel-mein",
+    "title": "Do U Know (Khel Khel Mein)",
+    "artist": "Diljit Dosanjh, Tanishk Bagchi",
+    "movie": "",
+    "genre": "trending"
+  },
+  {
+    "id": "hauli-hauli",
+    "title": "Hauli Hauli",
+    "artist": "Guru Randhawa, Yo Yo Honey Singh, Neha Kakkar",
+    "movie": "",
+    "genre": "trending"
+  },
+  {
+    "id": "chal-kudiye",
+    "title": "Chal Kudiye",
+    "artist": "Diljit Dosanjh, Alia Bhatt, Manpreet Singh",
+    "movie": "",
+    "genre": "trending"
+  },
+  {
+    "id": "tenu-sang-rakhna",
+    "title": "Tenu Sang Rakhna",
+    "artist": "Arijit Singh, Anumita Nadesan, Achint",
+    "movie": "",
+    "genre": "trending"
+  },
+  {
+    "id": "akhiyaan-de-kol",
+    "title": "Akhiyaan De Kol",
+    "artist": "Shilpa Rao, Mellow D, Tanishk Bagchi",
+    "movie": "",
+    "genre": "trending"
+  },
+  {
+    "id": "raanjhan",
+    "title": "Raanjhan",
+    "artist": "Parampara Tandon, Sachet-Parampara",
+    "movie": "",
+    "genre": "trending"
+  },
+  {
+    "id": "angaaron-the-couple-song",
+    "title": "Angaaron (The Couple Song)",
+    "artist": "Shreya Ghoshal, Devi Sri Prasad",
+    "movie": "",
+    "genre": "trending"
+  },
+  {
+    "id": "pushpa-pushpa",
+    "title": "Pushpa Pushpa",
+    "artist": "Mika Singh, Devi Sri Prasad",
+    "movie": "",
+    "genre": "trending"
+  },
+  {
+    "id": "kissik",
+    "title": "Kissik",
+    "artist": "Sublahshini, Devi Sri Prasad",
+    "movie": "",
+    "genre": "trending"
+  },
+  {
+    "id": "srivalli-hindi",
+    "title": "Srivalli (Hindi)",
+    "artist": "Javed Ali, Devi Sri Prasad",
+    "movie": "",
+    "genre": "trending"
+  },
+  {
+    "id": "saami-saami-hindi",
+    "title": "Saami Saami (Hindi)",
+    "artist": "Sunidhi Chauhan, Devi Sri Prasad",
+    "movie": "",
+    "genre": "trending"
+  },
+  {
+    "id": "nadiyon-paar-let-the-music-play",
+    "title": "Nadiyon Paar (Let the Music Play)",
+    "artist": "Sachin-Jigar, Rashmeet Kaur, Shamur",
+    "movie": "",
+    "genre": "trending"
+  },
+  {
+    "id": "kusu-kusu",
+    "title": "Kusu Kusu",
+    "artist": "Zahrah S Khan, Dev Negi, Tanishk Bagchi",
+    "movie": "",
+    "genre": "trending"
+  },
+  {
+    "id": "tip-tip-sooryavanshi",
+    "title": "Tip Tip (Sooryavanshi)",
+    "artist": "Udit Narayan, Alka Yagnik, Tanishk Bagchi",
+    "movie": "",
+    "genre": "trending"
+  },
+  {
+    "id": "najaa-sooryavanshi",
+    "title": "Najaa (Sooryavanshi)",
+    "artist": "Pav Dharia, Nikhita Gandhi, Tanishk Bagchi",
+    "movie": "",
+    "genre": "trending"
+  },
+  {
+    "id": "garmi",
+    "title": "Garmi",
+    "artist": "Badshah, Neha Kakkar",
+    "movie": "",
+    "genre": "trending"
+  },
+  {
+    "id": "illegal-weapon-2-0",
+    "title": "Illegal Weapon 2.0",
+    "artist": "Jasmine Sandlas, Garry Sandhu",
+    "movie": "",
+    "genre": "trending"
+  },
+  {
+    "id": "muqabla-street-dancer-3d",
+    "title": "Muqabla (Street Dancer 3D)",
+    "artist": "Yash Narvekar, Parampara Thakur, Tanishk Bagchi",
+    "movie": "",
+    "genre": "trending"
+  },
+  {
+    "id": "burjkhalifa",
+    "title": "Burjkhalifa",
+    "artist": "Shashi-DJ Khushi, Nikhita Gandhi, Madhubanti Bagchi",
+    "movie": "",
+    "genre": "trending"
+  },
+  {
+    "id": "care-ni-karda",
+    "title": "Care Ni Karda",
+    "artist": "Sweetaj Brar, Yo Yo Honey Singh",
+    "movie": "",
+    "genre": "trending"
+  },
+  {
+    "id": "taaron-ke-shehar",
+    "title": "Taaron Ke Shehar",
+    "artist": "Neha Kakkar, Jubin Nautiyal",
+    "movie": "",
+    "genre": "trending"
+  },
+  {
+    "id": "baarish-ki-jaaye",
+    "title": "Baarish Ki Jaaye",
+    "artist": "B Praak, Jaani",
+    "movie": "",
+    "genre": "trending"
+  },
+  {
+    "id": "filhaal-2-mohabbat",
+    "title": "Filhaal 2 Mohabbat",
+    "artist": "B Praak, Jaani",
+    "movie": "",
+    "genre": "trending"
+  },
+  {
+    "id": "kya-loge-tum",
+    "title": "Kya Loge Tum",
+    "artist": "B Praak, Jaani",
+    "movie": "",
+    "genre": "trending"
+  },
+  {
+    "id": "afsos",
+    "title": "Afsos",
+    "artist": "B Praak, Jaani",
+    "movie": "",
+    "genre": "trending"
+  },
+  {
+    "id": "besharam-bewaffa",
+    "title": "Besharam Bewaffa",
+    "artist": "B Praak, Jaani",
+    "movie": "",
+    "genre": "trending"
+  },
+  {
+    "id": "dil-chahte-ho",
+    "title": "Dil Chahte Ho",
+    "artist": "Jubin Nautiyal, Payal Dev",
+    "movie": "",
+    "genre": "trending"
+  },
+  {
+    "id": "chhor-denge",
+    "title": "Chhor Denge",
+    "artist": "Parampara Tandon, Sachet-Parampara",
+    "movie": "",
+    "genre": "trending"
+  },
+  {
+    "id": "soni-soni",
+    "title": "Soni Soni",
+    "artist": "Darshan Raval, Jonita Gandhi, Rochak Kohli",
+    "movie": "",
+    "genre": "trending"
+  },
+  {
+    "id": "ishq-lost-found",
+    "title": "Ishq (Lost;Found)",
+    "artist": "Faheem Abdullah, Rauhan Malik",
+    "movie": "",
+    "genre": "trending"
+  },
+  {
+    "id": "chand-baaliyan",
+    "title": "Chand Baaliyan",
+    "artist": "Aditya A",
+    "movie": "",
+    "genre": "trending"
+  },
+  {
+    "id": "alag-aasmaan",
+    "title": "Alag Aasmaan",
+    "artist": "Anuv Jain",
+    "movie": "",
+    "genre": "trending"
+  },
+  {
+    "id": "baarishein",
+    "title": "Baarishein",
+    "artist": "Anuv Jain",
+    "movie": "",
+    "genre": "trending"
+  },
+  {
+    "id": "gul",
+    "title": "Gul",
+    "artist": "Anuv Jain",
+    "movie": "",
+    "genre": "trending"
+  },
+  {
+    "id": "mishri",
+    "title": "Mishri",
+    "artist": "Anuv Jain",
+    "movie": "",
+    "genre": "trending"
+  },
+  {
+    "id": "tu-te-sharab",
+    "title": "Tu Te Sharab",
+    "artist": "Jordan Sandhu",
+    "movie": "",
+    "genre": "trending"
+  },
+  {
+    "id": "kinna-chir",
+    "title": "Kinna Chir",
+    "artist": "The PropheC",
+    "movie": "",
+    "genre": "trending"
+  },
+  {
+    "id": "akhiyaan",
+    "title": "Akhiyaan",
+    "artist": "Mitraz",
+    "movie": "",
+    "genre": "trending"
+  },
+  {
+    "id": "junoon",
+    "title": "Junoon",
+    "artist": "Mitraz",
+    "movie": "",
+    "genre": "trending"
+  },
+  {
+    "id": "gulaab",
+    "title": "Gulaab",
+    "artist": "Mitraz",
+    "movie": "",
+    "genre": "trending"
+  },
+  {
+    "id": "faasle",
+    "title": "Faasle",
+    "artist": "Aditya Rikhari",
+    "movie": "",
+    "genre": "trending"
+  },
+  {
+    "id": "jadugar",
+    "title": "Jadugar",
+    "artist": "Paradox",
+    "movie": "",
+    "genre": "trending"
+  },
+  {
+    "id": "babam-bam",
+    "title": "Babam Bam",
+    "artist": "Paradox",
+    "movie": "",
+    "genre": "trending"
+  },
+  {
+    "id": "bt-ho-gayi",
+    "title": "BT Ho Gayi",
+    "artist": "Paradox",
+    "movie": "",
+    "genre": "trending"
+  },
+  {
+    "id": "main-nahi-toh-kaun",
+    "title": "Main Nahi Toh Kaun",
+    "artist": "Srushti Tawade",
+    "movie": "",
+    "genre": "trending"
+  },
+  {
+    "id": "ram-ram",
+    "title": "Ram Ram",
+    "artist": "MC Square",
+    "movie": "",
+    "genre": "trending"
+  },
+  {
+    "id": "nadaan",
+    "title": "Nadaan",
+    "artist": "MC Square",
+    "movie": "",
+    "genre": "trending"
+  },
+  {
+    "id": "khatta-flow",
+    "title": "Khatta Flow",
+    "artist": "Seedhe Maut, KR$NA",
+    "movie": "",
+    "genre": "trending"
+  },
+  {
+    "id": "hola-amigo",
+    "title": "Hola Amigo",
+    "artist": "KR$NA, Seedhe Maut",
+    "movie": "",
+    "genre": "trending"
+  },
+  {
+    "id": "old-money",
+    "title": "Old Money",
+    "artist": "AP Dhillon",
+    "movie": "",
+    "genre": "trending"
+  },
+  {
+    "id": "bora-bora",
+    "title": "Bora Bora",
+    "artist": "AP Dhillon, Ayra Starr",
+    "movie": "",
+    "genre": "trending"
+  },
+  {
+    "id": "chhaila",
+    "title": "Chhaila",
+    "artist": "Sunidhi Chauhan, Shreya Ghoshal, Salim-Sulaiman",
+    "movie": "",
+    "genre": "trending"
+  },
+  {
+    "id": "chammak-challo",
+    "title": "Chammak Challo",
+    "artist": "Akon, Hamsika Iyer",
+    "movie": "Ra.One",
+    "genre": "red-herring"
+  },
+  {
+    "id": "tum-hi-ho-bandhu",
+    "title": "Tum Hi Ho Bandhu",
+    "artist": "Neeraj Shridhar, Kavita Seth",
+    "movie": "Cocktail",
+    "genre": "red-herring"
+  },
+  {
+    "id": "subha-hone-na-de",
+    "title": "Subha Hone Na De",
+    "artist": "Mika Singh, Shefali Alvares",
+    "movie": "Desi Boyz",
+    "genre": "red-herring"
+  },
+  {
+    "id": "kala-chashma",
+    "title": "Kala Chashma",
+    "artist": "Amar Arshi, Badshah, Neha Kakkar",
+    "movie": "Baar Baar Dekho",
+    "genre": "red-herring"
+  },
+  {
+    "id": "bom-diggy-diggy",
+    "title": "Bom Diggy Diggy",
+    "artist": "Zack Knight, Jasmin Walia",
+    "movie": "Sonu Ke Titu Ki Sweety",
+    "genre": "red-herring"
+  },
+  {
+    "id": "kar-gayi-chull",
+    "title": "Kar Gayi Chull",
+    "artist": "Badshah, Fazilpuria, Sukriti Kakar, Neha Kakkar",
+    "movie": "Kapoor & Sons",
+    "genre": "red-herring"
+  },
+  {
+    "id": "badtameez-dil",
+    "title": "Badtameez Dil",
+    "artist": "Benny Dayal",
+    "movie": "Yeh Jawaani Hai Deewani",
+    "genre": "red-herring"
+  },
+  {
+    "id": "hawayein",
+    "title": "Hawayein",
+    "artist": "Arijit Singh",
+    "movie": "Jab Harry Met Sejal",
+    "genre": "red-herring"
+  },
+  {
+    "id": "janam-janam",
+    "title": "Janam Janam",
+    "artist": "Arijit Singh, Antara Mitra",
+    "movie": "Dilwale",
+    "genre": "red-herring"
+  },
+  {
+    "id": "ae-dil-hai-mushkil-title-track",
+    "title": "Ae Dil Hai Mushkil Title Track",
+    "artist": "Arijit Singh",
+    "movie": "Ae Dil Hai Mushkil",
+    "genre": "red-herring"
+  },
+  {
+    "id": "bullya",
+    "title": "Bullya",
+    "artist": "Amit Mishra, Shilpa Rao",
+    "movie": "Ae Dil Hai Mushkil",
+    "genre": "red-herring"
+  },
+  {
+    "id": "matargashti",
+    "title": "Matargashti",
+    "artist": "Mohit Chauhan",
+    "movie": "Tamasha",
+    "genre": "red-herring"
+  },
+  {
+    "id": "kabir-singh-bekhayali",
+    "title": "Kabir Singh - Bekhayali",
+    "artist": "Sachet Tandon",
+    "movie": "Kabir Singh",
+    "genre": "red-herring"
+  },
+  {
+    "id": "tujhe-kitna-chahne-lage",
+    "title": "Tujhe Kitna Chahne Lage",
+    "artist": "Arijit Singh",
+    "movie": "Kabir Singh",
+    "genre": "red-herring"
+  },
+  {
+    "id": "kaise-hua",
+    "title": "Kaise Hua",
+    "artist": "Vishal Mishra",
+    "movie": "Kabir Singh",
+    "genre": "red-herring"
+  },
+  {
+    "id": "swag-se-swagat",
+    "title": "Swag Se Swagat",
+    "artist": "Vishal Dadlani, Neha Bhasin",
+    "movie": "Tiger Zinda Hai",
+    "genre": "red-herring"
+  },
+  {
+    "id": "o-saki-saki",
+    "title": "O Saki Saki",
+    "artist": "Neha Kakkar, Tulsi Kumar, B Praak",
+    "movie": "Batla House",
+    "genre": "red-herring"
+  },
+  {
+    "id": "apna-time-aayega",
+    "title": "Apna Time Aayega",
+    "artist": "Ranveer Singh",
+    "movie": "Gully Boy",
+    "genre": "red-herring"
+  },
+  {
+    "id": "lamberghini",
+    "title": "Lamberghini",
+    "artist": "The Doorbeen, Ragini",
+    "movie": "",
+    "genre": "red-herring"
+  },
+  {
+    "id": "prada",
+    "title": "Prada",
+    "artist": "Jass Manak",
+    "movie": "",
+    "genre": "red-herring"
+  },
+  {
+    "id": "lehanga",
+    "title": "Lehanga",
+    "artist": "Jass Manak",
+    "movie": "",
+    "genre": "red-herring"
+  },
+  {
+    "id": "naah",
+    "title": "Naah",
+    "artist": "Harrdy Sandhu",
+    "movie": "",
+    "genre": "red-herring"
+  },
+  {
+    "id": "kya-baat-ay",
+    "title": "Kya Baat Ay",
+    "artist": "Harrdy Sandhu",
+    "movie": "",
+    "genre": "red-herring"
+  },
+  {
+    "id": "na-ja",
+    "title": "Na Ja",
+    "artist": "Pav Dharia",
+    "movie": "",
+    "genre": "red-herring"
+  },
+  {
+    "id": "proper-patola",
+    "title": "Proper Patola",
+    "artist": "Diljit Dosanjh, Badshah, Aastha Gill",
+    "movie": "Namaste England",
+    "genre": "red-herring"
+  },
+  {
+    "id": "muqabla",
+    "title": "Muqabla",
+    "artist": "Yash Narvekar, Parampara Thakur",
+    "movie": "Street Dancer 3D",
+    "genre": "red-herring"
+  },
+  {
+    "id": "makhna",
+    "title": "Makhna",
+    "artist": "Tanishk Bagchi, Yasser Desai, Asees Kaur",
+    "movie": "Drive",
+    "genre": "red-herring"
+  },
+  {
+    "id": "param-sundari",
+    "title": "Param Sundari",
+    "artist": "Shreya Ghoshal",
+    "movie": "Mimi",
+    "genre": "red-herring"
+  },
+  {
+    "id": "srivalli",
+    "title": "Srivalli",
+    "artist": "Javed Ali",
+    "movie": "Pushpa",
+    "genre": "red-herring"
+  },
+  {
+    "id": "oo-bolega-ya-oo-oo-bolega",
+    "title": "Oo Bolega Ya Oo Oo Bolega",
+    "artist": "Kanika Kapoor",
+    "movie": "Pushpa",
+    "genre": "red-herring"
+  },
+  {
+    "id": "saami-saami",
+    "title": "Saami Saami",
+    "artist": "Sunidhi Chauhan",
+    "movie": "Pushpa",
+    "genre": "red-herring"
+  },
+  {
+    "id": "raataan-lambiyan",
+    "title": "Raataan Lambiyan",
+    "artist": "Jubin Nautiyal, Asees Kaur",
+    "movie": "Shershaah",
+    "genre": "red-herring"
+  },
+  {
+    "id": "ranjha",
+    "title": "Ranjha",
+    "artist": "B Praak, Jasleen Royal",
+    "movie": "Shershaah",
+    "genre": "red-herring"
+  },
+  {
+    "id": "mann-bharryaa-2-0",
+    "title": "Mann Bharryaa 2.0",
+    "artist": "B Praak",
+    "movie": "Shershaah",
+    "genre": "red-herring"
   }
 ]
