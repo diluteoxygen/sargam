@@ -1,0 +1,1943 @@
+[
+  {
+    "id": "tum-hi-ho",
+    "title": "Tum Hi Ho",
+    "movie": "Aashiqui 2",
+    "artist": "Arijit Singh",
+    "genre": "new-age",
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Ftum-hi-ho.m4a?alt=media",
+    "startTime": 0,
+    "difficulty": "easy"
+  },
+  {
+    "id": "kal-ho-naa-ho",
+    "title": "Kal Ho Naa Ho",
+    "movie": "Kal Ho Naa Ho",
+    "artist": "Sonu Nigam",
+    "genre": "new-age",
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fkal-ho-naa-ho.m4a?alt=media",
+    "startTime": 0,
+    "difficulty": "hard"
+  },
+  {
+    "id": "chaiyya-chaiyya",
+    "title": "Chaiyya Chaiyya",
+    "movie": "Dil Se",
+    "artist": "Sukhwinder Singh",
+    "genre": "golden-era",
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fchaiyya-chaiyya.m4a?alt=media",
+    "startTime": 0,
+    "difficulty": "easy"
+  },
+  {
+    "id": "kabira",
+    "title": "Kabira",
+    "movie": "Yeh Jawaani Hai Deewani",
+    "artist": "Tochi Raina",
+    "genre": "new-age",
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fkabira.m4a?alt=media",
+    "startTime": 0,
+    "difficulty": "easy"
+  },
+  {
+    "id": "gerua",
+    "title": "Gerua",
+    "movie": "Dilwale",
+    "artist": "Arijit Singh",
+    "genre": "new-age",
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fgerua.m4a?alt=media",
+    "startTime": 22.974375,
+    "difficulty": "easy"
+  },
+  {
+    "id": "tujhe-dekha-to",
+    "title": "Tujhe Dekha To",
+    "movie": "DDLJ",
+    "artist": "Lata Mangeshkar",
+    "genre": "golden-era",
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Ftujhe-dekha-to.m4a?alt=media",
+    "startTime": 4.526105,
+    "difficulty": "easy"
+  },
+  {
+    "id": "channa-mereya",
+    "title": "Channa Mereya",
+    "movie": "Ae Dil Hai Mushkil",
+    "artist": "Arijit Singh",
+    "genre": "new-age",
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fchanna-mereya.m4a?alt=media",
+    "startTime": 0,
+    "difficulty": "easy"
+  },
+  {
+    "id": "kar-har-maidaan-fateh",
+    "title": "Kar Har Maidaan Fateh",
+    "movie": "Sanju",
+    "artist": "Sukhwinder Singh",
+    "genre": "new-age",
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fkar-har-maidaan-fateh.m4a?alt=media",
+    "startTime": 0,
+    "difficulty": "easy"
+  },
+  {
+    "id": "mere-naam-tu",
+    "title": "Mere Naam Tu",
+    "movie": "Zero",
+    "artist": "Abhay Jodhpurkar",
+    "genre": "new-age",
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fmere-naam-tu.m4a?alt=media",
+    "startTime": 0,
+    "difficulty": "easy"
+  },
+  {
+    "id": "ghungroo",
+    "title": "Ghungroo",
+    "movie": "War",
+    "artist": "Arijit Singh",
+    "genre": "new-age",
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fghungroo.m4a?alt=media",
+    "startTime": 0,
+    "difficulty": "easy"
+  },
+  {
+    "id": "ilahi",
+    "title": "Ilahi",
+    "movie": "Yeh Jawaani Hai Deewani",
+    "artist": "Arijit Singh",
+    "genre": "new-age",
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Filahi.m4a?alt=media",
+    "startTime": 0,
+    "difficulty": "easy"
+  },
+  {
+    "id": "dilbar",
+    "title": "Dilbar",
+    "movie": "Satyameva Jayate",
+    "artist": "Neha Kakkar",
+    "genre": "new-age",
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fdilbar.m4a?alt=media",
+    "startTime": 0,
+    "difficulty": "easy"
+  },
+  {
+    "id": "malhari",
+    "title": "Malhari",
+    "movie": "Bajirao Mastani",
+    "artist": "Vishal Dadlani",
+    "genre": "new-age",
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fmalhari.m4a?alt=media",
+    "startTime": 0,
+    "difficulty": "easy"
+  },
+  {
+    "id": "pehla-nasha",
+    "title": "Pehla Nasha",
+    "movie": "Jo Jeeta Wohi Sikandar",
+    "artist": "Udit Narayan",
+    "genre": "golden-era",
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fpehla-nasha.m4a?alt=media",
+    "startTime": 0,
+    "difficulty": "hard"
+  },
+  {
+    "id": "kuch-kuch-hota-hai",
+    "title": "Kuch Kuch Hota Hai",
+    "movie": "Kuch Kuch Hota Hai",
+    "artist": "Udit Narayan",
+    "genre": "golden-era",
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fkuch-kuch-hota-hai.m4a?alt=media",
+    "startTime": 0,
+    "difficulty": "hard"
+  },
+  {
+    "id": "yeh-dosti",
+    "title": "Yeh Dosti Hum Nahi Todenge",
+    "movie": "Sholay",
+    "artist": "Kishore Kumar",
+    "genre": "golden-era",
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fyeh-dosti.m4a?alt=media",
+    "startTime": 6.905224,
+    "difficulty": "hard"
+  },
+  {
+    "id": "roop-tera-mastana",
+    "title": "Roop Tera Mastana",
+    "movie": "Aradhana",
+    "artist": "Kishore Kumar",
+    "genre": "golden-era",
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Froop-tera-mastana.m4a?alt=media",
+    "startTime": 4.824246,
+    "difficulty": "hard"
+  },
+  {
+    "id": "kabhi-kabhie-mere-dil-mein",
+    "title": "Kabhi Kabhie Mere Dil Mein",
+    "movie": "Kabhi Kabhie",
+    "artist": "Mukesh",
+    "genre": "golden-era",
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fkabhi-kabhie-mere-dil-mein.m4a?alt=media",
+    "startTime": 0,
+    "difficulty": "hard"
+  },
+  {
+    "id": "ek-ladki-ko-dekha",
+    "title": "Ek Ladki Ko Dekha",
+    "movie": "1942 A Love Story",
+    "artist": "Kumar Sanu",
+    "genre": "golden-era",
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fek-ladki-ko-dekha.m4a?alt=media",
+    "startTime": 0
+  },
+  {
+    "id": "tip-tip-barsa-paani",
+    "title": "Tip Tip Barsa Paani",
+    "movie": "Mohra",
+    "artist": "Udit Narayan",
+    "genre": "golden-era",
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Ftip-tip-barsa-paani.m4a?alt=media",
+    "startTime": 0.105
+  },
+  {
+    "id": "chura-liya-hai",
+    "title": "Chura Liya Hai Tumne Jo Dil Ko",
+    "movie": "Yaadon Ki Baaraat",
+    "artist": "Mohammed Rafi",
+    "genre": "golden-era",
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fchura-liya-hai.m4a?alt=media",
+    "startTime": 0
+  },
+  {
+    "id": "lag-ja-gale",
+    "title": "Lag Ja Gale",
+    "movie": "Woh Kaun Thi",
+    "artist": "Lata Mangeshkar",
+    "genre": "golden-era",
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Flag-ja-gale.m4a?alt=media",
+    "startTime": 0.044
+  },
+  {
+    "id": "tere-bina-zindagi-se",
+    "title": "Tere Bina Zindagi Se",
+    "movie": "Aandhi",
+    "artist": "Kishore Kumar",
+    "genre": "golden-era",
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Ftere-bina-zindagi-se.m4a?alt=media",
+    "startTime": 0.15
+  },
+  {
+    "id": "mere-sapnon-ki-rani",
+    "title": "Mere Sapnon Ki Rani",
+    "movie": "Aradhana",
+    "artist": "Kishore Kumar",
+    "genre": "golden-era",
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fmere-sapnon-ki-rani.m4a?alt=media",
+    "startTime": 0.196
+  },
+  {
+    "id": "dil-deewana",
+    "title": "Dil Deewana",
+    "movie": "Maine Pyar Kiya",
+    "artist": "S. P. Balasubrahmanyam",
+    "genre": "golden-era",
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fdil-deewana.m4a?alt=media",
+    "startTime": 0.156
+  },
+  {
+    "id": "mehndi-laga-ke-rakhna",
+    "title": "Mehndi Laga Ke Rakhna",
+    "movie": "DDLJ",
+    "artist": "Lata Mangeshkar",
+    "genre": "golden-era",
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fmehndi-laga-ke-rakhna.m4a?alt=media",
+    "startTime": 0.033
+  },
+  {
+    "id": "baazigar-o-baazigar",
+    "title": "Baazigar O Baazigar",
+    "movie": "Baazigar",
+    "artist": "Kumar Sanu",
+    "genre": "golden-era",
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fbaazigar-o-baazigar.m4a?alt=media",
+    "startTime": 0.139
+  },
+  {
+    "id": "didi-tera-devar-deewana",
+    "title": "Didi Tera Devar Deewana",
+    "movie": "Hum Aapke Hain Koun",
+    "artist": "Lata Mangeshkar",
+    "genre": "golden-era",
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fdidi-tera-devar-deewana.m4a?alt=media",
+    "startTime": 0.447
+  },
+  {
+    "id": "badan-pe-sitare",
+    "title": "Badan Pe Sitare Lapete Huye",
+    "movie": "Prince",
+    "artist": "Mohammed Rafi",
+    "genre": "golden-era",
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fbadan-pe-sitare.m4a?alt=media",
+    "startTime": 0.079
+  },
+  {
+    "id": "in-ankhon-ki-masti",
+    "title": "In Ankhon Ki Masti",
+    "movie": "Umrao Jaan",
+    "artist": "Asha Bhosle",
+    "genre": "golden-era",
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fin-ankhon-ki-masti.m4a?alt=media",
+    "startTime": 0.488
+  },
+  {
+    "id": "dum-maaro-dum",
+    "title": "Dum Maaro Dum",
+    "movie": "Hare Rama Hare Krishna",
+    "artist": "Asha Bhosle",
+    "genre": "golden-era",
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fdum-maaro-dum.m4a?alt=media",
+    "startTime": 0.198
+  },
+  {
+    "id": "om-shanti-om-karz",
+    "title": "Om Shanti Om",
+    "movie": "Karz",
+    "artist": "Kishore Kumar",
+    "genre": "golden-era",
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fom-shanti-om-karz.m4a?alt=media",
+    "startTime": 0.183
+  },
+  {
+    "id": "papa-kehte-hain",
+    "title": "Papa Kehte Hain",
+    "movie": "Qayamat Se Qayamat Tak",
+    "artist": "Udit Narayan",
+    "genre": "golden-era",
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fpapa-kehte-hain.m4a?alt=media",
+    "startTime": 0.119
+  },
+  {
+    "id": "sandese-aate-hain",
+    "title": "Sandese Aate Hain",
+    "movie": "Border",
+    "artist": "Sonu Nigam",
+    "genre": "golden-era",
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fsandese-aate-hain.m4a?alt=media",
+    "startTime": 0.227
+  },
+  {
+    "id": "kya-hua-tera-wada",
+    "title": "Kya Hua Tera Wada",
+    "movie": "Hum Kisise Kum Naheen",
+    "artist": "Mohammed Rafi",
+    "genre": "golden-era",
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fkya-hua-tera-wada.m4a?alt=media",
+    "startTime": 0
+  },
+  {
+    "id": "jai-ho",
+    "title": "Jai Ho",
+    "movie": "Slumdog Millionaire",
+    "artist": "A. R. Rahman",
+    "genre": "new-age",
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fjai-ho.m4a?alt=media",
+    "startTime": 0.42
+  },
+  {
+    "id": "kun-faya-kun",
+    "title": "Kun Faya Kun",
+    "movie": "Rockstar",
+    "artist": "A. R. Rahman",
+    "genre": "new-age",
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fkun-faya-kun.m4a?alt=media",
+    "startTime": 6.904
+  },
+  {
+    "id": "tum-se-hi",
+    "title": "Tum Se Hi",
+    "movie": "Jab We Met",
+    "artist": "Mohit Chauhan",
+    "genre": "new-age",
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Ftum-se-hi.m4a?alt=media",
+    "startTime": 0.181
+  },
+  {
+    "id": "mitwa",
+    "title": "Mitwa",
+    "movie": "Kabhi Alvida Naa Kehna",
+    "artist": "Shafqat Amanat Ali",
+    "genre": "new-age",
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fmitwa.m4a?alt=media",
+    "startTime": 0
+  },
+  {
+    "id": "senorita",
+    "title": "Senorita",
+    "movie": "Zindagi Na Milegi Dobara",
+    "artist": "Farhan Akhtar",
+    "genre": "new-age",
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fsenorita.m4a?alt=media",
+    "startTime": 0.363
+  },
+  {
+    "id": "tere-bina",
+    "title": "Tere Bina",
+    "movie": "Guru",
+    "artist": "A. R. Rahman",
+    "genre": "new-age",
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Ftere-bina.m4a?alt=media",
+    "startTime": 0.856
+  },
+  {
+    "id": "raabta",
+    "title": "Raabta",
+    "movie": "Agent Vinod",
+    "artist": "Arijit Singh",
+    "genre": "new-age",
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fraabta.m4a?alt=media",
+    "startTime": 0.183
+  },
+  {
+    "id": "galliyan",
+    "title": "Galliyan",
+    "movie": "Ek Villain",
+    "artist": "Ankit Tiwari",
+    "genre": "new-age",
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fgalliyan.m4a?alt=media",
+    "startTime": 0.744
+  },
+  {
+    "id": "mast-magan",
+    "title": "Mast Magan",
+    "movie": "2 States",
+    "artist": "Arijit Singh",
+    "genre": "new-age",
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fmast-magan.m4a?alt=media",
+    "startTime": 4.422
+  },
+  {
+    "id": "agar-tum-saath-ho",
+    "title": "Agar Tum Saath Ho",
+    "movie": "Tamasha",
+    "artist": "Arijit Singh",
+    "genre": "new-age",
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fagar-tum-saath-ho.m4a?alt=media",
+    "startTime": 0.466
+  },
+  {
+    "id": "zaalima",
+    "title": "Zaalima",
+    "movie": "Raees",
+    "artist": "Arijit Singh",
+    "genre": "new-age",
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fzaalima.m4a?alt=media",
+    "startTime": 0.544
+  },
+  {
+    "id": "dil-diyan-gallan",
+    "title": "Dil Diyan Gallan",
+    "movie": "Tiger Zinda Hai",
+    "artist": "Atif Aslam",
+    "genre": "new-age",
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fdil-diyan-gallan.m4a?alt=media",
+    "startTime": 1.576
+  },
+  {
+    "id": "tera-ban-jaunga",
+    "title": "Tera Ban Jaunga",
+    "movie": "Kabir Singh",
+    "artist": "Akhil Sachdeva",
+    "genre": "new-age",
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Ftera-ban-jaunga.m4a?alt=media",
+    "startTime": 0.672
+  },
+  {
+    "id": "shayad",
+    "title": "Shayad",
+    "movie": "Love Aaj Kal",
+    "artist": "Arijit Singh",
+    "genre": "new-age",
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fshayad.m4a?alt=media",
+    "startTime": 0.855
+  },
+  {
+    "id": "kesariya",
+    "title": "Kesariya",
+    "movie": "Brahmastra",
+    "artist": "Arijit Singh",
+    "genre": "new-age",
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fkesariya.m4a?alt=media",
+    "startTime": 0.17
+  },
+  {
+    "id": "apna-bana-le",
+    "title": "Apna Bana Le",
+    "movie": "Bhediya",
+    "artist": "Arijit Singh",
+    "genre": "new-age",
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fapna-bana-le.m4a?alt=media",
+    "startTime": 1.729
+  },
+  {
+    "id": "jhoome-jo-pathaan",
+    "title": "Jhoome Jo Pathaan",
+    "movie": "Pathaan",
+    "artist": "Arijit Singh",
+    "genre": "new-age",
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fjhoome-jo-pathaan.m4a?alt=media",
+    "startTime": 0
+  },
+  {
+    "id": "tere-vaaste",
+    "title": "Tere Vaaste",
+    "movie": "Zara Hatke Zara Bachke",
+    "artist": "Varun Jain",
+    "genre": "new-age",
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Ftere-vaaste.m4a?alt=media",
+    "startTime": 0.513
+  },
+  {
+    "id": "chaleya",
+    "title": "Chaleya",
+    "movie": "Jawan",
+    "artist": "Arijit Singh",
+    "genre": "new-age",
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fchaleya.m4a?alt=media",
+    "startTime": 0.181
+  },
+  {
+    "id": "satranga",
+    "title": "Satranga",
+    "movie": "Animal",
+    "artist": "Arijit Singh",
+    "genre": "new-age",
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fsatranga.m4a?alt=media",
+    "startTime": 0.518
+  },
+  {
+    "id": "o-maahi",
+    "title": "O Maahi",
+    "movie": "Dunki",
+    "artist": "Arijit Singh",
+    "genre": "new-age",
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fo-maahi.m4a?alt=media",
+    "startTime": 0.558
+  },
+  {
+    "id": "pee-loon",
+    "title": "Pee Loon",
+    "movie": "Once Upon A Time In Mumbaai",
+    "artist": "Mohit Chauhan",
+    "genre": "new-age",
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fpee-loon.m4a?alt=media",
+    "startTime": 0.243
+  },
+  {
+    "id": "haule-haule",
+    "title": "Haule Haule",
+    "movie": "Rab Ne Bana Di Jodi",
+    "artist": "Sukhwinder Singh",
+    "genre": "new-age",
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fhaule-haule.m4a?alt=media",
+    "startTime": 0.311
+  },
+  {
+    "id": "tujh-mein-rab-dikhta-hai",
+    "title": "Tujh Mein Rab Dikhta Hai",
+    "movie": "Rab Ne Bana Di Jodi",
+    "artist": "Roop Kumar Rathod",
+    "genre": "new-age",
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Ftujh-mein-rab-dikhta-hai.m4a?alt=media",
+    "startTime": 0.148
+  },
+  {
+    "id": "aankh-marey",
+    "title": "Aankh Marey",
+    "movie": "Simmba",
+    "artist": "Neha Kakkar",
+    "genre": "new-age",
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Faankh-marey.m4a?alt=media",
+    "startTime": 0.097
+  },
+  {
+    "id": "balam-pichkari",
+    "title": "Balam Pichkari",
+    "movie": "Yeh Jawaani Hai Deewani",
+    "artist": "Vishal Dadlani",
+    "genre": "new-age",
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fbalam-pichkari.m4a?alt=media",
+    "startTime": 0.098
+  },
+  {
+    "id": "deva-deva",
+    "title": "Deva Deva",
+    "movie": "Brahmastra",
+    "artist": "Arijit Singh",
+    "genre": "new-age",
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fdeva-deva.m4a?alt=media",
+    "startTime": 0.07
+  },
+  {
+    "id": "saiyaara",
+    "title": "Saiyaara",
+    "movie": "Ek Tha Tiger",
+    "artist": "Mohit Chauhan",
+    "genre": "new-age",
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fsaiyaara.m4a?alt=media",
+    "startTime": 0.265
+  },
+  {
+    "id": "high-rated-gabru",
+    "title": "High Rated Gabru",
+    "movie": "Nawabzaade",
+    "artist": "Guru Randhawa",
+    "genre": "new-age",
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fhigh-rated-gabru.m4a?alt=media",
+    "startTime": 0.073
+  },
+  {
+    "id": "lahore",
+    "title": "Lahore",
+    "movie": "Street Dancer 3D",
+    "artist": "Guru Randhawa",
+    "genre": "new-age",
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Flahore.m4a?alt=media",
+    "startTime": 0.273
+  },
+  {
+    "id": "suit-suit",
+    "title": "Suit Suit",
+    "movie": "Hindi Medium",
+    "artist": "Guru Randhawa",
+    "genre": "new-age",
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fsuit-suit.m4a?alt=media",
+    "startTime": 0.592
+  },
+  {
+    "id": "naach-meri-rani",
+    "title": "Naach Meri Rani",
+    "movie": "Single",
+    "artist": "Guru Randhawa",
+    "genre": "new-age",
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fnaach-meri-rani.m4a?alt=media",
+    "startTime": 0.03
+  },
+  {
+    "id": "brown-munde",
+    "title": "Brown Munde",
+    "movie": "Single",
+    "artist": "AP Dhillon",
+    "genre": "new-age",
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fbrown-munde.m4a?alt=media",
+    "startTime": 0.227
+  },
+  {
+    "id": "with-you",
+    "title": "With You",
+    "movie": "Single",
+    "artist": "AP Dhillon",
+    "genre": "new-age",
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fwith-you.m4a?alt=media",
+    "startTime": 0
+  },
+  {
+    "id": "insane",
+    "title": "Insane",
+    "movie": "Single",
+    "artist": "AP Dhillon",
+    "genre": "new-age",
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Finsane.m4a?alt=media",
+    "startTime": 0.062
+  },
+  {
+    "id": "dil-nu",
+    "title": "Dil Nu",
+    "movie": "Single",
+    "artist": "AP Dhillon",
+    "genre": "new-age",
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fdil-nu.m4a?alt=media",
+    "startTime": 0.276
+  },
+  {
+    "id": "tauba-tauba",
+    "title": "Tauba Tauba",
+    "movie": "Bad Newz",
+    "artist": "Karan Aujla",
+    "genre": "new-age",
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Ftauba-tauba.m4a?alt=media",
+    "startTime": 0.092
+  },
+  {
+    "id": "softly",
+    "title": "Softly",
+    "movie": "Making Memories",
+    "artist": "Karan Aujla",
+    "genre": "new-age",
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fsoftly.m4a?alt=media",
+    "startTime": 0.055
+  },
+  {
+    "id": "winning-speech",
+    "title": "Winning Speech",
+    "movie": "Single",
+    "artist": "Karan Aujla",
+    "genre": "new-age",
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fwinning-speech.m4a?alt=media",
+    "startTime": 1.106
+  },
+  {
+    "id": "white-brown-black",
+    "title": "White Brown Black",
+    "movie": "Single",
+    "artist": "Karan Aujla",
+    "genre": "new-age",
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fwhite-brown-black.m4a?alt=media",
+    "startTime": 0.668
+  },
+  {
+    "id": "arjan-vailly",
+    "title": "Arjan Vailly",
+    "movie": "Animal",
+    "artist": "Bhupinder Babbal",
+    "genre": "new-age",
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Farjan-vailly.m4a?alt=media",
+    "startTime": 0.575
+  },
+  {
+    "id": "pehle-bhi-main",
+    "title": "Pehle Bhi Main",
+    "movie": "Animal",
+    "artist": "Vishal Mishra",
+    "genre": "new-age",
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fpehle-bhi-main.m4a?alt=media",
+    "startTime": 0.445
+  },
+  {
+    "id": "hua-main",
+    "title": "Hua Main",
+    "movie": "Animal",
+    "artist": "Raghav Chaitanya",
+    "genre": "new-age",
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fhua-main.m4a?alt=media",
+    "startTime": 0.378
+  },
+  {
+    "id": "saari-duniya-jalaa-denge",
+    "title": "Saari Duniya Jalaa Denge",
+    "movie": "Animal",
+    "artist": "B Praak",
+    "genre": "new-age",
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fsaari-duniya-jalaa-denge.m4a?alt=media",
+    "startTime": 0.491
+  },
+  {
+    "id": "aaj-ki-raat",
+    "title": "Aaj Ki Raat",
+    "movie": "Stree 2",
+    "artist": "Madhubanti Bagchi",
+    "genre": "new-age",
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Faaj-ki-raat.m4a?alt=media",
+    "startTime": 0
+  },
+  {
+    "id": "aayi-nai",
+    "title": "Aayi Nai",
+    "movie": "Stree 2",
+    "artist": "Pawan Singh",
+    "genre": "new-age",
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Faayi-nai.m4a?alt=media",
+    "startTime": 0.398
+  },
+  {
+    "id": "taras",
+    "title": "Taras",
+    "movie": "Munjya",
+    "artist": "Jasmine Sandlas",
+    "genre": "new-age",
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Ftaras.m4a?alt=media",
+    "startTime": 0.087
+  },
+  {
+    "id": "sajni",
+    "title": "Sajni",
+    "movie": "Laapataa Ladies",
+    "artist": "Arijit Singh",
+    "genre": "new-age",
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fsajni.m4a?alt=media",
+    "startTime": 0.064
+  },
+  {
+    "id": "naina-crew",
+    "title": "Naina",
+    "movie": "Crew",
+    "artist": "Diljit Dosanjh",
+    "genre": "new-age",
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fnaina-crew.m4a?alt=media",
+    "startTime": 0
+  },
+  {
+    "id": "akhiyaan-gulaab",
+    "title": "Akhiyaan Gulaab",
+    "movie": "TBMAUJ",
+    "artist": "Mitraz",
+    "genre": "new-age",
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fakhiyaan-gulaab.m4a?alt=media",
+    "startTime": 0.111
+  },
+  {
+    "id": "lutt-putt-gaya",
+    "title": "Lutt Putt Gaya",
+    "movie": "Dunki",
+    "artist": "Arijit Singh",
+    "genre": "new-age",
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Flutt-putt-gaya.m4a?alt=media",
+    "startTime": 0.698
+  },
+  {
+    "id": "ve-kamleya",
+    "title": "Ve Kamleya",
+    "movie": "Rocky Aur Rani",
+    "artist": "Arijit Singh",
+    "genre": "new-age",
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fve-kamleya.m4a?alt=media",
+    "startTime": 0.326
+  },
+  {
+    "id": "what-jhumka",
+    "title": "What Jhumka?",
+    "movie": "Rocky Aur Rani",
+    "artist": "Arijit Singh",
+    "genre": "new-age",
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fwhat-jhumka.m4a?alt=media",
+    "startTime": 0.358
+  },
+  {
+    "id": "chuttamalle",
+    "title": "Chuttamalle",
+    "movie": "Devara",
+    "artist": "Shilpa Rao",
+    "genre": "new-age",
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fchuttamalle.m4a?alt=media",
+    "startTime": 0.196
+  },
+  {
+    "id": "dhun-saiyaara",
+    "title": "Dhun",
+    "movie": "Saiyaara",
+    "artist": "Arijit Singh",
+    "genre": "new-age",
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fdhun-saiyaara.m4a?alt=media",
+    "startTime": 0.039
+  },
+  {
+    "id": "barbaad-saiyaara",
+    "title": "Barbaad",
+    "movie": "Saiyaara",
+    "artist": "Jubin Nautiyal",
+    "genre": "new-age",
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fbarbaad-saiyaara.m4a?alt=media",
+    "startTime": 0.472
+  },
+  {
+    "id": "tum-ho-toh-saiyaara",
+    "title": "Tum Ho Toh",
+    "movie": "Saiyaara",
+    "artist": "Vishal Mishra",
+    "genre": "new-age",
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Ftum-ho-toh-saiyaara.m4a?alt=media",
+    "startTime": 0.169
+  },
+  {
+    "id": "humsafar-saiyaara",
+    "title": "Humsafar",
+    "movie": "Saiyaara",
+    "artist": "Sachet-Parampara",
+    "genre": "new-age",
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fhumsafar-saiyaara.m4a?alt=media",
+    "startTime": 0.117
+  },
+  {
+    "id": "saiyaara-title-track",
+    "title": "Saiyaara (Title Track)",
+    "movie": "Saiyaara",
+    "artist": "Faheem Abdullah",
+    "genre": "new-age",
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fsaiyaara-title-track.m4a?alt=media",
+    "startTime": 0.347
+  },
+  {
+    "id": "mashallah",
+    "title": "Mashallah",
+    "movie": "Ek Tha Tiger",
+    "artist": "Wajid",
+    "genre": "new-age",
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fmashallah.m4a?alt=media",
+    "startTime": 0.78
+  },
+  {
+    "id": "banjaara",
+    "title": "Banjaara",
+    "movie": "Ek Tha Tiger",
+    "artist": "Sukhwinder Singh",
+    "genre": "new-age",
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fbanjaara.m4a?alt=media",
+    "startTime": 0.033
+  },
+  {
+    "id": "laapata",
+    "title": "Laapata",
+    "movie": "Ek Tha Tiger",
+    "artist": "KK",
+    "genre": "new-age",
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Flaapata.m4a?alt=media",
+    "startTime": 0.125
+  },
+  {
+    "title": "Tu Hi Disda",
+    "movie": "Bhooth Bangla",
+    "artist": "Arijit Singh, Nikhita Gandhi",
+    "genre": "new-age",
+    "year": 2026,
+    "id": "049aab99-47e1-4886-9325-387f756478e7",
+    "startTime": 0.41,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F049aab99-47e1-4886-9325-387f756478e7.m4a?alt=media"
+  },
+  {
+    "title": "Sitaare",
+    "movie": "Ikkis",
+    "artist": "Arijit Singh",
+    "genre": "new-age",
+    "year": 2026,
+    "id": "4fa2fd2d-230c-440f-94e0-5f2c57e9fe81",
+    "startTime": 0.75,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F4fa2fd2d-230c-440f-94e0-5f2c57e9fe81.m4a?alt=media"
+  },
+  {
+    "title": "Ban Ke Dikha",
+    "movie": "Ikkis",
+    "artist": "Vishal Dadlani",
+    "genre": "new-age",
+    "year": 2026,
+    "id": "b461a221-6801-4e88-a67c-813b37c01160",
+    "startTime": 0.482,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fb461a221-6801-4e88-a67c-813b37c01160.m4a?alt=media"
+  },
+  {
+    "title": "Jaiye Sajana",
+    "movie": "Dhurandhar The Revenge",
+    "artist": "B Praak",
+    "genre": "new-age",
+    "year": 2026,
+    "id": "c141be9c-d9f9-425a-938e-52bef9451149",
+    "startTime": 0,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fc141be9c-d9f9-425a-938e-52bef9451149.m4a?alt=media"
+  },
+  {
+    "title": "Hum Dono",
+    "movie": "Single",
+    "artist": "Vishal Dadlani, Shruti Pathak",
+    "genre": "new-age",
+    "year": 2026,
+    "id": "9c39e20f-9678-4d9c-92e8-a5311460f058",
+    "startTime": 0,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F9c39e20f-9678-4d9c-92e8-a5311460f058.m4a?alt=media"
+  },
+  {
+    "title": "Arz Kiya Hai",
+    "movie": "Coke Studio Bharat",
+    "artist": "Anuv Jain",
+    "genre": "new-age",
+    "year": 2026,
+    "id": "b7cc1ba7-2bd6-475d-8e11-38062cb4348c",
+    "startTime": 0.173,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fb7cc1ba7-2bd6-475d-8e11-38062cb4348c.m4a?alt=media"
+  },
+  {
+    "title": "Tu Hai Toh Main Hoon",
+    "movie": "Sky Force",
+    "artist": "Arijit Singh, Afsana Khan",
+    "genre": "new-age",
+    "year": 2025,
+    "id": "441fad9d-9420-453c-bc7c-31510a5b9438",
+    "startTime": 0.371,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F441fad9d-9420-453c-bc7c-31510a5b9438.m4a?alt=media"
+  },
+  {
+    "title": "Panwadi",
+    "movie": "Sunny Sanskari Ki Tulsi Kumari",
+    "artist": "Badshah",
+    "genre": "new-age",
+    "year": 2025,
+    "id": "67a3b723-f581-45cb-b7b8-6f2f443ef513",
+    "startTime": 0,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F67a3b723-f581-45cb-b7b8-6f2f443ef513.m4a?alt=media"
+  },
+  {
+    "title": "Dhurandar",
+    "movie": "Dhurandhar",
+    "artist": "Sachet Tandon",
+    "genre": "new-age",
+    "year": 2025,
+    "id": "a291d23b-a054-43a1-ae6e-b1e94720daab",
+    "startTime": 0.051,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fa291d23b-a054-43a1-ae6e-b1e94720daab.m4a?alt=media"
+  },
+  {
+    "title": "Admirin You",
+    "movie": "Making Memories",
+    "artist": "Karan Aujla",
+    "genre": "new-age",
+    "year": 2023,
+    "id": "daf3616a-3cd4-466c-b101-896ec4752b6e",
+    "startTime": 0.359,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fdaf3616a-3cd4-466c-b101-896ec4752b6e.m4a?alt=media"
+  },
+  {
+    "title": "Try Me",
+    "movie": "Making Memories",
+    "artist": "Karan Aujla",
+    "genre": "new-age",
+    "year": 2023,
+    "id": "8951aba2-0b3f-4caa-ab64-018b38d5b9ba",
+    "startTime": 0.032,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F8951aba2-0b3f-4caa-ab64-018b38d5b9ba.m4a?alt=media"
+  },
+  {
+    "title": "True Stories",
+    "movie": "Single",
+    "artist": "AP Dhillon",
+    "genre": "new-age",
+    "year": 2023,
+    "id": "4725bef8-24bc-4680-8b65-72abc429de21",
+    "startTime": 0,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F4725bef8-24bc-4680-8b65-72abc429de21.m4a?alt=media"
+  },
+  {
+    "title": "Summer High",
+    "movie": "Single",
+    "artist": "AP Dhillon",
+    "genre": "new-age",
+    "year": 2022,
+    "id": "2feb71c2-d8ef-4e31-a545-8ce2b6255dd8",
+    "startTime": 0.062,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F2feb71c2-d8ef-4e31-a545-8ce2b6255dd8.m4a?alt=media"
+  },
+  {
+    "title": "Lover",
+    "movie": "MoonChild Era",
+    "artist": "Diljit Dosanjh",
+    "genre": "new-age",
+    "year": 2021,
+    "id": "893c028a-690d-4ad1-b1f5-015a9e6ecc3c",
+    "startTime": 0.637,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F893c028a-690d-4ad1-b1f5-015a9e6ecc3c.m4a?alt=media"
+  },
+  {
+    "title": "Peaches",
+    "movie": "Drive Thru",
+    "artist": "Diljit Dosanjh",
+    "genre": "new-age",
+    "year": 2022,
+    "id": "fc4e2cad-f9f7-4cd2-a81b-292ed1636552",
+    "startTime": 0,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Ffc4e2cad-f9f7-4cd2-a81b-292ed1636552.m4a?alt=media"
+  },
+  {
+    "title": "Lemonade",
+    "movie": "Drive Thru",
+    "artist": "Diljit Dosanjh",
+    "genre": "new-age",
+    "year": 2022,
+    "id": "221bde15-a07f-436d-81d8-81cf70024824",
+    "startTime": 0.1,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F221bde15-a07f-436d-81d8-81cf70024824.m4a?alt=media"
+  },
+  {
+    "title": "Hass Hass",
+    "movie": "Single",
+    "artist": "Diljit Dosanjh, Sia",
+    "genre": "new-age",
+    "year": 2023,
+    "id": "3de3107d-0218-4871-b2e9-ec2f5e1f3e19",
+    "startTime": 0.562,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F3de3107d-0218-4871-b2e9-ec2f5e1f3e19.m4a?alt=media"
+  },
+  {
+    "title": "G.O.A.T.",
+    "movie": "G.O.A.T.",
+    "artist": "Diljit Dosanjh",
+    "genre": "new-age",
+    "year": 2020,
+    "id": "c1720319-970e-410c-b3af-0f9d30285c21",
+    "startTime": 0.033,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fc1720319-970e-410c-b3af-0f9d30285c21.m4a?alt=media"
+  },
+  {
+    "title": "Kinni Kinni",
+    "movie": "Single",
+    "artist": "Diljit Dosanjh",
+    "genre": "new-age",
+    "year": 2023,
+    "id": "ae44bfc5-0079-4f07-a9c4-fa05cbda4d0d",
+    "startTime": 0.104,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fae44bfc5-0079-4f07-a9c4-fa05cbda4d0d.m4a?alt=media"
+  },
+  {
+    "title": "Zinda Banda",
+    "movie": "Jawan",
+    "artist": "Anirudh Ravichander",
+    "genre": "new-age",
+    "year": 2023,
+    "id": "a8eb3863-aba6-4ea5-a082-efd8d3d77004",
+    "startTime": 0.06,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fa8eb3863-aba6-4ea5-a082-efd8d3d77004.m4a?alt=media"
+  },
+  {
+    "title": "Not Ramaiya Vastavaiya",
+    "movie": "Jawan",
+    "artist": "Anirudh Ravichander",
+    "genre": "new-age",
+    "year": 2023,
+    "id": "f91cf6e7-2fc3-42f3-bc39-cdb560f53465",
+    "startTime": 0.236,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Ff91cf6e7-2fc3-42f3-bc39-cdb560f53465.m4a?alt=media"
+  },
+  {
+    "title": "Sher Khul Gaye",
+    "movie": "Fighter",
+    "artist": "Vishal-Shekhar, Benny Dayal",
+    "genre": "new-age",
+    "year": 2024,
+    "id": "e33abe92-cd9c-48eb-a663-d5dcaac9c179",
+    "startTime": 0,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fe33abe92-cd9c-48eb-a663-d5dcaac9c179.m4a?alt=media"
+  },
+  {
+    "title": "Ishq Jaisa Kuch",
+    "movie": "Fighter",
+    "artist": "Vishal-Shekhar, Shilpa Rao",
+    "genre": "new-age",
+    "year": 2024,
+    "id": "b0456cc9-8100-426d-b638-57d27e7717b9",
+    "startTime": 0.536,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fb0456cc9-8100-426d-b638-57d27e7717b9.m4a?alt=media"
+  },
+  {
+    "title": "Heeriye",
+    "movie": "Single",
+    "artist": "Arijit Singh, Jasleen Royal",
+    "genre": "new-age",
+    "year": 2023,
+    "id": "600e2712-184e-45ab-8786-6b49a15c6f46",
+    "startTime": 0.561,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F600e2712-184e-45ab-8786-6b49a15c6f46.m4a?alt=media"
+  },
+  {
+    "title": "Phir Aur Kya Chahiye",
+    "movie": "Zara Hatke Zara Bachke",
+    "artist": "Arijit Singh",
+    "genre": "new-age",
+    "year": 2023,
+    "id": "a23261f1-2750-4912-a587-12a1d47dd7f8",
+    "startTime": 0.034,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fa23261f1-2750-4912-a587-12a1d47dd7f8.m4a?alt=media"
+  },
+  {
+    "title": "Tum Kya Mile",
+    "movie": "Rocky Aur Rani Kii Prem Kahaani",
+    "artist": "Arijit Singh, Shreya Ghoshal",
+    "genre": "new-age",
+    "year": 2023,
+    "id": "69f4a727-ef7b-44f1-87e5-a00ce702a8cd",
+    "startTime": 0.638,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F69f4a727-ef7b-44f1-87e5-a00ce702a8cd.m4a?alt=media"
+  },
+  {
+    "title": "O Bedardeya",
+    "movie": "Tu Jhoothi Main Makkaar",
+    "artist": "Arijit Singh",
+    "genre": "new-age",
+    "year": 2023,
+    "id": "90a77dba-f114-49b0-93fc-5d80d7680749",
+    "startTime": 1.425,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F90a77dba-f114-49b0-93fc-5d80d7680749.m4a?alt=media"
+  },
+  {
+    "title": "Tere Pyaar Mein",
+    "movie": "Tu Jhoothi Main Makkaar",
+    "artist": "Arijit Singh",
+    "genre": "new-age",
+    "year": 2023,
+    "id": "c4b28396-09da-41c3-8b83-2f6bc3845c33",
+    "startTime": 8.309,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fc4b28396-09da-41c3-8b83-2f6bc3845c33.m4a?alt=media"
+  },
+  {
+    "title": "Show Me The Thumka",
+    "movie": "Tu Jhoothi Main Makkaar",
+    "artist": "Sunidhi Chauhan, Shashwat Singh",
+    "genre": "new-age",
+    "year": 2023,
+    "id": "0601c3c5-6ffd-4e8a-904d-ab067600af2e",
+    "startTime": 0,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F0601c3c5-6ffd-4e8a-904d-ab067600af2e.m4a?alt=media"
+  },
+  {
+    "title": "Besharam Rang",
+    "movie": "Pathaan",
+    "artist": "Shilpa Rao, Caralisa Monteiro",
+    "genre": "new-age",
+    "year": 2022,
+    "id": "c995221f-7ed8-4480-bb1c-5bcf3ae89383",
+    "startTime": 0.479,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fc995221f-7ed8-4480-bb1c-5bcf3ae89383.m4a?alt=media"
+  },
+  {
+    "title": "Dance Ka Bhoot",
+    "movie": "Brahmastra",
+    "artist": "Arijit Singh",
+    "genre": "new-age",
+    "year": 2022,
+    "id": "3b8165e3-1595-45cf-85c6-4c0e8b9d33ba",
+    "startTime": 0.664,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F3b8165e3-1595-45cf-85c6-4c0e8b9d33ba.m4a?alt=media"
+  },
+  {
+    "title": "Raataan Lambiyan",
+    "movie": "Shershaah",
+    "artist": "Jubin Nautiyal, Asees Kaur",
+    "genre": "new-age",
+    "year": 2021,
+    "id": "5353131f-f9ac-4172-8a04-af794d408a63",
+    "startTime": 0.184,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F5353131f-f9ac-4172-8a04-af794d408a63.m4a?alt=media"
+  },
+  {
+    "title": "Ranjha",
+    "movie": "Shershaah",
+    "artist": "B Praak, Jasleen Royal",
+    "genre": "new-age",
+    "year": 2021,
+    "id": "c4754d9f-1e0f-4d1b-a580-73c8def09c5a",
+    "startTime": 1.057,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fc4754d9f-1e0f-4d1b-a580-73c8def09c5a.m4a?alt=media"
+  },
+  {
+    "title": "Manike",
+    "movie": "Thank God",
+    "artist": "Yohani, Jubin Nautiyal",
+    "genre": "new-age",
+    "year": 2022,
+    "id": "f399025a-5f1a-40d0-8946-898ec2bfcc3e",
+    "startTime": 0.58,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Ff399025a-5f1a-40d0-8946-898ec2bfcc3e.m4a?alt=media"
+  },
+  {
+    "title": "Bhool Bhulaiyaa 2 Title Track",
+    "movie": "Bhool Bhulaiyaa 2",
+    "artist": "Neeraj Shridhar",
+    "genre": "new-age",
+    "year": 2022,
+    "id": "d7c5b147-8a41-4720-b917-dbfa72a16a53",
+    "startTime": 0.949,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fd7c5b147-8a41-4720-b917-dbfa72a16a53.m4a?alt=media"
+  },
+  {
+    "title": "Ami Je Tomar",
+    "movie": "Bhool Bhulaiyaa 2",
+    "artist": "Arijit Singh",
+    "genre": "new-age",
+    "year": 2022,
+    "id": "3fd1abfc-fec1-4b31-8851-a6a400088451",
+    "startTime": 0.046,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F3fd1abfc-fec1-4b31-8851-a6a400088451.m4a?alt=media"
+  },
+  {
+    "title": "Sunn Raha Hai",
+    "movie": "Aashiqui 2",
+    "artist": "Ankit Tiwari",
+    "genre": "new-age",
+    "year": 2013,
+    "id": "b1a23870-cf7b-428a-acbf-d57c79d7bf52",
+    "startTime": 0.167,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fb1a23870-cf7b-428a-acbf-d57c79d7bf52.m4a?alt=media"
+  },
+  {
+    "title": "Chahun Main Ya Naa",
+    "movie": "Aashiqui 2",
+    "artist": "Arijit Singh, Palak Muchhal",
+    "genre": "new-age",
+    "year": 2013,
+    "id": "8e0e592e-bc9e-42e9-a89a-6f7914ef2667",
+    "startTime": 0.075,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F8e0e592e-bc9e-42e9-a89a-6f7914ef2667.m4a?alt=media"
+  },
+  {
+    "title": "Zaroorat",
+    "movie": "Ek Villain",
+    "artist": "Mustafa Zahid",
+    "genre": "new-age",
+    "year": 2014,
+    "id": "0f5ec95d-8259-46c5-8bf4-5319211d5495",
+    "startTime": 0,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F0f5ec95d-8259-46c5-8bf4-5319211d5495.m4a?alt=media"
+  },
+  {
+    "title": "Hamari Adhuri Kahani",
+    "movie": "Hamari Adhuri Kahani",
+    "artist": "Arijit Singh",
+    "genre": "new-age",
+    "year": 2015,
+    "id": "34398b1a-b6de-447f-87e7-d036b3e0e1de",
+    "startTime": 0.041,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F34398b1a-b6de-447f-87e7-d036b3e0e1de.m4a?alt=media"
+  },
+  {
+    "title": "Samjhawan",
+    "movie": "Humpty Sharma Ki Dulhania",
+    "artist": "Arijit Singh, Shreya Ghoshal",
+    "genre": "new-age",
+    "year": 2014,
+    "id": "b282f8aa-412f-40cf-b0e4-c5f5e0ed2fcc",
+    "startTime": 0.066,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fb282f8aa-412f-40cf-b0e4-c5f5e0ed2fcc.m4a?alt=media"
+  },
+  {
+    "title": "Laila Main Laila",
+    "movie": "Raees",
+    "artist": "Pawni Pandey",
+    "genre": "new-age",
+    "year": 2017,
+    "id": "c747de97-ecb3-4651-b7a2-569ec2e608f1",
+    "startTime": 0.389,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fc747de97-ecb3-4651-b7a2-569ec2e608f1.m4a?alt=media"
+  },
+  {
+    "title": "Kar Gayi Chull",
+    "movie": "Kapoor & Sons",
+    "artist": "Badshah, Fazilpuria",
+    "genre": "new-age",
+    "year": 2016,
+    "id": "1d84cc7b-ed15-46fe-929f-ed340ea0aebb",
+    "startTime": 0.444,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F1d84cc7b-ed15-46fe-929f-ed340ea0aebb.m4a?alt=media"
+  },
+  {
+    "title": "Bolna",
+    "movie": "Kapoor & Sons",
+    "artist": "Arijit Singh, Asees Kaur",
+    "genre": "new-age",
+    "year": 2016,
+    "id": "d682b772-7a8b-49d1-9c50-af3c9b980629",
+    "startTime": 0.219,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fd682b772-7a8b-49d1-9c50-af3c9b980629.m4a?alt=media"
+  },
+  {
+    "title": "Let's Nacho",
+    "movie": "Kapoor & Sons",
+    "artist": "Badshah, Benny Dayal",
+    "genre": "new-age",
+    "year": 2016,
+    "id": "2945b490-51cc-4ef2-bfdc-f3e6a00409e5",
+    "startTime": 0.162,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F2945b490-51cc-4ef2-bfdc-f3e6a00409e5.m4a?alt=media"
+  },
+  {
+    "title": "Kaun Tujhe",
+    "movie": "M.S. Dhoni",
+    "artist": "Palak Muchhal",
+    "genre": "new-age",
+    "year": 2016,
+    "id": "f51b29ce-4695-4fef-ae4f-96622a49f824",
+    "startTime": 0.471,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Ff51b29ce-4695-4fef-ae4f-96622a49f824.m4a?alt=media"
+  },
+  {
+    "title": "Besabriyaan",
+    "movie": "M.S. Dhoni",
+    "artist": "Armaan Malik",
+    "genre": "new-age",
+    "year": 2016,
+    "id": "0b999e1d-ceec-4889-93d8-c0c496d6ceaf",
+    "startTime": 0.469,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F0b999e1d-ceec-4889-93d8-c0c496d6ceaf.m4a?alt=media"
+  },
+  {
+    "title": "Ae Dil Hai Mushkil",
+    "movie": "Ae Dil Hai Mushkil",
+    "artist": "Arijit Singh",
+    "genre": "new-age",
+    "year": 2016,
+    "id": "ce07ed68-b216-4cba-b649-867370b3d7b7",
+    "startTime": 0.033,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fce07ed68-b216-4cba-b649-867370b3d7b7.m4a?alt=media"
+  },
+  {
+    "title": "Bulleya",
+    "movie": "Ae Dil Hai Mushkil",
+    "artist": "Amit Mishra, Shilpa Rao",
+    "genre": "new-age",
+    "year": 2016,
+    "id": "c0b10130-22d1-43f3-bd57-171af1ce262c",
+    "startTime": 0.22,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fc0b10130-22d1-43f3-bd57-171af1ce262c.m4a?alt=media"
+  },
+  {
+    "title": "Cutiepie",
+    "movie": "Ae Dil Hai Mushkil",
+    "artist": "Pardeep Sran, Nakash Aziz",
+    "genre": "new-age",
+    "year": 2016,
+    "id": "b6dcf4c7-00d6-4c0f-aed2-27668477619b",
+    "startTime": 1.382,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fb6dcf4c7-00d6-4c0f-aed2-27668477619b.m4a?alt=media"
+  },
+  {
+    "title": "Swag Se Swagat",
+    "movie": "Tiger Zinda Hai",
+    "artist": "Vishal Dadlani, Neha Bhasin",
+    "genre": "new-age",
+    "year": 2017,
+    "id": "863e26d3-016f-4ffe-8e45-a2446b4d3c99",
+    "startTime": 0.855,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F863e26d3-016f-4ffe-8e45-a2446b4d3c99.m4a?alt=media"
+  },
+  {
+    "title": "Hawayein",
+    "movie": "Jab Harry Met Sejal",
+    "artist": "Arijit Singh",
+    "genre": "new-age",
+    "year": 2017,
+    "id": "8d99c0ae-e028-47eb-aa5e-f54cb96d0121",
+    "startTime": 1.079,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F8d99c0ae-e028-47eb-aa5e-f54cb96d0121.m4a?alt=media"
+  },
+  {
+    "title": "Radha",
+    "movie": "Jab Harry Met Sejal",
+    "artist": "Sunidhi Chauhan, Shahid Mallya",
+    "genre": "new-age",
+    "year": 2017,
+    "id": "dca17fcf-a3d7-41e2-b5a3-b52b01aad5c7",
+    "startTime": 0.941,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fdca17fcf-a3d7-41e2-b5a3-b52b01aad5c7.m4a?alt=media"
+  },
+  {
+    "title": "Bom Diggy Diggy",
+    "movie": "Sonu Ke Titu Ki Sweety",
+    "artist": "Zack Knight, Jasmin Walia",
+    "genre": "new-age",
+    "year": 2018,
+    "id": "98e99289-d97c-4989-9d3d-2493cae2e57e",
+    "startTime": 0.555,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F98e99289-d97c-4989-9d3d-2493cae2e57e.m4a?alt=media"
+  },
+  {
+    "title": "Dil Chori",
+    "movie": "Sonu Ke Titu Ki Sweety",
+    "artist": "Yo Yo Honey Singh",
+    "genre": "new-age",
+    "year": 2018,
+    "id": "232df5dc-3aec-4037-af11-dd18eace784f",
+    "startTime": 0.648,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F232df5dc-3aec-4037-af11-dd18eace784f.m4a?alt=media"
+  },
+  {
+    "title": "Tere Bin",
+    "movie": "Simmba",
+    "artist": "Rahat Fateh Ali Khan, Asees Kaur",
+    "genre": "new-age",
+    "year": 2018,
+    "id": "62551b35-9d61-41c6-969a-e53238acf939",
+    "startTime": 0.537,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F62551b35-9d61-41c6-969a-e53238acf939.m4a?alt=media"
+  },
+  {
+    "title": "O Saki Saki",
+    "movie": "Batla House",
+    "artist": "Neha Kakkar, Tulsi Kumar",
+    "genre": "new-age",
+    "year": 2019,
+    "id": "813a1401-b19f-4bea-91e3-b137b30bc3a9",
+    "startTime": 0.566,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F813a1401-b19f-4bea-91e3-b137b30bc3a9.m4a?alt=media"
+  },
+  {
+    "title": "Bekhayali",
+    "movie": "Kabir Singh",
+    "artist": "Sachet Tandon",
+    "genre": "new-age",
+    "year": 2019,
+    "id": "b0dcaac5-dd12-4220-92b7-0dee63050de9",
+    "startTime": 0.085,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fb0dcaac5-dd12-4220-92b7-0dee63050de9.m4a?alt=media"
+  },
+  {
+    "title": "Tujhe Kitna Chahne Lage",
+    "movie": "Kabir Singh",
+    "artist": "Arijit Singh",
+    "genre": "new-age",
+    "year": 2019,
+    "id": "0076e547-1e15-4d23-bf15-829c60a3fb00",
+    "startTime": 0.583,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F0076e547-1e15-4d23-bf15-829c60a3fb00.m4a?alt=media"
+  },
+  {
+    "title": "Kaise Hua",
+    "movie": "Kabir Singh",
+    "artist": "Vishal Mishra",
+    "genre": "new-age",
+    "year": 2019,
+    "id": "263627f7-5ac8-4f4f-9944-de520ec52ed0",
+    "startTime": 0,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F263627f7-5ac8-4f4f-9944-de520ec52ed0.m4a?alt=media"
+  },
+  {
+    "title": "Shaitan Ka Saala",
+    "movie": "Housefull 4",
+    "artist": "Sohail Sen, Vishal Dadlani",
+    "genre": "new-age",
+    "year": 2019,
+    "id": "314e84ae-9fd8-4ce2-9eb0-ebc9257fa504",
+    "startTime": 0.141,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F314e84ae-9fd8-4ce2-9eb0-ebc9257fa504.m4a?alt=media"
+  },
+  {
+    "title": "Ho Gaya Hai Tujhko To Pyaar Sajna",
+    "movie": "Dilwale Dulhania Le Jayenge",
+    "artist": "Lata Mangeshkar, Udit Narayan",
+    "genre": "golden-era",
+    "year": 1995,
+    "id": "10a695e1-2df1-453b-979e-ed659999b0e9",
+    "startTime": 0.034,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F10a695e1-2df1-453b-979e-ed659999b0e9.m4a?alt=media"
+  },
+  {
+    "title": "Bholi Si Surat",
+    "movie": "Dil To Pagal Hai",
+    "artist": "Udit Narayan, Lata Mangeshkar",
+    "genre": "golden-era",
+    "year": 1997,
+    "id": "6c6e18e9-5a14-45a4-8af9-30804404e9af",
+    "startTime": 0.047,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F6c6e18e9-5a14-45a4-8af9-30804404e9af.m4a?alt=media"
+  },
+  {
+    "title": "Dil To Pagal Hai",
+    "movie": "Dil To Pagal Hai",
+    "artist": "Lata Mangeshkar, Udit Narayan",
+    "genre": "golden-era",
+    "year": 1997,
+    "id": "87171f56-6273-4fc1-a7d1-fe726d1e81a5",
+    "startTime": 0.942,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F87171f56-6273-4fc1-a7d1-fe726d1e81a5.m4a?alt=media"
+  },
+  {
+    "title": "Koi Mil Gaya",
+    "movie": "Kuch Kuch Hota Hai",
+    "artist": "Udit Narayan, Alka Yagnik, Kavita Krishnamurthy",
+    "genre": "golden-era",
+    "year": 1998,
+    "id": "77752fc6-2bad-4e1f-9081-57b9d3f9e016",
+    "startTime": 3.6,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F77752fc6-2bad-4e1f-9081-57b9d3f9e016.m4a?alt=media"
+  },
+  {
+    "title": "Ladki Badi Anjani Hai",
+    "movie": "Kuch Kuch Hota Hai",
+    "artist": "Kumar Sanu, Alka Yagnik",
+    "genre": "golden-era",
+    "year": 1998,
+    "id": "44605843-c022-44d9-a4f5-40d734f4d76b",
+    "startTime": 3.455,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F44605843-c022-44d9-a4f5-40d734f4d76b.m4a?alt=media"
+  },
+  {
+    "title": "Suraj Hua Maddham",
+    "movie": "Kabhi Khushi Kabhie Gham",
+    "artist": "Sonu Nigam, Alka Yagnik",
+    "genre": "golden-era",
+    "year": 2001,
+    "id": "0113af6e-e83e-4578-b359-9efb5786537f",
+    "startTime": 1.444,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F0113af6e-e83e-4578-b359-9efb5786537f.m4a?alt=media"
+  },
+  {
+    "title": "Bole Chudiyan",
+    "movie": "Kabhi Khushi Kabhie Gham",
+    "artist": "Kavita K, Alka Y, Sonu N, Udit N, Amit K",
+    "genre": "golden-era",
+    "year": 2001,
+    "id": "4b8b63ee-a4dd-420e-b1cf-b709714d8ecb",
+    "startTime": 1.829,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F4b8b63ee-a4dd-420e-b1cf-b709714d8ecb.m4a?alt=media"
+  },
+  {
+    "title": "You Are My Soniya",
+    "movie": "Kabhi Khushi Kabhie Gham",
+    "artist": "Sonu Nigam, Alka Yagnik",
+    "genre": "golden-era",
+    "year": 2001,
+    "id": "b8b2160e-c947-46d1-b198-af44961c219f",
+    "startTime": 0.798,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fb8b2160e-c947-46d1-b198-af44961c219f.m4a?alt=media"
+  },
+  {
+    "title": "Maahi Ve",
+    "movie": "Kal Ho Naa Ho",
+    "artist": "Sadhana S, Sujata B, Udit N, Sonu N, Shankar M",
+    "genre": "golden-era",
+    "year": 2003,
+    "id": "5e05aa93-9b23-4b95-a5fa-0466f5273d33",
+    "startTime": 1.108,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F5e05aa93-9b23-4b95-a5fa-0466f5273d33.m4a?alt=media"
+  },
+  {
+    "title": "It's The Time To Disco",
+    "movie": "Kal Ho Naa Ho",
+    "artist": "Shaan, Vasundhara Das, KK",
+    "genre": "golden-era",
+    "year": 2003,
+    "id": "2f596f39-7e42-4e02-b249-dd3572b3c189",
+    "startTime": 0.495,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F2f596f39-7e42-4e02-b249-dd3572b3c189.m4a?alt=media"
+  },
+  {
+    "title": "Main Yahaan Hoon",
+    "movie": "Veer-Zaara",
+    "artist": "Udit Narayan",
+    "genre": "golden-era",
+    "year": 2004,
+    "id": "5616e664-2176-489c-ad2d-35b11e71d350",
+    "startTime": 0.318,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F5616e664-2176-489c-ad2d-35b11e71d350.m4a?alt=media"
+  },
+  {
+    "title": "Tere Liye",
+    "movie": "Veer-Zaara",
+    "artist": "Lata Mangeshkar, Roop Kumar Rathod",
+    "genre": "golden-era",
+    "year": 2004,
+    "id": "9d8fe26d-84e2-42c8-9a5b-44193930d32b",
+    "startTime": 0.172,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F9d8fe26d-84e2-42c8-9a5b-44193930d32b.m4a?alt=media"
+  },
+  {
+    "title": "Do Pal",
+    "movie": "Veer-Zaara",
+    "artist": "Lata Mangeshkar, Sonu Nigam",
+    "genre": "golden-era",
+    "year": 2004,
+    "id": "796b3508-bb49-4675-942b-a660807f587a",
+    "startTime": 0.678,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F796b3508-bb49-4675-942b-a660807f587a.m4a?alt=media"
+  },
+  {
+    "title": "Kabhi Alvida Naa Kehna",
+    "movie": "Kabhi Alvida Naa Kehna",
+    "artist": "Sonu Nigam, Alka Yagnik",
+    "genre": "golden-era",
+    "year": 2006,
+    "id": "1c1acb7c-20bb-4434-a623-29375d45e43b",
+    "startTime": 0.205,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F1c1acb7c-20bb-4434-a623-29375d45e43b.m4a?alt=media"
+  },
+  {
+    "title": "Where's The Party Tonight",
+    "movie": "Kabhi Alvida Naa Kehna",
+    "artist": "Shaan, Vasundhara Das, Loy Mendonsa, Shankar M",
+    "genre": "golden-era",
+    "year": 2006,
+    "id": "03267445-1c51-4f33-a912-d65b04890bb6",
+    "startTime": 1.585,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F03267445-1c51-4f33-a912-d65b04890bb6.m4a?alt=media"
+  },
+  {
+    "title": "Bidi Jalaile",
+    "movie": "Omkara",
+    "artist": "Sunidhi Chauhan, Sukhwinder Singh",
+    "genre": "golden-era",
+    "year": 2006,
+    "id": "4cb2c720-12a8-43bd-ba07-f4277a18df04",
+    "startTime": 0.518,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F4cb2c720-12a8-43bd-ba07-f4277a18df04.m4a?alt=media"
+  },
+  {
+    "title": "Namak",
+    "movie": "Omkara",
+    "artist": "Rekha Bhardwaj, Rakesh Pandit",
+    "genre": "golden-era",
+    "year": 2006,
+    "id": "1505ce5f-55d0-4633-b945-33b39076fd49",
+    "startTime": 0.513,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F1505ce5f-55d0-4633-b945-33b39076fd49.m4a?alt=media"
+  },
+  {
+    "title": "Kajra Re",
+    "movie": "Bunty Aur Babli",
+    "artist": "Alisha Chinai, Shankar Mahadevan, Javed Ali",
+    "genre": "golden-era",
+    "year": 2005,
+    "id": "607ada34-b194-42e1-9c67-fecd83acc32e",
+    "startTime": 0.287,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F607ada34-b194-42e1-9c67-fecd83acc32e.m4a?alt=media"
+  },
+  {
+    "title": "Chup Chup Ke",
+    "movie": "Bunty Aur Babli",
+    "artist": "Sonu Nigam, Mahalaxmi Iyer",
+    "genre": "golden-era",
+    "year": 2005,
+    "id": "23d7e400-fc51-4a3c-941f-d7750b1ad73e",
+    "startTime": 0.098,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F23d7e400-fc51-4a3c-941f-d7750b1ad73e.m4a?alt=media"
+  },
+  {
+    "title": "Dhoom Machale",
+    "movie": "Dhoom",
+    "artist": "Sunidhi Chauhan",
+    "genre": "golden-era",
+    "year": 2004,
+    "id": "65a01583-41ba-4fa7-9340-4608e7a9b630",
+    "startTime": 0.151,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F65a01583-41ba-4fa7-9340-4608e7a9b630.m4a?alt=media"
+  },
+  {
+    "title": "Crazy Kiya Re",
+    "movie": "Dhoom 2",
+    "artist": "Sunidhi Chauhan",
+    "genre": "golden-era",
+    "year": 2006,
+    "id": "31b1c41f-c1ad-4324-bc4a-afa0e2a18958",
+    "startTime": 0.252,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F31b1c41f-c1ad-4324-bc4a-afa0e2a18958.m4a?alt=media"
+  },
+  {
+    "title": "Mauja Hi Mauja",
+    "movie": "Jab We Met",
+    "artist": "Mika Singh",
+    "genre": "golden-era",
+    "year": 2007,
+    "id": "b0eb87b7-bebb-4eab-b834-03a9a5932bac",
+    "startTime": 0.116,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fb0eb87b7-bebb-4eab-b834-03a9a5932bac.m4a?alt=media"
+  },
+  {
+    "title": "Yeh Ishq Hai",
+    "movie": "Jab We Met",
+    "artist": "Shreya Ghoshal",
+    "genre": "golden-era",
+    "year": 2007,
+    "id": "0a0c3a15-016f-428e-ae24-a41d360f0a57",
+    "startTime": 0.575,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F0a0c3a15-016f-428e-ae24-a41d360f0a57.m4a?alt=media"
+  },
+  {
+    "title": "Pehli Nazar Mein",
+    "movie": "Race",
+    "artist": "Atif Aslam",
+    "genre": "golden-era",
+    "year": 2008,
+    "id": "9f978603-1012-40bd-ac30-1bb776f6ca30",
+    "startTime": 0.296,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F9f978603-1012-40bd-ac30-1bb776f6ca30.m4a?alt=media"
+  },
+  {
+    "title": "Zara Zara Touch Me",
+    "movie": "Race",
+    "artist": "Monali Thakur",
+    "genre": "golden-era",
+    "year": 2008,
+    "id": "875e3b10-654f-493b-9ea9-a46c8ee9c839",
+    "startTime": 0.04,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F875e3b10-654f-493b-9ea9-a46c8ee9c839.m4a?alt=media"
+  },
+  {
+    "title": "Desi Girl",
+    "movie": "Dostana",
+    "artist": "Shankar Mahadevan, Sunidhi Chauhan, Vishal Dadlani",
+    "genre": "golden-era",
+    "year": 2008,
+    "id": "0f51800b-d22a-4e5a-bbaa-e8d75825d464",
+    "startTime": 1.47,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F0f51800b-d22a-4e5a-bbaa-e8d75825d464.m4a?alt=media"
+  },
+  {
+    "title": "Maa Da Laadla",
+    "movie": "Dostana",
+    "artist": "Saleem",
+    "genre": "golden-era",
+    "year": 2008,
+    "id": "26074b77-e958-466d-9b97-c24587bbd6ad",
+    "startTime": 2.919,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F26074b77-e958-466d-9b97-c24587bbd6ad.m4a?alt=media"
+  },
+  {
+    "title": "Iktara",
+    "movie": "Wake Up Sid",
+    "artist": "Kavita Seth, Amitabh Bhattacharya",
+    "genre": "golden-era",
+    "year": 2009,
+    "id": "7502905b-ffeb-4606-b0fe-cde2e47bc0ef",
+    "startTime": 0.544,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F7502905b-ffeb-4606-b0fe-cde2e47bc0ef.m4a?alt=media"
+  },
+  {
+    "title": "Tum Jo Aaye",
+    "movie": "Once Upon A Time In Mumbaai",
+    "artist": "Rahat Fateh Ali Khan, Tulsi Kumar",
+    "genre": "golden-era",
+    "year": 2010,
+    "id": "bbcba94a-bf18-46e5-869f-dc226e5478f6",
+    "startTime": 0.25,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fbbcba94a-bf18-46e5-869f-dc226e5478f6.m4a?alt=media"
+  },
+  {
+    "title": "Munni Badnaam Hui",
+    "movie": "Dabangg",
+    "artist": "Mamta Sharma, Aishwarya, Master Saleem",
+    "genre": "golden-era",
+    "year": 2010,
+    "id": "4264935f-f508-4192-a15f-90807637d325",
+    "startTime": 0.081,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F4264935f-f508-4192-a15f-90807637d325.m4a?alt=media"
+  },
+  {
+    "title": "Tere Mast Mast Do Nain",
+    "movie": "Dabangg",
+    "artist": "Rahat Fateh Ali Khan",
+    "genre": "golden-era",
+    "year": 2010,
+    "id": "08c0e568-2ed4-4d34-bb51-097877e786f6",
+    "startTime": 0.044,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F08c0e568-2ed4-4d34-bb51-097877e786f6.m4a?alt=media"
+  },
+  {
+    "title": "Naatu Naatu",
+    "movie": "RRR",
+    "artist": "Rahul Sipligunj, Kaala Bhairava",
+    "genre": "new-age",
+    "year": 2022,
+    "id": "fa3ed932-0674-4117-9d0f-418145bb342a",
+    "startTime": 0.532,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Ffa3ed932-0674-4117-9d0f-418145bb342a.m4a?alt=media"
+  },
+  {
+    "title": "Kala Chashma",
+    "movie": "Baar Baar Dekho",
+    "artist": "Amar Arshi, Badshah",
+    "genre": "new-age",
+    "year": 2016,
+    "id": "0a250a0f-e99a-4c49-b64c-5069e9efeb3b",
+    "startTime": 0,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F0a250a0f-e99a-4c49-b64c-5069e9efeb3b.m4a?alt=media"
+  },
+  {
+    "title": "Tum Hi Aana",
+    "movie": "Marjaavaan",
+    "artist": "Jubin Nautiyal",
+    "genre": "new-age",
+    "year": 2019,
+    "id": "fcc85559-d0d5-458a-883b-9ca45ade6fbc",
+    "startTime": 0.509,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Ffcc85559-d0d5-458a-883b-9ca45ade6fbc.m4a?alt=media"
+  },
+  {
+    "title": "Lut Gaye",
+    "movie": "Single",
+    "artist": "Jubin Nautiyal",
+    "genre": "new-age",
+    "year": 2021,
+    "id": "147066b0-8da5-455b-adc0-520e92eddfe0",
+    "startTime": 0.596,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F147066b0-8da5-455b-adc0-520e92eddfe0.m4a?alt=media"
+  },
+  {
+    "title": "Bijlee Bijlee",
+    "movie": "Single",
+    "artist": "Harrdy Sandhu",
+    "genre": "new-age",
+    "year": 2021,
+    "id": "042f9c51-8d19-4c69-a8f6-ae3a1563cbae",
+    "startTime": 0.073,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F042f9c51-8d19-4c69-a8f6-ae3a1563cbae.m4a?alt=media"
+  },
+  {
+    "title": "Param Sundari",
+    "movie": "Mimi",
+    "artist": "Shreya Ghoshal",
+    "genre": "new-age",
+    "year": 2021,
+    "id": "4a5b6e4f-5a06-438b-9af6-a0930a751845",
+    "startTime": 1.093,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F4a5b6e4f-5a06-438b-9af6-a0930a751845.m4a?alt=media"
+  },
+  {
+    "title": "Srivalli",
+    "movie": "Pushpa",
+    "artist": "Javed Ali",
+    "genre": "new-age",
+    "year": 2021,
+    "id": "abbef501-1ffa-4f43-a005-84d64de2c969",
+    "startTime": 0.316,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fabbef501-1ffa-4f43-a005-84d64de2c969.m4a?alt=media"
+  },
+  {
+    "title": "Oo Bolega Ya Oo Oo Bolega",
+    "movie": "Pushpa",
+    "artist": "Kanika Kapoor",
+    "genre": "new-age",
+    "year": 2021,
+    "id": "c91f765e-0f15-49f3-ada7-6b853c6605c1",
+    "startTime": 0.276,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fc91f765e-0f15-49f3-ada7-6b853c6605c1.m4a?alt=media"
+  },
+  {
+    "title": "Saami Saami",
+    "movie": "Pushpa",
+    "artist": "Sunidhi Chauhan",
+    "genre": "new-age",
+    "year": 2021,
+    "id": "419e75fb-14a2-46cf-ae40-8592951a85ce",
+    "startTime": 0.535,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F419e75fb-14a2-46cf-ae40-8592951a85ce.m4a?alt=media"
+  },
+  {
+    "title": "Jalebi Baby",
+    "movie": "Single",
+    "artist": "Tesher, Jason Derulo",
+    "genre": "new-age",
+    "year": 2021,
+    "id": "b3bc39c7-9f34-4f20-8890-b1a311425670",
+    "startTime": 0.218,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fb3bc39c7-9f34-4f20-8890-b1a311425670.m4a?alt=media"
+  },
+  {
+    "title": "Pasoori",
+    "movie": "Coke Studio",
+    "artist": "Ali Sethi, Shae Gill",
+    "genre": "new-age",
+    "year": 2022,
+    "id": "a792733f-a2a1-421b-a8db-ba6416a8e3f1",
+    "startTime": 0.574,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fa792733f-a2a1-421b-a8db-ba6416a8e3f1.m4a?alt=media"
+  },
+  {
+    "title": "Jug Jug Jeeve",
+    "movie": "Shiddat",
+    "artist": "Sachet Tandon",
+    "genre": "new-age",
+    "year": 2021,
+    "id": "8673aed4-fe3d-42a5-9389-6ac83b2c1eb4",
+    "startTime": 0.595,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F8673aed4-fe3d-42a5-9389-6ac83b2c1eb4.m4a?alt=media"
+  },
+  {
+    "title": "Subhanallah",
+    "movie": "Yeh Jawaani Hai Deewani",
+    "artist": "Sreerama Chandra",
+    "genre": "new-age",
+    "year": 2013,
+    "id": "f47395e8-5938-434b-96a2-ca9c80dc657d",
+    "startTime": 0.228,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Ff47395e8-5938-434b-96a2-ca9c80dc657d.m4a?alt=media"
+  }
+]

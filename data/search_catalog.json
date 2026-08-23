@@ -1,0 +1,1536 @@
+[
+  {
+    "id": "tum-hi-ho",
+    "title": "Tum Hi Ho",
+    "artist": "Arijit Singh",
+    "movie": "Aashiqui 2",
+    "genre": "new-age"
+  },
+  {
+    "id": "kal-ho-naa-ho",
+    "title": "Kal Ho Naa Ho",
+    "artist": "Sonu Nigam",
+    "movie": "Kal Ho Naa Ho",
+    "genre": "new-age"
+  },
+  {
+    "id": "chaiyya-chaiyya",
+    "title": "Chaiyya Chaiyya",
+    "artist": "Sukhwinder Singh",
+    "movie": "Dil Se",
+    "genre": "golden-era"
+  },
+  {
+    "id": "kabira",
+    "title": "Kabira",
+    "artist": "Tochi Raina",
+    "movie": "Yeh Jawaani Hai Deewani",
+    "genre": "new-age"
+  },
+  {
+    "id": "gerua",
+    "title": "Gerua",
+    "artist": "Arijit Singh",
+    "movie": "Dilwale",
+    "genre": "new-age"
+  },
+  {
+    "id": "tujhe-dekha-to",
+    "title": "Tujhe Dekha To",
+    "artist": "Lata Mangeshkar",
+    "movie": "DDLJ",
+    "genre": "golden-era"
+  },
+  {
+    "id": "channa-mereya",
+    "title": "Channa Mereya",
+    "artist": "Arijit Singh",
+    "movie": "Ae Dil Hai Mushkil",
+    "genre": "new-age"
+  },
+  {
+    "id": "kar-har-maidaan-fateh",
+    "title": "Kar Har Maidaan Fateh",
+    "artist": "Sukhwinder Singh",
+    "movie": "Sanju",
+    "genre": "new-age"
+  },
+  {
+    "id": "mere-naam-tu",
+    "title": "Mere Naam Tu",
+    "artist": "Abhay Jodhpurkar",
+    "movie": "Zero",
+    "genre": "new-age"
+  },
+  {
+    "id": "ghungroo",
+    "title": "Ghungroo",
+    "artist": "Arijit Singh",
+    "movie": "War",
+    "genre": "new-age"
+  },
+  {
+    "id": "ilahi",
+    "title": "Ilahi",
+    "artist": "Arijit Singh",
+    "movie": "Yeh Jawaani Hai Deewani",
+    "genre": "new-age"
+  },
+  {
+    "id": "dilbar",
+    "title": "Dilbar",
+    "artist": "Neha Kakkar",
+    "movie": "Satyameva Jayate",
+    "genre": "new-age"
+  },
+  {
+    "id": "malhari",
+    "title": "Malhari",
+    "artist": "Vishal Dadlani",
+    "movie": "Bajirao Mastani",
+    "genre": "new-age"
+  },
+  {
+    "id": "pehla-nasha",
+    "title": "Pehla Nasha",
+    "artist": "Udit Narayan",
+    "movie": "Jo Jeeta Wohi Sikandar",
+    "genre": "golden-era"
+  },
+  {
+    "id": "kuch-kuch-hota-hai",
+    "title": "Kuch Kuch Hota Hai",
+    "artist": "Udit Narayan",
+    "movie": "Kuch Kuch Hota Hai",
+    "genre": "golden-era"
+  },
+  {
+    "id": "yeh-dosti",
+    "title": "Yeh Dosti Hum Nahi Todenge",
+    "artist": "Kishore Kumar",
+    "movie": "Sholay",
+    "genre": "golden-era"
+  },
+  {
+    "id": "roop-tera-mastana",
+    "title": "Roop Tera Mastana",
+    "artist": "Kishore Kumar",
+    "movie": "Aradhana",
+    "genre": "golden-era"
+  },
+  {
+    "id": "kabhi-kabhie-mere-dil-mein",
+    "title": "Kabhi Kabhie Mere Dil Mein",
+    "artist": "Mukesh",
+    "movie": "Kabhi Kabhie",
+    "genre": "golden-era"
+  },
+  {
+    "id": "ek-ladki-ko-dekha",
+    "title": "Ek Ladki Ko Dekha",
+    "artist": "Kumar Sanu",
+    "movie": "1942 A Love Story",
+    "genre": "golden-era"
+  },
+  {
+    "id": "tip-tip-barsa-paani",
+    "title": "Tip Tip Barsa Paani",
+    "artist": "Udit Narayan",
+    "movie": "Mohra",
+    "genre": "golden-era"
+  },
+  {
+    "id": "chura-liya-hai",
+    "title": "Chura Liya Hai Tumne Jo Dil Ko",
+    "artist": "Mohammed Rafi",
+    "movie": "Yaadon Ki Baaraat",
+    "genre": "golden-era"
+  },
+  {
+    "id": "lag-ja-gale",
+    "title": "Lag Ja Gale",
+    "artist": "Lata Mangeshkar",
+    "movie": "Woh Kaun Thi",
+    "genre": "golden-era"
+  },
+  {
+    "id": "tere-bina-zindagi-se",
+    "title": "Tere Bina Zindagi Se",
+    "artist": "Kishore Kumar",
+    "movie": "Aandhi",
+    "genre": "golden-era"
+  },
+  {
+    "id": "mere-sapnon-ki-rani",
+    "title": "Mere Sapnon Ki Rani",
+    "artist": "Kishore Kumar",
+    "movie": "Aradhana",
+    "genre": "golden-era"
+  },
+  {
+    "id": "dil-deewana",
+    "title": "Dil Deewana",
+    "artist": "S. P. Balasubrahmanyam",
+    "movie": "Maine Pyar Kiya",
+    "genre": "golden-era"
+  },
+  {
+    "id": "mehndi-laga-ke-rakhna",
+    "title": "Mehndi Laga Ke Rakhna",
+    "artist": "Lata Mangeshkar",
+    "movie": "DDLJ",
+    "genre": "golden-era"
+  },
+  {
+    "id": "baazigar-o-baazigar",
+    "title": "Baazigar O Baazigar",
+    "artist": "Kumar Sanu",
+    "movie": "Baazigar",
+    "genre": "golden-era"
+  },
+  {
+    "id": "didi-tera-devar-deewana",
+    "title": "Didi Tera Devar Deewana",
+    "artist": "Lata Mangeshkar",
+    "movie": "Hum Aapke Hain Koun",
+    "genre": "golden-era"
+  },
+  {
+    "id": "badan-pe-sitare",
+    "title": "Badan Pe Sitare Lapete Huye",
+    "artist": "Mohammed Rafi",
+    "movie": "Prince",
+    "genre": "golden-era"
+  },
+  {
+    "id": "in-ankhon-ki-masti",
+    "title": "In Ankhon Ki Masti",
+    "artist": "Asha Bhosle",
+    "movie": "Umrao Jaan",
+    "genre": "golden-era"
+  },
+  {
+    "id": "dum-maaro-dum",
+    "title": "Dum Maaro Dum",
+    "artist": "Asha Bhosle",
+    "movie": "Hare Rama Hare Krishna",
+    "genre": "golden-era"
+  },
+  {
+    "id": "om-shanti-om-karz",
+    "title": "Om Shanti Om",
+    "artist": "Kishore Kumar",
+    "movie": "Karz",
+    "genre": "golden-era"
+  },
+  {
+    "id": "papa-kehte-hain",
+    "title": "Papa Kehte Hain",
+    "artist": "Udit Narayan",
+    "movie": "Qayamat Se Qayamat Tak",
+    "genre": "golden-era"
+  },
+  {
+    "id": "sandese-aate-hain",
+    "title": "Sandese Aate Hain",
+    "artist": "Sonu Nigam",
+    "movie": "Border",
+    "genre": "golden-era"
+  },
+  {
+    "id": "kya-hua-tera-wada",
+    "title": "Kya Hua Tera Wada",
+    "artist": "Mohammed Rafi",
+    "movie": "Hum Kisise Kum Naheen",
+    "genre": "golden-era"
+  },
+  {
+    "id": "jai-ho",
+    "title": "Jai Ho",
+    "artist": "A. R. Rahman",
+    "movie": "Slumdog Millionaire",
+    "genre": "new-age"
+  },
+  {
+    "id": "kun-faya-kun",
+    "title": "Kun Faya Kun",
+    "artist": "A. R. Rahman",
+    "movie": "Rockstar",
+    "genre": "new-age"
+  },
+  {
+    "id": "tum-se-hi",
+    "title": "Tum Se Hi",
+    "artist": "Mohit Chauhan",
+    "movie": "Jab We Met",
+    "genre": "new-age"
+  },
+  {
+    "id": "mitwa",
+    "title": "Mitwa",
+    "artist": "Shafqat Amanat Ali",
+    "movie": "Kabhi Alvida Naa Kehna",
+    "genre": "new-age"
+  },
+  {
+    "id": "senorita",
+    "title": "Senorita",
+    "artist": "Farhan Akhtar",
+    "movie": "Zindagi Na Milegi Dobara",
+    "genre": "new-age"
+  },
+  {
+    "id": "tere-bina",
+    "title": "Tere Bina",
+    "artist": "A. R. Rahman",
+    "movie": "Guru",
+    "genre": "new-age"
+  },
+  {
+    "id": "raabta",
+    "title": "Raabta",
+    "artist": "Arijit Singh",
+    "movie": "Agent Vinod",
+    "genre": "new-age"
+  },
+  {
+    "id": "galliyan",
+    "title": "Galliyan",
+    "artist": "Ankit Tiwari",
+    "movie": "Ek Villain",
+    "genre": "new-age"
+  },
+  {
+    "id": "mast-magan",
+    "title": "Mast Magan",
+    "artist": "Arijit Singh",
+    "movie": "2 States",
+    "genre": "new-age"
+  },
+  {
+    "id": "agar-tum-saath-ho",
+    "title": "Agar Tum Saath Ho",
+    "artist": "Arijit Singh",
+    "movie": "Tamasha",
+    "genre": "new-age"
+  },
+  {
+    "id": "zaalima",
+    "title": "Zaalima",
+    "artist": "Arijit Singh",
+    "movie": "Raees",
+    "genre": "new-age"
+  },
+  {
+    "id": "dil-diyan-gallan",
+    "title": "Dil Diyan Gallan",
+    "artist": "Atif Aslam",
+    "movie": "Tiger Zinda Hai",
+    "genre": "new-age"
+  },
+  {
+    "id": "tera-ban-jaunga",
+    "title": "Tera Ban Jaunga",
+    "artist": "Akhil Sachdeva",
+    "movie": "Kabir Singh",
+    "genre": "new-age"
+  },
+  {
+    "id": "shayad",
+    "title": "Shayad",
+    "artist": "Arijit Singh",
+    "movie": "Love Aaj Kal",
+    "genre": "new-age"
+  },
+  {
+    "id": "kesariya",
+    "title": "Kesariya",
+    "artist": "Arijit Singh",
+    "movie": "Brahmastra",
+    "genre": "new-age"
+  },
+  {
+    "id": "apna-bana-le",
+    "title": "Apna Bana Le",
+    "artist": "Arijit Singh",
+    "movie": "Bhediya",
+    "genre": "new-age"
+  },
+  {
+    "id": "jhoome-jo-pathaan",
+    "title": "Jhoome Jo Pathaan",
+    "artist": "Arijit Singh",
+    "movie": "Pathaan",
+    "genre": "new-age"
+  },
+  {
+    "id": "tere-vaaste",
+    "title": "Tere Vaaste",
+    "artist": "Varun Jain",
+    "movie": "Zara Hatke Zara Bachke",
+    "genre": "new-age"
+  },
+  {
+    "id": "chaleya",
+    "title": "Chaleya",
+    "artist": "Arijit Singh",
+    "movie": "Jawan",
+    "genre": "new-age"
+  },
+  {
+    "id": "satranga",
+    "title": "Satranga",
+    "artist": "Arijit Singh",
+    "movie": "Animal",
+    "genre": "new-age"
+  },
+  {
+    "id": "o-maahi",
+    "title": "O Maahi",
+    "artist": "Arijit Singh",
+    "movie": "Dunki",
+    "genre": "new-age"
+  },
+  {
+    "id": "pee-loon",
+    "title": "Pee Loon",
+    "artist": "Mohit Chauhan",
+    "movie": "Once Upon A Time In Mumbaai",
+    "genre": "new-age"
+  },
+  {
+    "id": "haule-haule",
+    "title": "Haule Haule",
+    "artist": "Sukhwinder Singh",
+    "movie": "Rab Ne Bana Di Jodi",
+    "genre": "new-age"
+  },
+  {
+    "id": "tujh-mein-rab-dikhta-hai",
+    "title": "Tujh Mein Rab Dikhta Hai",
+    "artist": "Roop Kumar Rathod",
+    "movie": "Rab Ne Bana Di Jodi",
+    "genre": "new-age"
+  },
+  {
+    "id": "aankh-marey",
+    "title": "Aankh Marey",
+    "artist": "Neha Kakkar",
+    "movie": "Simmba",
+    "genre": "new-age"
+  },
+  {
+    "id": "balam-pichkari",
+    "title": "Balam Pichkari",
+    "artist": "Vishal Dadlani",
+    "movie": "Yeh Jawaani Hai Deewani",
+    "genre": "new-age"
+  },
+  {
+    "id": "deva-deva",
+    "title": "Deva Deva",
+    "artist": "Arijit Singh",
+    "movie": "Brahmastra",
+    "genre": "new-age"
+  },
+  {
+    "id": "saiyaara",
+    "title": "Saiyaara",
+    "artist": "Mohit Chauhan",
+    "movie": "Ek Tha Tiger",
+    "genre": "new-age"
+  },
+  {
+    "id": "high-rated-gabru",
+    "title": "High Rated Gabru",
+    "artist": "Guru Randhawa",
+    "movie": "Nawabzaade",
+    "genre": "new-age"
+  },
+  {
+    "id": "lahore",
+    "title": "Lahore",
+    "artist": "Guru Randhawa",
+    "movie": "Street Dancer 3D",
+    "genre": "new-age"
+  },
+  {
+    "id": "suit-suit",
+    "title": "Suit Suit",
+    "artist": "Guru Randhawa",
+    "movie": "Hindi Medium",
+    "genre": "new-age"
+  },
+  {
+    "id": "naach-meri-rani",
+    "title": "Naach Meri Rani",
+    "artist": "Guru Randhawa",
+    "movie": "Single",
+    "genre": "new-age"
+  },
+  {
+    "id": "brown-munde",
+    "title": "Brown Munde",
+    "artist": "AP Dhillon",
+    "movie": "Single",
+    "genre": "new-age"
+  },
+  {
+    "id": "excuses",
+    "title": "Excuses",
+    "artist": "AP Dhillon",
+    "movie": "Single",
+    "genre": "new-age"
+  },
+  {
+    "id": "with-you",
+    "title": "With You",
+    "artist": "AP Dhillon",
+    "movie": "Single",
+    "genre": "new-age"
+  },
+  {
+    "id": "insane",
+    "title": "Insane",
+    "artist": "AP Dhillon",
+    "movie": "Single",
+    "genre": "new-age"
+  },
+  {
+    "id": "dil-nu",
+    "title": "Dil Nu",
+    "artist": "AP Dhillon",
+    "movie": "Single",
+    "genre": "new-age"
+  },
+  {
+    "id": "tauba-tauba",
+    "title": "Tauba Tauba",
+    "artist": "Karan Aujla",
+    "movie": "Bad Newz",
+    "genre": "new-age"
+  },
+  {
+    "id": "softly",
+    "title": "Softly",
+    "artist": "Karan Aujla",
+    "movie": "Making Memories",
+    "genre": "new-age"
+  },
+  {
+    "id": "winning-speech",
+    "title": "Winning Speech",
+    "artist": "Karan Aujla",
+    "movie": "Single",
+    "genre": "new-age"
+  },
+  {
+    "id": "white-brown-black",
+    "title": "White Brown Black",
+    "artist": "Karan Aujla",
+    "movie": "Single",
+    "genre": "new-age"
+  },
+  {
+    "id": "arjan-vailly",
+    "title": "Arjan Vailly",
+    "artist": "Bhupinder Babbal",
+    "movie": "Animal",
+    "genre": "new-age"
+  },
+  {
+    "id": "pehle-bhi-main",
+    "title": "Pehle Bhi Main",
+    "artist": "Vishal Mishra",
+    "movie": "Animal",
+    "genre": "new-age"
+  },
+  {
+    "id": "hua-main",
+    "title": "Hua Main",
+    "artist": "Raghav Chaitanya",
+    "movie": "Animal",
+    "genre": "new-age"
+  },
+  {
+    "id": "saari-duniya-jalaa-denge",
+    "title": "Saari Duniya Jalaa Denge",
+    "artist": "B Praak",
+    "movie": "Animal",
+    "genre": "new-age"
+  },
+  {
+    "id": "aaj-ki-raat",
+    "title": "Aaj Ki Raat",
+    "artist": "Madhubanti Bagchi",
+    "movie": "Stree 2",
+    "genre": "new-age"
+  },
+  {
+    "id": "aayi-nai",
+    "title": "Aayi Nai",
+    "artist": "Pawan Singh",
+    "movie": "Stree 2",
+    "genre": "new-age"
+  },
+  {
+    "id": "taras",
+    "title": "Taras",
+    "artist": "Jasmine Sandlas",
+    "movie": "Munjya",
+    "genre": "new-age"
+  },
+  {
+    "id": "sajni",
+    "title": "Sajni",
+    "artist": "Arijit Singh",
+    "movie": "Laapataa Ladies",
+    "genre": "new-age"
+  },
+  {
+    "id": "naina-crew",
+    "title": "Naina",
+    "artist": "Diljit Dosanjh",
+    "movie": "Crew",
+    "genre": "new-age"
+  },
+  {
+    "id": "akhiyaan-gulaab",
+    "title": "Akhiyaan Gulaab",
+    "artist": "Mitraz",
+    "movie": "TBMAUJ",
+    "genre": "new-age"
+  },
+  {
+    "id": "lutt-putt-gaya",
+    "title": "Lutt Putt Gaya",
+    "artist": "Arijit Singh",
+    "movie": "Dunki",
+    "genre": "new-age"
+  },
+  {
+    "id": "ve-kamleya",
+    "title": "Ve Kamleya",
+    "artist": "Arijit Singh",
+    "movie": "Rocky Aur Rani",
+    "genre": "new-age"
+  },
+  {
+    "id": "what-jhumka",
+    "title": "What Jhumka?",
+    "artist": "Arijit Singh",
+    "movie": "Rocky Aur Rani",
+    "genre": "new-age"
+  },
+  {
+    "id": "chuttamalle",
+    "title": "Chuttamalle",
+    "artist": "Shilpa Rao",
+    "movie": "Devara",
+    "genre": "new-age"
+  },
+  {
+    "id": "dhun-saiyaara",
+    "title": "Dhun",
+    "artist": "Arijit Singh",
+    "movie": "Saiyaara",
+    "genre": "new-age"
+  },
+  {
+    "id": "barbaad-saiyaara",
+    "title": "Barbaad",
+    "artist": "Jubin Nautiyal",
+    "movie": "Saiyaara",
+    "genre": "new-age"
+  },
+  {
+    "id": "tum-ho-toh-saiyaara",
+    "title": "Tum Ho Toh",
+    "artist": "Vishal Mishra",
+    "movie": "Saiyaara",
+    "genre": "new-age"
+  },
+  {
+    "id": "humsafar-saiyaara",
+    "title": "Humsafar",
+    "artist": "Sachet-Parampara",
+    "movie": "Saiyaara",
+    "genre": "new-age"
+  },
+  {
+    "id": "saiyaara-title-track",
+    "title": "Saiyaara (Title Track)",
+    "artist": "Faheem Abdullah",
+    "movie": "Saiyaara",
+    "genre": "new-age"
+  },
+  {
+    "id": "mashallah",
+    "title": "Mashallah",
+    "artist": "Wajid",
+    "movie": "Ek Tha Tiger",
+    "genre": "new-age"
+  },
+  {
+    "id": "banjaara",
+    "title": "Banjaara",
+    "artist": "Sukhwinder Singh",
+    "movie": "Ek Tha Tiger",
+    "genre": "new-age"
+  },
+  {
+    "id": "laapata",
+    "title": "Laapata",
+    "artist": "KK",
+    "movie": "Ek Tha Tiger",
+    "genre": "new-age"
+  },
+  {
+    "id": "049aab99-47e1-4886-9325-387f756478e7",
+    "title": "Tu Hi Disda",
+    "artist": "Arijit Singh, Nikhita Gandhi",
+    "movie": "Bhooth Bangla",
+    "genre": "new-age",
+    "year": 2026
+  },
+  {
+    "id": "4fa2fd2d-230c-440f-94e0-5f2c57e9fe81",
+    "title": "Sitaare",
+    "artist": "Arijit Singh",
+    "movie": "Ikkis",
+    "genre": "new-age",
+    "year": 2026
+  },
+  {
+    "id": "b461a221-6801-4e88-a67c-813b37c01160",
+    "title": "Ban Ke Dikha",
+    "artist": "Vishal Dadlani",
+    "movie": "Ikkis",
+    "genre": "new-age",
+    "year": 2026
+  },
+  {
+    "id": "c141be9c-d9f9-425a-938e-52bef9451149",
+    "title": "Jaiye Sajana",
+    "artist": "B Praak",
+    "movie": "Dhurandhar The Revenge",
+    "genre": "new-age",
+    "year": 2026
+  },
+  {
+    "id": "9c39e20f-9678-4d9c-92e8-a5311460f058",
+    "title": "Hum Dono",
+    "artist": "Vishal Dadlani, Shruti Pathak",
+    "movie": "Single",
+    "genre": "new-age",
+    "year": 2026
+  },
+  {
+    "id": "b7cc1ba7-2bd6-475d-8e11-38062cb4348c",
+    "title": "Arz Kiya Hai",
+    "artist": "Anuv Jain",
+    "movie": "Coke Studio Bharat",
+    "genre": "new-age",
+    "year": 2026
+  },
+  {
+    "id": "441fad9d-9420-453c-bc7c-31510a5b9438",
+    "title": "Tu Hai Toh Main Hoon",
+    "artist": "Arijit Singh, Afsana Khan",
+    "movie": "Sky Force",
+    "genre": "new-age",
+    "year": 2025
+  },
+  {
+    "id": "3fa37964-9478-41dc-9ce6-86b0e4234891",
+    "title": "Bijuria",
+    "artist": "Sunidhi Chauhan",
+    "movie": "Sunny Sanskari Ki Tulsi Kumari",
+    "genre": "new-age",
+    "year": 2025
+  },
+  {
+    "id": "67a3b723-f581-45cb-b7b8-6f2f443ef513",
+    "title": "Panwadi",
+    "artist": "Badshah",
+    "movie": "Sunny Sanskari Ki Tulsi Kumari",
+    "genre": "new-age",
+    "year": 2025
+  },
+  {
+    "id": "a291d23b-a054-43a1-ae6e-b1e94720daab",
+    "title": "Dhurandar",
+    "artist": "Sachet Tandon",
+    "movie": "Dhurandhar",
+    "genre": "new-age",
+    "year": 2025
+  },
+  {
+    "id": "daf3616a-3cd4-466c-b101-896ec4752b6e",
+    "title": "Admirin You",
+    "artist": "Karan Aujla",
+    "movie": "Making Memories",
+    "genre": "new-age",
+    "year": 2023
+  },
+  {
+    "id": "8951aba2-0b3f-4caa-ab64-018b38d5b9ba",
+    "title": "Try Me",
+    "artist": "Karan Aujla",
+    "movie": "Making Memories",
+    "genre": "new-age",
+    "year": 2023
+  },
+  {
+    "id": "4725bef8-24bc-4680-8b65-72abc429de21",
+    "title": "True Stories",
+    "artist": "AP Dhillon",
+    "movie": "Single",
+    "genre": "new-age",
+    "year": 2023
+  },
+  {
+    "id": "2feb71c2-d8ef-4e31-a545-8ce2b6255dd8",
+    "title": "Summer High",
+    "artist": "AP Dhillon",
+    "movie": "Single",
+    "genre": "new-age",
+    "year": 2022
+  },
+  {
+    "id": "893c028a-690d-4ad1-b1f5-015a9e6ecc3c",
+    "title": "Lover",
+    "artist": "Diljit Dosanjh",
+    "movie": "MoonChild Era",
+    "genre": "new-age",
+    "year": 2021
+  },
+  {
+    "id": "fc4e2cad-f9f7-4cd2-a81b-292ed1636552",
+    "title": "Peaches",
+    "artist": "Diljit Dosanjh",
+    "movie": "Drive Thru",
+    "genre": "new-age",
+    "year": 2022
+  },
+  {
+    "id": "221bde15-a07f-436d-81d8-81cf70024824",
+    "title": "Lemonade",
+    "artist": "Diljit Dosanjh",
+    "movie": "Drive Thru",
+    "genre": "new-age",
+    "year": 2022
+  },
+  {
+    "id": "3de3107d-0218-4871-b2e9-ec2f5e1f3e19",
+    "title": "Hass Hass",
+    "artist": "Diljit Dosanjh, Sia",
+    "movie": "Single",
+    "genre": "new-age",
+    "year": 2023
+  },
+  {
+    "id": "c1720319-970e-410c-b3af-0f9d30285c21",
+    "title": "G.O.A.T.",
+    "artist": "Diljit Dosanjh",
+    "movie": "G.O.A.T.",
+    "genre": "new-age",
+    "year": 2020
+  },
+  {
+    "id": "ae44bfc5-0079-4f07-a9c4-fa05cbda4d0d",
+    "title": "Kinni Kinni",
+    "artist": "Diljit Dosanjh",
+    "movie": "Single",
+    "genre": "new-age",
+    "year": 2023
+  },
+  {
+    "id": "a8eb3863-aba6-4ea5-a082-efd8d3d77004",
+    "title": "Zinda Banda",
+    "artist": "Anirudh Ravichander",
+    "movie": "Jawan",
+    "genre": "new-age",
+    "year": 2023
+  },
+  {
+    "id": "f91cf6e7-2fc3-42f3-bc39-cdb560f53465",
+    "title": "Not Ramaiya Vastavaiya",
+    "artist": "Anirudh Ravichander",
+    "movie": "Jawan",
+    "genre": "new-age",
+    "year": 2023
+  },
+  {
+    "id": "e33abe92-cd9c-48eb-a663-d5dcaac9c179",
+    "title": "Sher Khul Gaye",
+    "artist": "Vishal-Shekhar, Benny Dayal",
+    "movie": "Fighter",
+    "genre": "new-age",
+    "year": 2024
+  },
+  {
+    "id": "b0456cc9-8100-426d-b638-57d27e7717b9",
+    "title": "Ishq Jaisa Kuch",
+    "artist": "Vishal-Shekhar, Shilpa Rao",
+    "movie": "Fighter",
+    "genre": "new-age",
+    "year": 2024
+  },
+  {
+    "id": "600e2712-184e-45ab-8786-6b49a15c6f46",
+    "title": "Heeriye",
+    "artist": "Arijit Singh, Jasleen Royal",
+    "movie": "Single",
+    "genre": "new-age",
+    "year": 2023
+  },
+  {
+    "id": "a23261f1-2750-4912-a587-12a1d47dd7f8",
+    "title": "Phir Aur Kya Chahiye",
+    "artist": "Arijit Singh",
+    "movie": "Zara Hatke Zara Bachke",
+    "genre": "new-age",
+    "year": 2023
+  },
+  {
+    "id": "69f4a727-ef7b-44f1-87e5-a00ce702a8cd",
+    "title": "Tum Kya Mile",
+    "artist": "Arijit Singh, Shreya Ghoshal",
+    "movie": "Rocky Aur Rani Kii Prem Kahaani",
+    "genre": "new-age",
+    "year": 2023
+  },
+  {
+    "id": "90a77dba-f114-49b0-93fc-5d80d7680749",
+    "title": "O Bedardeya",
+    "artist": "Arijit Singh",
+    "movie": "Tu Jhoothi Main Makkaar",
+    "genre": "new-age",
+    "year": 2023
+  },
+  {
+    "id": "c4b28396-09da-41c3-8b83-2f6bc3845c33",
+    "title": "Tere Pyaar Mein",
+    "artist": "Arijit Singh",
+    "movie": "Tu Jhoothi Main Makkaar",
+    "genre": "new-age",
+    "year": 2023
+  },
+  {
+    "id": "0601c3c5-6ffd-4e8a-904d-ab067600af2e",
+    "title": "Show Me The Thumka",
+    "artist": "Sunidhi Chauhan, Shashwat Singh",
+    "movie": "Tu Jhoothi Main Makkaar",
+    "genre": "new-age",
+    "year": 2023
+  },
+  {
+    "id": "c995221f-7ed8-4480-bb1c-5bcf3ae89383",
+    "title": "Besharam Rang",
+    "artist": "Shilpa Rao, Caralisa Monteiro",
+    "movie": "Pathaan",
+    "genre": "new-age",
+    "year": 2022
+  },
+  {
+    "id": "3b8165e3-1595-45cf-85c6-4c0e8b9d33ba",
+    "title": "Dance Ka Bhoot",
+    "artist": "Arijit Singh",
+    "movie": "Brahmastra",
+    "genre": "new-age",
+    "year": 2022
+  },
+  {
+    "id": "5353131f-f9ac-4172-8a04-af794d408a63",
+    "title": "Raataan Lambiyan",
+    "artist": "Jubin Nautiyal, Asees Kaur",
+    "movie": "Shershaah",
+    "genre": "new-age",
+    "year": 2021
+  },
+  {
+    "id": "c4754d9f-1e0f-4d1b-a580-73c8def09c5a",
+    "title": "Ranjha",
+    "artist": "B Praak, Jasleen Royal",
+    "movie": "Shershaah",
+    "genre": "new-age",
+    "year": 2021
+  },
+  {
+    "id": "f399025a-5f1a-40d0-8946-898ec2bfcc3e",
+    "title": "Manike",
+    "artist": "Yohani, Jubin Nautiyal",
+    "movie": "Thank God",
+    "genre": "new-age",
+    "year": 2022
+  },
+  {
+    "id": "d7c5b147-8a41-4720-b917-dbfa72a16a53",
+    "title": "Bhool Bhulaiyaa 2 Title Track",
+    "artist": "Neeraj Shridhar",
+    "movie": "Bhool Bhulaiyaa 2",
+    "genre": "new-age",
+    "year": 2022
+  },
+  {
+    "id": "3fd1abfc-fec1-4b31-8851-a6a400088451",
+    "title": "Ami Je Tomar",
+    "artist": "Arijit Singh",
+    "movie": "Bhool Bhulaiyaa 2",
+    "genre": "new-age",
+    "year": 2022
+  },
+  {
+    "id": "b1a23870-cf7b-428a-acbf-d57c79d7bf52",
+    "title": "Sunn Raha Hai",
+    "artist": "Ankit Tiwari",
+    "movie": "Aashiqui 2",
+    "genre": "new-age",
+    "year": 2013
+  },
+  {
+    "id": "8e0e592e-bc9e-42e9-a89a-6f7914ef2667",
+    "title": "Chahun Main Ya Naa",
+    "artist": "Arijit Singh, Palak Muchhal",
+    "movie": "Aashiqui 2",
+    "genre": "new-age",
+    "year": 2013
+  },
+  {
+    "id": "0f5ec95d-8259-46c5-8bf4-5319211d5495",
+    "title": "Zaroorat",
+    "artist": "Mustafa Zahid",
+    "movie": "Ek Villain",
+    "genre": "new-age",
+    "year": 2014
+  },
+  {
+    "id": "34398b1a-b6de-447f-87e7-d036b3e0e1de",
+    "title": "Hamari Adhuri Kahani",
+    "artist": "Arijit Singh",
+    "movie": "Hamari Adhuri Kahani",
+    "genre": "new-age",
+    "year": 2015
+  },
+  {
+    "id": "b282f8aa-412f-40cf-b0e4-c5f5e0ed2fcc",
+    "title": "Samjhawan",
+    "artist": "Arijit Singh, Shreya Ghoshal",
+    "movie": "Humpty Sharma Ki Dulhania",
+    "genre": "new-age",
+    "year": 2014
+  },
+  {
+    "id": "c747de97-ecb3-4651-b7a2-569ec2e608f1",
+    "title": "Laila Main Laila",
+    "artist": "Pawni Pandey",
+    "movie": "Raees",
+    "genre": "new-age",
+    "year": 2017
+  },
+  {
+    "id": "1d84cc7b-ed15-46fe-929f-ed340ea0aebb",
+    "title": "Kar Gayi Chull",
+    "artist": "Badshah, Fazilpuria",
+    "movie": "Kapoor & Sons",
+    "genre": "new-age",
+    "year": 2016
+  },
+  {
+    "id": "d682b772-7a8b-49d1-9c50-af3c9b980629",
+    "title": "Bolna",
+    "artist": "Arijit Singh, Asees Kaur",
+    "movie": "Kapoor & Sons",
+    "genre": "new-age",
+    "year": 2016
+  },
+  {
+    "id": "2945b490-51cc-4ef2-bfdc-f3e6a00409e5",
+    "title": "Let's Nacho",
+    "artist": "Badshah, Benny Dayal",
+    "movie": "Kapoor & Sons",
+    "genre": "new-age",
+    "year": 2016
+  },
+  {
+    "id": "f51b29ce-4695-4fef-ae4f-96622a49f824",
+    "title": "Kaun Tujhe",
+    "artist": "Palak Muchhal",
+    "movie": "M.S. Dhoni",
+    "genre": "new-age",
+    "year": 2016
+  },
+  {
+    "id": "0b999e1d-ceec-4889-93d8-c0c496d6ceaf",
+    "title": "Besabriyaan",
+    "artist": "Armaan Malik",
+    "movie": "M.S. Dhoni",
+    "genre": "new-age",
+    "year": 2016
+  },
+  {
+    "id": "ce07ed68-b216-4cba-b649-867370b3d7b7",
+    "title": "Ae Dil Hai Mushkil",
+    "artist": "Arijit Singh",
+    "movie": "Ae Dil Hai Mushkil",
+    "genre": "new-age",
+    "year": 2016
+  },
+  {
+    "id": "c0b10130-22d1-43f3-bd57-171af1ce262c",
+    "title": "Bulleya",
+    "artist": "Amit Mishra, Shilpa Rao",
+    "movie": "Ae Dil Hai Mushkil",
+    "genre": "new-age",
+    "year": 2016
+  },
+  {
+    "id": "b6dcf4c7-00d6-4c0f-aed2-27668477619b",
+    "title": "Cutiepie",
+    "artist": "Pardeep Sran, Nakash Aziz",
+    "movie": "Ae Dil Hai Mushkil",
+    "genre": "new-age",
+    "year": 2016
+  },
+  {
+    "id": "863e26d3-016f-4ffe-8e45-a2446b4d3c99",
+    "title": "Swag Se Swagat",
+    "artist": "Vishal Dadlani, Neha Bhasin",
+    "movie": "Tiger Zinda Hai",
+    "genre": "new-age",
+    "year": 2017
+  },
+  {
+    "id": "8d99c0ae-e028-47eb-aa5e-f54cb96d0121",
+    "title": "Hawayein",
+    "artist": "Arijit Singh",
+    "movie": "Jab Harry Met Sejal",
+    "genre": "new-age",
+    "year": 2017
+  },
+  {
+    "id": "dca17fcf-a3d7-41e2-b5a3-b52b01aad5c7",
+    "title": "Radha",
+    "artist": "Sunidhi Chauhan, Shahid Mallya",
+    "movie": "Jab Harry Met Sejal",
+    "genre": "new-age",
+    "year": 2017
+  },
+  {
+    "id": "98e99289-d97c-4989-9d3d-2493cae2e57e",
+    "title": "Bom Diggy Diggy",
+    "artist": "Zack Knight, Jasmin Walia",
+    "movie": "Sonu Ke Titu Ki Sweety",
+    "genre": "new-age",
+    "year": 2018
+  },
+  {
+    "id": "232df5dc-3aec-4037-af11-dd18eace784f",
+    "title": "Dil Chori",
+    "artist": "Yo Yo Honey Singh",
+    "movie": "Sonu Ke Titu Ki Sweety",
+    "genre": "new-age",
+    "year": 2018
+  },
+  {
+    "id": "62551b35-9d61-41c6-969a-e53238acf939",
+    "title": "Tere Bin",
+    "artist": "Rahat Fateh Ali Khan, Asees Kaur",
+    "movie": "Simmba",
+    "genre": "new-age",
+    "year": 2018
+  },
+  {
+    "id": "813a1401-b19f-4bea-91e3-b137b30bc3a9",
+    "title": "O Saki Saki",
+    "artist": "Neha Kakkar, Tulsi Kumar",
+    "movie": "Batla House",
+    "genre": "new-age",
+    "year": 2019
+  },
+  {
+    "id": "b0dcaac5-dd12-4220-92b7-0dee63050de9",
+    "title": "Bekhayali",
+    "artist": "Sachet Tandon",
+    "movie": "Kabir Singh",
+    "genre": "new-age",
+    "year": 2019
+  },
+  {
+    "id": "0076e547-1e15-4d23-bf15-829c60a3fb00",
+    "title": "Tujhe Kitna Chahne Lage",
+    "artist": "Arijit Singh",
+    "movie": "Kabir Singh",
+    "genre": "new-age",
+    "year": 2019
+  },
+  {
+    "id": "263627f7-5ac8-4f4f-9944-de520ec52ed0",
+    "title": "Kaise Hua",
+    "artist": "Vishal Mishra",
+    "movie": "Kabir Singh",
+    "genre": "new-age",
+    "year": 2019
+  },
+  {
+    "id": "314e84ae-9fd8-4ce2-9eb0-ebc9257fa504",
+    "title": "Shaitan Ka Saala",
+    "artist": "Sohail Sen, Vishal Dadlani",
+    "movie": "Housefull 4",
+    "genre": "new-age",
+    "year": 2019
+  },
+  {
+    "id": "10a695e1-2df1-453b-979e-ed659999b0e9",
+    "title": "Ho Gaya Hai Tujhko To Pyaar Sajna",
+    "artist": "Lata Mangeshkar, Udit Narayan",
+    "movie": "Dilwale Dulhania Le Jayenge",
+    "genre": "golden-era",
+    "year": 1995
+  },
+  {
+    "id": "6c6e18e9-5a14-45a4-8af9-30804404e9af",
+    "title": "Bholi Si Surat",
+    "artist": "Udit Narayan, Lata Mangeshkar",
+    "movie": "Dil To Pagal Hai",
+    "genre": "golden-era",
+    "year": 1997
+  },
+  {
+    "id": "87171f56-6273-4fc1-a7d1-fe726d1e81a5",
+    "title": "Dil To Pagal Hai",
+    "artist": "Lata Mangeshkar, Udit Narayan",
+    "movie": "Dil To Pagal Hai",
+    "genre": "golden-era",
+    "year": 1997
+  },
+  {
+    "id": "77752fc6-2bad-4e1f-9081-57b9d3f9e016",
+    "title": "Koi Mil Gaya",
+    "artist": "Udit Narayan, Alka Yagnik, Kavita Krishnamurthy",
+    "movie": "Kuch Kuch Hota Hai",
+    "genre": "golden-era",
+    "year": 1998
+  },
+  {
+    "id": "44605843-c022-44d9-a4f5-40d734f4d76b",
+    "title": "Ladki Badi Anjani Hai",
+    "artist": "Kumar Sanu, Alka Yagnik",
+    "movie": "Kuch Kuch Hota Hai",
+    "genre": "golden-era",
+    "year": 1998
+  },
+  {
+    "id": "0113af6e-e83e-4578-b359-9efb5786537f",
+    "title": "Suraj Hua Maddham",
+    "artist": "Sonu Nigam, Alka Yagnik",
+    "movie": "Kabhi Khushi Kabhie Gham",
+    "genre": "golden-era",
+    "year": 2001
+  },
+  {
+    "id": "4b8b63ee-a4dd-420e-b1cf-b709714d8ecb",
+    "title": "Bole Chudiyan",
+    "artist": "Kavita K, Alka Y, Sonu N, Udit N, Amit K",
+    "movie": "Kabhi Khushi Kabhie Gham",
+    "genre": "golden-era",
+    "year": 2001
+  },
+  {
+    "id": "b8b2160e-c947-46d1-b198-af44961c219f",
+    "title": "You Are My Soniya",
+    "artist": "Sonu Nigam, Alka Yagnik",
+    "movie": "Kabhi Khushi Kabhie Gham",
+    "genre": "golden-era",
+    "year": 2001
+  },
+  {
+    "id": "5e05aa93-9b23-4b95-a5fa-0466f5273d33",
+    "title": "Maahi Ve",
+    "artist": "Sadhana S, Sujata B, Udit N, Sonu N, Shankar M",
+    "movie": "Kal Ho Naa Ho",
+    "genre": "golden-era",
+    "year": 2003
+  },
+  {
+    "id": "2f596f39-7e42-4e02-b249-dd3572b3c189",
+    "title": "It's The Time To Disco",
+    "artist": "Shaan, Vasundhara Das, KK",
+    "movie": "Kal Ho Naa Ho",
+    "genre": "golden-era",
+    "year": 2003
+  },
+  {
+    "id": "5616e664-2176-489c-ad2d-35b11e71d350",
+    "title": "Main Yahaan Hoon",
+    "artist": "Udit Narayan",
+    "movie": "Veer-Zaara",
+    "genre": "golden-era",
+    "year": 2004
+  },
+  {
+    "id": "9d8fe26d-84e2-42c8-9a5b-44193930d32b",
+    "title": "Tere Liye",
+    "artist": "Lata Mangeshkar, Roop Kumar Rathod",
+    "movie": "Veer-Zaara",
+    "genre": "golden-era",
+    "year": 2004
+  },
+  {
+    "id": "796b3508-bb49-4675-942b-a660807f587a",
+    "title": "Do Pal",
+    "artist": "Lata Mangeshkar, Sonu Nigam",
+    "movie": "Veer-Zaara",
+    "genre": "golden-era",
+    "year": 2004
+  },
+  {
+    "id": "1c1acb7c-20bb-4434-a623-29375d45e43b",
+    "title": "Kabhi Alvida Naa Kehna",
+    "artist": "Sonu Nigam, Alka Yagnik",
+    "movie": "Kabhi Alvida Naa Kehna",
+    "genre": "golden-era",
+    "year": 2006
+  },
+  {
+    "id": "03267445-1c51-4f33-a912-d65b04890bb6",
+    "title": "Where's The Party Tonight",
+    "artist": "Shaan, Vasundhara Das, Loy Mendonsa, Shankar M",
+    "movie": "Kabhi Alvida Naa Kehna",
+    "genre": "golden-era",
+    "year": 2006
+  },
+  {
+    "id": "4cb2c720-12a8-43bd-ba07-f4277a18df04",
+    "title": "Bidi Jalaile",
+    "artist": "Sunidhi Chauhan, Sukhwinder Singh",
+    "movie": "Omkara",
+    "genre": "golden-era",
+    "year": 2006
+  },
+  {
+    "id": "1505ce5f-55d0-4633-b945-33b39076fd49",
+    "title": "Namak",
+    "artist": "Rekha Bhardwaj, Rakesh Pandit",
+    "movie": "Omkara",
+    "genre": "golden-era",
+    "year": 2006
+  },
+  {
+    "id": "607ada34-b194-42e1-9c67-fecd83acc32e",
+    "title": "Kajra Re",
+    "artist": "Alisha Chinai, Shankar Mahadevan, Javed Ali",
+    "movie": "Bunty Aur Babli",
+    "genre": "golden-era",
+    "year": 2005
+  },
+  {
+    "id": "23d7e400-fc51-4a3c-941f-d7750b1ad73e",
+    "title": "Chup Chup Ke",
+    "artist": "Sonu Nigam, Mahalaxmi Iyer",
+    "movie": "Bunty Aur Babli",
+    "genre": "golden-era",
+    "year": 2005
+  },
+  {
+    "id": "65a01583-41ba-4fa7-9340-4608e7a9b630",
+    "title": "Dhoom Machale",
+    "artist": "Sunidhi Chauhan",
+    "movie": "Dhoom",
+    "genre": "golden-era",
+    "year": 2004
+  },
+  {
+    "id": "31b1c41f-c1ad-4324-bc4a-afa0e2a18958",
+    "title": "Crazy Kiya Re",
+    "artist": "Sunidhi Chauhan",
+    "movie": "Dhoom 2",
+    "genre": "golden-era",
+    "year": 2006
+  },
+  {
+    "id": "b0eb87b7-bebb-4eab-b834-03a9a5932bac",
+    "title": "Mauja Hi Mauja",
+    "artist": "Mika Singh",
+    "movie": "Jab We Met",
+    "genre": "golden-era",
+    "year": 2007
+  },
+  {
+    "id": "0a0c3a15-016f-428e-ae24-a41d360f0a57",
+    "title": "Yeh Ishq Hai",
+    "artist": "Shreya Ghoshal",
+    "movie": "Jab We Met",
+    "genre": "golden-era",
+    "year": 2007
+  },
+  {
+    "id": "9f978603-1012-40bd-ac30-1bb776f6ca30",
+    "title": "Pehli Nazar Mein",
+    "artist": "Atif Aslam",
+    "movie": "Race",
+    "genre": "golden-era",
+    "year": 2008
+  },
+  {
+    "id": "875e3b10-654f-493b-9ea9-a46c8ee9c839",
+    "title": "Zara Zara Touch Me",
+    "artist": "Monali Thakur",
+    "movie": "Race",
+    "genre": "golden-era",
+    "year": 2008
+  },
+  {
+    "id": "0f51800b-d22a-4e5a-bbaa-e8d75825d464",
+    "title": "Desi Girl",
+    "artist": "Shankar Mahadevan, Sunidhi Chauhan, Vishal Dadlani",
+    "movie": "Dostana",
+    "genre": "golden-era",
+    "year": 2008
+  },
+  {
+    "id": "26074b77-e958-466d-9b97-c24587bbd6ad",
+    "title": "Maa Da Laadla",
+    "artist": "Saleem",
+    "movie": "Dostana",
+    "genre": "golden-era",
+    "year": 2008
+  },
+  {
+    "id": "7502905b-ffeb-4606-b0fe-cde2e47bc0ef",
+    "title": "Iktara",
+    "artist": "Kavita Seth, Amitabh Bhattacharya",
+    "movie": "Wake Up Sid",
+    "genre": "golden-era",
+    "year": 2009
+  },
+  {
+    "id": "bbcba94a-bf18-46e5-869f-dc226e5478f6",
+    "title": "Tum Jo Aaye",
+    "artist": "Rahat Fateh Ali Khan, Tulsi Kumar",
+    "movie": "Once Upon A Time In Mumbaai",
+    "genre": "golden-era",
+    "year": 2010
+  },
+  {
+    "id": "4264935f-f508-4192-a15f-90807637d325",
+    "title": "Munni Badnaam Hui",
+    "artist": "Mamta Sharma, Aishwarya, Master Saleem",
+    "movie": "Dabangg",
+    "genre": "golden-era",
+    "year": 2010
+  },
+  {
+    "id": "08c0e568-2ed4-4d34-bb51-097877e786f6",
+    "title": "Tere Mast Mast Do Nain",
+    "artist": "Rahat Fateh Ali Khan",
+    "movie": "Dabangg",
+    "genre": "golden-era",
+    "year": 2010
+  },
+  {
+    "id": "fa3ed932-0674-4117-9d0f-418145bb342a",
+    "title": "Naatu Naatu",
+    "artist": "Rahul Sipligunj, Kaala Bhairava",
+    "movie": "RRR",
+    "genre": "new-age",
+    "year": 2022
+  },
+  {
+    "id": "0a250a0f-e99a-4c49-b64c-5069e9efeb3b",
+    "title": "Kala Chashma",
+    "artist": "Amar Arshi, Badshah",
+    "movie": "Baar Baar Dekho",
+    "genre": "new-age",
+    "year": 2016
+  },
+  {
+    "id": "fcc85559-d0d5-458a-883b-9ca45ade6fbc",
+    "title": "Tum Hi Aana",
+    "artist": "Jubin Nautiyal",
+    "movie": "Marjaavaan",
+    "genre": "new-age",
+    "year": 2019
+  },
+  {
+    "id": "147066b0-8da5-455b-adc0-520e92eddfe0",
+    "title": "Lut Gaye",
+    "artist": "Jubin Nautiyal",
+    "movie": "Single",
+    "genre": "new-age",
+    "year": 2021
+  },
+  {
+    "id": "042f9c51-8d19-4c69-a8f6-ae3a1563cbae",
+    "title": "Bijlee Bijlee",
+    "artist": "Harrdy Sandhu",
+    "movie": "Single",
+    "genre": "new-age",
+    "year": 2021
+  },
+  {
+    "id": "4a5b6e4f-5a06-438b-9af6-a0930a751845",
+    "title": "Param Sundari",
+    "artist": "Shreya Ghoshal",
+    "movie": "Mimi",
+    "genre": "new-age",
+    "year": 2021
+  },
+  {
+    "id": "abbef501-1ffa-4f43-a005-84d64de2c969",
+    "title": "Srivalli",
+    "artist": "Javed Ali",
+    "movie": "Pushpa",
+    "genre": "new-age",
+    "year": 2021
+  },
+  {
+    "id": "c91f765e-0f15-49f3-ada7-6b853c6605c1",
+    "title": "Oo Bolega Ya Oo Oo Bolega",
+    "artist": "Kanika Kapoor",
+    "movie": "Pushpa",
+    "genre": "new-age",
+    "year": 2021
+  },
+  {
+    "id": "419e75fb-14a2-46cf-ae40-8592951a85ce",
+    "title": "Saami Saami",
+    "artist": "Sunidhi Chauhan",
+    "movie": "Pushpa",
+    "genre": "new-age",
+    "year": 2021
+  },
+  {
+    "id": "b3bc39c7-9f34-4f20-8890-b1a311425670",
+    "title": "Jalebi Baby",
+    "artist": "Tesher, Jason Derulo",
+    "movie": "Single",
+    "genre": "new-age",
+    "year": 2021
+  },
+  {
+    "id": "a792733f-a2a1-421b-a8db-ba6416a8e3f1",
+    "title": "Pasoori",
+    "artist": "Ali Sethi, Shae Gill",
+    "movie": "Coke Studio",
+    "genre": "new-age",
+    "year": 2022
+  },
+  {
+    "id": "8673aed4-fe3d-42a5-9389-6ac83b2c1eb4",
+    "title": "Jug Jug Jeeve",
+    "artist": "Sachet Tandon",
+    "movie": "Shiddat",
+    "genre": "new-age",
+    "year": 2021
+  },
+  {
+    "id": "f47395e8-5938-434b-96a2-ca9c80dc657d",
+    "title": "Subhanallah",
+    "artist": "Sreerama Chandra",
+    "movie": "Yeh Jawaani Hai Deewani",
+    "genre": "new-age",
+    "year": 2013
+  }
+]
