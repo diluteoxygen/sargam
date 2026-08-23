@@ -18,6 +18,20 @@ function getFallbackSong(mode, exclude = []) {
     pool = songsData.filter((s) => s.year >= 2024);
   }
   
+  // Adaptive Matchmaking for non-daily modes
+  if (typeof localStorage !== "undefined" && mode !== "daily") {
+    const xp = parseInt(localStorage.getItem("sargam-xp") || "0", 10);
+    const easyPool = pool.filter((s) => s.difficulty === "super-easy" && !exclude.includes(s.id));
+    
+    if (easyPool.length > 0) {
+      if (xp < 1000 && Math.random() < 0.85) {
+        pool = easyPool;
+      } else if (xp < 5000 && Math.random() < 0.50) {
+        pool = easyPool;
+      }
+    }
+  }
+
   let picked;
   if (mode === "daily") {
     const now = Date.now();
