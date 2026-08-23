@@ -1,4 +1,5 @@
 import { useState, useEffect, useRef, useCallback } from "react";
+import { flushSync } from "react-dom";
 import { normalize } from "../lib/normalize.js";
 import { getScore } from "../lib/scoring.js";
 import { recordResult } from "../lib/stats.js";
@@ -45,7 +46,20 @@ export function useRound(
 
   const [attempt, setAttempt] = useState(0);
   const [rows, setRows] = useState(() => Array(6).fill(null));
-  const [modal, setModal] = useState(null);
+  
+  const [modal, _setModal] = useState(null);
+  const setModal = useCallback((newModal) => {
+    if (!document.startViewTransition || reduceMotion) {
+      _setModal(newModal);
+      return;
+    }
+    document.startViewTransition(() => {
+      flushSync(() => {
+        _setModal(newModal);
+      });
+    });
+  }, [reduceMotion]);
+
   const [solvedIn, setSolvedIn] = useState(null);
   const [score, setScore] = useState(0);
   const [shake, setShake] = useState(false);
