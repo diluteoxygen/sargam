@@ -17,6 +17,7 @@ import { searchSongs } from "./lib/search.js";
 import { loadStats, computeAverage } from "./lib/stats.js";
 import { getProgressToNextLevel, loadXP } from "./lib/scoring.js";
 import { TROPHIES, checkTrophies } from "./lib/trophies.js";
+import { pushToCloud } from "./lib/sync.js";
 
 // Mode definitions: each has a display label and the API mode key
 const MODES = [
