@@ -1,5 +1,6 @@
 import { auth, db } from "./firebase.js";
 import { doc, getDoc, setDoc } from "firebase/firestore";
+import { setXP } from "./scoring.js";
 
 // The master keys we care about syncing
 const KEYS = [
