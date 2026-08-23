@@ -73,23 +73,23 @@ export default function HowToPlayModal({ onClose }) {
               <tbody>
                 <tr style={{ borderBottom: "1px solid var(--border)" }}>
                   <td style={{ padding: "6px 4px" }}>1</td>
-                  <td style={{ padding: "6px 4px" }}>1000</td>
+                  <td style={{ padding: "6px 4px" }}>500</td>
                 </tr>
                 <tr style={{ borderBottom: "1px solid var(--border)" }}>
                   <td style={{ padding: "6px 4px" }}>2</td>
-                  <td style={{ padding: "6px 4px" }}>800</td>
-                </tr>
-                <tr style={{ borderBottom: "1px solid var(--border)" }}>
-                  <td style={{ padding: "6px 4px" }}>3</td>
-                  <td style={{ padding: "6px 4px" }}>600</td>
-                </tr>
-                <tr style={{ borderBottom: "1px solid var(--border)" }}>
-                  <td style={{ padding: "6px 4px" }}>4</td>
                   <td style={{ padding: "6px 4px" }}>400</td>
                 </tr>
                 <tr style={{ borderBottom: "1px solid var(--border)" }}>
-                  <td style={{ padding: "6px 4px" }}>5</td>
+                  <td style={{ padding: "6px 4px" }}>3</td>
+                  <td style={{ padding: "6px 4px" }}>300</td>
+                </tr>
+                <tr style={{ borderBottom: "1px solid var(--border)" }}>
+                  <td style={{ padding: "6px 4px" }}>4</td>
                   <td style={{ padding: "6px 4px" }}>200</td>
+                </tr>
+                <tr style={{ borderBottom: "1px solid var(--border)" }}>
+                  <td style={{ padding: "6px 4px" }}>5</td>
+                  <td style={{ padding: "6px 4px" }}>100</td>
                 </tr>
                 <tr style={{ borderBottom: "1px solid var(--border)" }}>
                   <td style={{ padding: "6px 4px" }}>6</td>

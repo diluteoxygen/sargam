@@ -1,4 +1,4 @@
-export const SCORES = [1000, 800, 600, 400, 200, 10];
+export const SCORES = [500, 400, 300, 200, 100, 10];
 
 export function getScore(attemptIndex) {
   if (attemptIndex === undefined || attemptIndex === null || attemptIndex < 0 || attemptIndex >= SCORES.length) {
