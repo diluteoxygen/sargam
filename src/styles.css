@@ -1,9 +1,10 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800&display=swap');
-
 html, body {
   margin: 0;
   padding: 0;
   background: #121014;
+  scroll-behavior: smooth;
+  scrollbar-color: var(--surface-2) var(--bg);
+  scrollbar-width: thin;
 }
 
 .sg-app{

@@ -145,7 +145,7 @@ export default function ProfileModal({ onClose }) {
           <div style={{ display: "flex", justifyContent: "space-between", alignItems: "flex-end" }}>
             <div style={{ position: "relative" }}>
               {user?.photoURL ? (
-                <img src={user.photoURL} referrerPolicy="no-referrer" alt="Avatar" style={{ width: 80, height: 80, borderRadius: "50%", border: "6px solid var(--bg)", objectFit: "cover", boxShadow: "0 4px 12px rgba(0,0,0,0.2)", background: "var(--surface)" }} />
+                <img src={user.photoURL} loading="lazy" referrerPolicy="no-referrer" alt="Avatar" style={{ width: 80, height: 80, borderRadius: "50%", border: "6px solid var(--bg)", objectFit: "cover", boxShadow: "0 4px 12px rgba(0,0,0,0.2)", background: "var(--surface)" }} />
               ) : (
                 <div style={{ width: 80, height: 80, borderRadius: "50%", background: "var(--surface)", border: "6px solid var(--bg)", display: "flex", alignItems: "center", justifyContent: "center", boxShadow: "0 4px 12px rgba(0,0,0,0.2)" }}>
                   <span style={{ fontSize: 32, fontWeight: 900, color: "var(--gold)" }}>{currentLevel}</span>
