@@ -1,9 +1,39 @@
 rules_version = '2';
 service cloud.firestore {
   match /databases/{database}/documents {
+    
+    function isValidString(data, field, maxLength) {
+      return !(field in data) || (data[field] is string && data[field].size() <= maxLength);
+    }
+    
+    function isValidNumber(data, field, maxNum) {
+      return !(field in data) || (data[field] is number && data[field] >= 0 && data[field] <= maxNum);
+    }
+    
     match /users/{userId} {
       allow read: if true;
-      allow write: if request.auth != null && request.auth.uid == userId;
+      allow write: if request.auth != null 
+                   && request.auth.uid == userId
+                   
+                   // Strict Schema whitelist
+                   && request.resource.data.keys().hasOnly([
+                     'sargam-username', 'sargam-xp', 'xp_number', 'sargam-join-date', 
+                     'sargam-trophies', 'sargam-stats-daily', 'sargam-stats-all', 
+                     'sargam-stats-trending', 'photoURL'
+                   ])
+                   
+                   // Math Bounds
+                   && isValidNumber(request.resource.data, 'xp_number', 10000000)
+                   
+                   // String Limits (prevent DB bloat)
+                   && isValidString(request.resource.data, 'sargam-username', 30)
+                   && isValidString(request.resource.data, 'sargam-xp', 20)
+                   && isValidString(request.resource.data, 'sargam-join-date', 50)
+                   && isValidString(request.resource.data, 'sargam-trophies', 10000)
+                   && isValidString(request.resource.data, 'sargam-stats-daily', 2000)
+                   && isValidString(request.resource.data, 'sargam-stats-all', 2000)
+                   && isValidString(request.resource.data, 'sargam-stats-trending', 2000)
+                   && isValidString(request.resource.data, 'photoURL', 1000);
     }
   }
 }
