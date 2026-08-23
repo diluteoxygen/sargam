@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800&family=Shrikhand&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800&display=swap');
 
 html, body {
   margin: 0;
@@ -57,7 +57,7 @@ body.sg-light .sg-app {
 }
 .sg-icon-btn:hover{ background:rgba(255,255,255,0.06); color:var(--text); }
 .sg-brand{
-  font-family:'Shrikhand', cursive; font-weight:400; font-size:32px;
+  font-family:'Poppins', sans-serif; font-weight:800; font-size:28px;
   letter-spacing:0.5px; margin:0; color:var(--text);
   position:absolute; left:50%; transform:translateX(-50%);
   pointer-events:none; user-select:none;
