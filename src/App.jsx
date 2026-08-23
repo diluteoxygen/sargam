@@ -377,13 +377,6 @@ export default function App() {
         {/* header */}
         <header className="sg-header">
           <div className="sg-header-left">
-            {mode !== "daily" && currentStats.currentStreak > 0 && (
-              <div className="sg-streak-badge">
-                <Flame size={18} fill="orange" color="orange" className="sg-flame-anim" />
-                <span className="sg-streak-count">x{currentStats.currentStreak}</span>
-
-              </div>
-            )}
             <XpBadge onClick={() => setModal("profile")} />
           </div>
 
@@ -485,7 +478,14 @@ export default function App() {
                     setInput(e.target.value);
                     setShowSug(true);
                   }}
-                  onFocus={() => setShowSug(true)}
+                  onFocus={(e) => {
+                    setShowSug(true);
+                    if (window.innerWidth <= 600) {
+                      setTimeout(() => {
+                        e.target.scrollIntoView({ behavior: 'smooth', block: 'center' });
+                      }, 300);
+                    }
+                  }}
                   onBlur={() => setTimeout(() => setShowSug(false), 140)}
                 />
                 {showSug && suggestions.length > 0 && (

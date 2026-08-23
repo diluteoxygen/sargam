@@ -466,3 +466,13 @@ body.sg-light .sg-app {
     animation: none !important;
   }
 }
+
+.sg-row-icon { display: none; }
+
+@media (max-width: 600px) {
+  .sg-rows { flex-direction: row; justify-content: center; gap: 8px; }
+  .sg-row { height: 44px; flex: 1; min-width: 0; max-width: 44px; }
+  .sg-row-text { display: none; }
+  .sg-row-icon { display: flex; align-items: center; justify-content: center; }
+  .sg-suggestions { top: auto; bottom: calc(100% + 8px); box-shadow: 0 -16px 32px rgba(0,0,0,0.45); }
+}
