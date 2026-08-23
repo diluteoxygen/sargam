@@ -1,5 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
+import { Analytics } from '@vercel/analytics/react';
 import App from "./App.jsx";
 import AdminApp from "./AdminApp.jsx";
 import "./styles.css";
@@ -14,6 +15,7 @@ if (window.location.hash === "#admin") {
     root.render(
       <React.StrictMode>
         <App />
+        <Analytics />
       </React.StrictMode>
     );
   }
@@ -21,6 +23,7 @@ if (window.location.hash === "#admin") {
   root.render(
     <React.StrictMode>
       <App />
+      <Analytics />
     </React.StrictMode>
   );
 }

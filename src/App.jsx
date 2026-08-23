@@ -87,13 +87,22 @@ function DailyCountdown() {
   return <span>{countdown}</span>;
 }
 
-function ShareButton({ isWin, solvedIn, score, date, mode }) {
+function ShareButton({ isWin, solvedIn, score, date, mode, rows }) {
   const [copied, setCopied] = useState(false);
   async function handleShare() {
     const modeLabels = { daily: "Daily", all: "All Songs", trending: "Trending Hits" };
     const modeLabel = modeLabels[mode] || "Sargam";
-    const result = isWin ? `Solved in ${solvedIn}/6` : "Failed";
-    const text = `Sargam ${modeLabel} ${date} — ${result} — Score: ${score}`;
+    
+    // Generate Emoji Grid
+    const grid = rows.map(r => {
+      if (!r) return "⬜";
+      if (r.type === "skip") return "⬛";
+      if (r.correct) return "🟩";
+      return "🟥";
+    }).join(" ");
+
+    const result = isWin ? `${solvedIn}/6` : "X/6";
+    const text = `Sargam ${modeLabel} ${date} — ${result}\n${grid}\nScore: ${score} 🏆\n\nhttps://sargam.vercel.app`;
     try {
       await navigator.clipboard.writeText(text);
       setCopied(true);
@@ -128,9 +137,9 @@ export default function App() {
   const [darkTheme, setDarkTheme] = useState(savedSettings?.darkTheme ?? true);
   const [reduceMotion, setReduceMotion] = useState(savedSettings?.reduceMotion ?? false);
 
-  const [ftuePulse, setFtuePulse] = useState(() => {
-    if (typeof localStorage === "undefined") return false;
-    return !localStorage.getItem("sargam-played");
+  const [ftueStep, setFtueStep] = useState(() => {
+    if (typeof localStorage === "undefined") return 0;
+    return !localStorage.getItem("sargam-played") ? 1 : 0;
   });
   
   // Persist settings to localStorage
@@ -211,7 +220,7 @@ export default function App() {
 
 
   useEffect(() => {
-    if (ftuePulse) {
+    if (ftueStep === 1) {
       setModal("help");
       try {
         localStorage.setItem("sargam-played", "true");
@@ -221,7 +230,7 @@ export default function App() {
   }, []);
 
   const handlePlayClick = () => {
-    if (ftuePulse) setFtuePulse(false);
+    if (ftueStep === 1) setFtueStep(2);
     if (playing) stop();
     else play();
   };
@@ -298,6 +307,7 @@ export default function App() {
   }
 
   function onSkipClick() {
+    if (ftueStep === 2) setFtueStep(0);
     stop();
     handleSkip();
     setInput("");
@@ -373,6 +383,7 @@ export default function App() {
 
   return (
     <div className="sg-app">
+      {ftueStep > 0 && <div className="sg-tutorial-backdrop" />}
       <div className="sg-page">
         {/* header */}
         <header className="sg-header">
@@ -453,11 +464,12 @@ export default function App() {
               />
               <button
                 type="button"
-                className={"sg-play-btn" + (playing ? " is-playing" : "") + (ftuePulse && !playing && !gameOver && attempt === 0 ? " ftue-pulse" : "")}
+                className={"sg-play-btn" + (playing ? " is-playing" : "") + (ftueStep === 1 && !playing && !gameOver && attempt === 0 ? " sg-spotlight" : "")}
                 onClick={handlePlayClick}
                 disabled={gameOver}
                 aria-label={playing ? "Pause snippet" : "Play snippet"}
               >
+                {ftueStep === 1 && <div className="sg-tutorial-text">Tap to listen to 0.2s!</div>}
                 {playing ? (
                   <Pause size={22} strokeWidth={2.4} />
                 ) : (
@@ -465,7 +477,8 @@ export default function App() {
                 )}
               </button>
               <form className="sg-guess-form" onSubmit={onFormSubmit}>
-              <div className="sg-search">
+              <div className={"sg-search" + (ftueStep === 2 ? " sg-spotlight" : "")}>
+                {ftueStep === 2 && <div className="sg-tutorial-text" style={{ bottom: "calc(100% + 15px)", top: "auto" }}>Now guess the song or Skip!</div>}
                 <Search size={16} className="sg-search-icon" />
                 <input
                   ref={inputRef}
@@ -479,6 +492,7 @@ export default function App() {
                     setShowSug(true);
                   }}
                   onFocus={(e) => {
+                    if (ftueStep === 2) setFtueStep(0);
                     setShowSug(true);
                     if (window.innerWidth <= 600) {
                       setTimeout(() => {
@@ -597,7 +611,7 @@ export default function App() {
               )}
 
               <div style={{ display: "flex", gap: "8px" }}>
-                <ShareButton isWin={solvedIn !== null} solvedIn={solvedIn} score={score} date={date} mode={mode} />
+                <ShareButton isWin={solvedIn !== null} solvedIn={solvedIn} score={score} date={date} mode={mode} rows={rows} />
                 <button
                   type="button"
                   className="sg-btn sg-btn-ghost"
