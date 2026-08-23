@@ -53,11 +53,12 @@ export function useRound(
       _setModal(newModal);
       return;
     }
-    document.startViewTransition(() => {
+    const transition = document.startViewTransition(() => {
       flushSync(() => {
         _setModal(newModal);
       });
     });
+    transition.finished.catch(() => {});
   }, [reduceMotion]);
 
   const [solvedIn, setSolvedIn] = useState(null);
