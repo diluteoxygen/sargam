@@ -5,6 +5,7 @@ import { getScore } from "../lib/scoring.js";
 import { recordResult } from "../lib/stats.js";
 import { fireWinConfetti } from "../lib/confetti.js";
 import { playWrong, playCorrect, playSkip, playStreakUp, playStreakLost } from "../lib/sfx.js";
+import { logRoundEvent } from "../lib/telemetry.js";
 
 function getStorageKey(mode, date) {
   if (!mode) return null;
@@ -127,6 +128,20 @@ export function useRound(
     }
   }
 
+  function fireTelemetry(newAttempts, outcome, tierAtGuess) {
+    if (!target?.id) return;
+    const skips = newAttempts.filter((a) => a.type === "skip").length;
+    logRoundEvent({
+      songId: target.id,
+      mode,
+      date,
+      outcome,
+      attemptCount: newAttempts.length,
+      tierAtGuess,
+      skips
+    });
+  }
+
   const isWon = solvedIn !== null;
   const isLost = !isWon && attemptsRef.current.length >= 6;
   const gameOver = isWon || isLost;
@@ -151,6 +166,7 @@ export function useRound(
       setScore(0);
 
       persist(newAttempts, "lost", 0);
+      fireTelemetry(newAttempts, "lost", null);
       const stats = recordResult(mode, date, false, null, 0);
       if (sfxEnabled && mode !== "daily" && stats.currentStreak === 0) {
         setTimeout(() => playStreakLost(sfxVolume), 300);
@@ -179,6 +195,7 @@ export function useRound(
     setScore(0);
 
     persist(newAttempts, "lost", 0);
+    fireTelemetry(newAttempts, "lost", null);
     
     const stats = recordResult(mode, date, false, null, 0);
     
@@ -216,6 +233,7 @@ export function useRound(
       setScore(calculatedScore);
 
       persist(newAttempts, "won", calculatedScore);
+      fireTelemetry(newAttempts, "won", currentAttempt);
       const stats = recordResult(mode, date, true, solved, calculatedScore);
 
       if (sfxEnabled) {
@@ -241,6 +259,7 @@ export function useRound(
         setScore(0);
 
         persist(newAttempts, "lost", 0);
+        fireTelemetry(newAttempts, "lost", null);
         const stats = recordResult(mode, date, false, null, 0);
         if (sfxEnabled && mode !== "daily" && stats.currentStreak === 0) {
           setTimeout(() => playStreakLost(sfxVolume), 300);

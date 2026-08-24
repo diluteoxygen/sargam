@@ -33,6 +33,7 @@ OUT_DIR = os.path.join(os.path.dirname(__file__), "../data/highlight_clips")
 AUDIO_DIRS = [
     "/home/oxy/Documents/sargam_audio_backup/audio",
     "/home/oxy/Documents/sargam_batch2",
+    "/home/oxy/Documents/sargam_batch3",
 ]
 
 CLIP_DURATION = 20.0   # seconds

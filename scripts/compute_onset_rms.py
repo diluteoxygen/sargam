@@ -38,6 +38,7 @@ DIST_FILE = os.path.join(os.path.dirname(__file__), "../data/onset_distribution.
 AUDIO_DIRS = [
     "/home/oxy/Documents/sargam_audio_backup/audio",
     "/home/oxy/Documents/sargam_batch2",
+    "/home/oxy/Documents/sargam_batch3",
 ]
 
 ANALYSIS_WINDOW = 15.0    # seconds of track to analyse
@@ -211,19 +212,23 @@ def _compute_onset_two_pass(audio_path):
 
 
 def main():
-    parser = argparse.ArgumentParser(
-        description="Compute RMS-based onset times for all songs in songs.json."
-    )
+    parser = argparse.ArgumentParser(description="Compute RMS-based onset for songs.")
     parser.add_argument("--dry-run", action="store_true",
                         help="Print results without modifying songs.json.")
     parser.add_argument("--limit", type=int, default=None,
                         help="Process only the first N songs (for testing).")
+    parser.add_argument("--only-id", type=str, default=None,
+                        help="Process only a specific song by ID.")
     args = parser.parse_args()
 
     with open(SONGS_FILE) as f:
         songs = json.load(f)
 
     target = songs[:args.limit] if args.limit else songs
+
+    if args.only_id:
+        target = [s for s in target if s["id"] == args.only_id]
+
 
     results = []
     missing_audio = []

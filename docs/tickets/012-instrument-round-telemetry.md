@@ -1,5 +1,5 @@
 ---
-status: open
+status: done
 depends_on: []
 created: 2026-08-24
 updated: 2026-08-24
@@ -39,13 +39,13 @@ Read before starting:
 
 ## Acceptance criteria
 
-- [ ] On a completed round (win or loss), a document appears in the Firestore `roundEvents` collection.
-- [ ] The document contains all 8 fields from the RoundEvent schema with correct types.
-- [ ] `tierAtGuess` is `null` when `outcome` is `"lost"`.
-- [ ] `skips` accurately counts the number of skip actions in the round.
-- [ ] A failed Firestore write does not produce a visible error or affect gameplay.
-- [ ] Firestore security rules for `roundEvents` allow create-only, no read/update/delete from clients.
-- [ ] No user-identifying information is included in the event.
+- [x] On a completed round (win or loss), a document appears in the Firestore `roundEvents` collection.
+- [x] The document contains all 8 fields from the RoundEvent schema with correct types.
+- [x] `tierAtGuess` is `null` when `outcome` is `"lost"`.
+- [x] `skips` accurately counts the number of skip actions in the round.
+- [x] A failed Firestore write does not produce a visible error or affect gameplay.
+- [x] Firestore security rules for `roundEvents` allow create-only, no read/update/delete from clients.
+- [x] No user-identifying information is included in the event.
 
 ## File pointers
 
@@ -53,3 +53,8 @@ Read before starting:
 - `src/lib/sync.js` -- reference for existing Firestore write patterns
 - `firestore.rules` -- update security rules for the new collection
 - `docs/song-curation/domain-model.md` section 2 -- RoundEvent schema
+
+## Changelog
+
+- 2026-08-24: Implemented `src/lib/telemetry.js` and wired it into `useRound.js` for fire-and-forget telemetry. Updated `firestore.rules` for append-only `roundEvents`.
+

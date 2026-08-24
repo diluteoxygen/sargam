@@ -35,5 +35,10 @@ service cloud.firestore {
                    && isValidString(request.resource.data, 'sargam-stats-trending', 2000)
                    && isValidString(request.resource.data, 'photoURL', 1000);
     }
+
+    match /roundEvents/{eventId} {
+      allow create: if true; // Append only, unauthenticated OK
+      allow read, update, delete: if false; // No reads, modifications or deletions from client
+    }
   }
 }
