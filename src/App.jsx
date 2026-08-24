@@ -185,6 +185,7 @@ export default function App() {
   const { playing, playbackProgress, play, stop } = useAudio(target, attempt, songVolume);
 
   const [toastTrophy, setToastTrophy] = useState(null);
+  const [toastMsg, setToastMsg] = useState(null);
   const [toastOut, setToastOut] = useState(false);
   const [showProfile, setShowProfile] = useState(false);
   const [showLeaderboard, setShowLeaderboard] = useState(false);
@@ -640,7 +641,10 @@ export default function App() {
                     const code = btoa(JSON.stringify({ id: target.id, score: score }));
                     const url = `${window.location.origin}/?c=${code}`;
                     navigator.clipboard.writeText(`I scored ${score} on Sargam! Can you beat me?\n\n${url}`);
-                    alert("Challenge link copied! Send it to your friend.");
+                    setToastOut(false);
+                    setToastMsg("Challenge link copied!");
+                    setTimeout(() => setToastOut(true), 2700);
+                    setTimeout(() => setToastMsg(null), 3000);
                   }}
                 >
                   <Zap size={16} />
@@ -679,6 +683,12 @@ export default function App() {
 
 
       
+            {toastMsg && (
+        <div className={toastOut ? "sg-toast-out" : ""} style={{ position: "fixed", top: 16, left: "50%", transform: "translateX(-50%)", background: "var(--surface)", border: "1px solid var(--border)", borderRadius: 32, padding: "10px 20px", display: "flex", alignItems: "center", gap: 10, zIndex: 1000, boxShadow: "0 10px 30px rgba(0,0,0,0.5)", animation: "toastSlide 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275)" }}>
+          <Zap size={18} color="var(--gold)" />
+          <div style={{ fontSize: 13, fontWeight: 700, color: "var(--text)" }}>{toastMsg}</div>
+        </div>
+      )}
       {toastTrophy && (
         <div className={toastOut ? "sg-toast-out" : ""} style={{ position: "fixed", top: 16, left: "50%", transform: "translateX(-50%)", background: "var(--surface)", border: `1px solid ${TROPHIES[toastTrophy]?.color || "var(--gold)"}`, borderRadius: 32, padding: "8px 16px", display: "flex", alignItems: "center", gap: 12, zIndex: 1000, boxShadow: "0 4px 12px rgba(0,0,0,0.3)", animation: "toastSlide 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275)" }}>
           <Star size={20} fill={TROPHIES[toastTrophy]?.color || "var(--gold)"} color={TROPHIES[toastTrophy]?.color || "var(--gold)"} />
