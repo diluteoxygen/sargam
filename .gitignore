@@ -23,3 +23,7 @@ build/
 .env.production.local
 playable_songs.txt
 secrets/
+data/highlight_clips/
+data/highlight_clips_spotcheck/
+added_ids.json
+new_songs.json
