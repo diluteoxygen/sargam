@@ -139,6 +139,13 @@ export default function SettingsModal({
                 Reset Stats & Progress
               </button>
             </div>
+
+            {/* Legal Links */}
+            <div style={{ marginTop: "2rem", display: "flex", gap: "16px", justifyContent: "center", fontSize: "12px", opacity: 0.7 }}>
+              <a href="/privacy.html" target="_blank" rel="noopener noreferrer" style={{ color: "var(--text-dim)", textDecoration: "none" }} onMouseOver={(e) => e.target.style.color = "var(--text)"} onMouseOut={(e) => e.target.style.color = "var(--text-dim)"}>Privacy Policy</a>
+              <span style={{ color: "var(--border)" }}>&bull;</span>
+              <a href="/terms.html" target="_blank" rel="noopener noreferrer" style={{ color: "var(--text-dim)", textDecoration: "none" }} onMouseOver={(e) => e.target.style.color = "var(--text)"} onMouseOut={(e) => e.target.style.color = "var(--text-dim)"}>Terms of Service</a>
+            </div>
           </section>
         </div>
       </div>
