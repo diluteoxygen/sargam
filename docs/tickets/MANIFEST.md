@@ -19,7 +19,8 @@ One line per ticket. Format: id | title | status | depends_on
 013 | Add Suitability Field and Heuristic Screening Pass | done | —
 014 | Telemetry Aggregation Script for Song Metrics | done | 012
 015 | Telemetry-Informed Suitability Review Process | done | 013, 014
-016 | Highlight Clip and CDN | open | 013
+016 | Highlight Clip and CDN | done | 013
+017 | Schedule Telemetry Aggregation | open | 014
 
 ---
 
@@ -46,6 +47,7 @@ One line per ticket. Format: id | title | status | depends_on
   012 -> 014 (aggregation script)
   013 + 014 -> 015 (telemetry-informed review)
   013 -> 016 (highlight clip and CDN)
+  014 -> 017 (schedule telemetry aggregation)
 ```
 
 ## Execution notes
