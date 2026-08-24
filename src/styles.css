@@ -483,3 +483,110 @@ body.sg-light .sg-app {
 .sg-tutorial-text { position: absolute; top: calc(100% + 15px); left: 50%; transform: translateX(-50%); background: var(--gold); color: #000; padding: 8px 14px; border-radius: 8px; font-weight: bold; font-size: 14px; white-space: nowrap; pointer-events: none; z-index: 10002; }
 .sg-tutorial-text::before { content: ''; position: absolute; bottom: 100%; left: 50%; transform: translateX(-50%); border-width: 8px; border-style: solid; border-color: transparent transparent var(--gold) transparent; }
 .sg-tutorial-backdrop { position: fixed; inset: 0; z-index: 10000; pointer-events: auto; }
+
+
+/* --- Redesigned Inline Results --- */
+.sg-inline-results {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  padding: 32px 20px;
+  background: var(--surface-2);
+  border-radius: 16px;
+  border: 1px solid var(--border);
+  box-shadow: 0 12px 32px rgba(0,0,0,0.25);
+  animation: sgShake 0.4s ease-out; /* We can use a slide-up animation if preferred, but let's keep it smooth */
+}
+
+@keyframes resultSlideUp {
+  0% { opacity: 0; transform: translateY(10px); }
+  100% { opacity: 1; transform: translateY(0); }
+}
+.sg-inline-results {
+  animation: resultSlideUp 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+}
+
+.sg-result-hero {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 8px;
+}
+
+.sg-result-status {
+  font-size: 13px;
+  font-weight: 800;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+}
+.sg-result-status[data-tone="win"] { color: var(--gold); }
+.sg-result-status[data-tone="loss"] { color: var(--red); }
+
+.sg-result-title {
+  font-size: 32px;
+  font-weight: 800;
+  line-height: 1.1;
+  color: var(--text);
+  margin-top: 4px;
+}
+
+.sg-result-meta {
+  font-size: 15px;
+  color: var(--text-dim);
+  font-weight: 500;
+}
+
+.sg-result-links {
+  display: flex;
+  gap: 12px;
+  justify-content: center;
+  align-items: center;
+  margin-top: 16px;
+  flex-wrap: wrap;
+}
+
+.sg-result-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 8px 14px;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 20px;
+  font-size: 13px;
+  font-weight: 600;
+  text-decoration: none;
+  transition: all 0.2s ease;
+}
+.sg-result-link:hover {
+  background: rgba(255,255,255,0.05);
+  transform: translateY(-1px);
+}
+
+.sg-result-challenge, .sg-result-countdown {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 16px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.sg-result-countdown-label {
+  font-size: 12px;
+  color: var(--text-dim);
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-weight: 600;
+}
+
+.sg-result-countdown-time {
+  font-size: 28px;
+  font-weight: 800;
+  color: var(--gold);
+  font-family: monospace;
+}
