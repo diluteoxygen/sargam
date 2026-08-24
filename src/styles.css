@@ -550,20 +550,30 @@ body.sg-light .sg-app {
 .sg-result-link {
   display: inline-flex;
   align-items: center;
-  gap: 6px;
-  padding: 8px 14px;
+  gap: 8px;
+  padding: 10px 16px;
   background: var(--surface);
   border: 1px solid var(--border);
-  border-radius: 20px;
+  border-radius: 10px;
   font-size: 13px;
   font-weight: 600;
+  color: var(--text);
   text-decoration: none;
-  transition: all 0.2s ease;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  transition: all 0.2s cubic-bezier(0.16, 1, 0.3, 1);
 }
 .sg-result-link:hover {
-  background: rgba(255,255,255,0.05);
-  transform: translateY(-1px);
+  background: rgba(255, 255, 255, 0.06);
+  border-color: rgba(255, 255, 255, 0.15);
+  transform: translateY(-2px);
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.2);
 }
+.sg-result-link svg {
+  flex-shrink: 0;
+}
+.brand-spotify svg { color: #1db954; }
+.brand-apple svg { color: #fa243c; }
+.brand-youtube svg { color: #ff0000; }
 
 .sg-result-challenge, .sg-result-countdown {
   background: var(--surface);
