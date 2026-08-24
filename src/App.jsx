@@ -564,7 +564,7 @@ export default function App() {
                   {resultTone === "win" ? "You Got It" : "Game Over"}
                 </div>
                 <div className="sg-result-title">{target?.title}</div>
-                <div className="sg-result-meta">{target?.movie} &middot; {target?.artist}</div>
+                <div className="sg-result-meta">{target?.movie ? `${target.movie} · ` : ""}{target?.artist}</div>
 
                 {target?.links && (target.links.spotify || target.links.apple || target.links.youtube) && (
                   <div className="sg-result-links">
