@@ -12,24 +12,28 @@ The addendum format was chosen (rather than modifying the existing domain-model.
 
 ## 1. New fields on Song
 
-The Song entity (defined in `docs/domain-model.md` section 1) gains two new optional fields:
+The Song entity (defined in `docs/domain-model.md` section 1) gains new optional fields:
 
-| Field           | Type                                      | Notes |
-|-----------------|-------------------------------------------|-------|
-| `suitability`   | `"suitable"` / `"unsuitable"` / `"review"` | Whether this song belongs in the active play pool. Default: `"suitable"` if omitted (backward compatibility with existing songs that predate this field). |
-| `difficulty`    | `"super-easy"` / `"easy"` / `"hard"` / null | Already exists on some songs. Retained as-is. Governs adaptive matchmaking in `useDaily.js`. No schema change needed, but this field is now formally part of the domain model rather than an ad-hoc tag. |
+| Field           | Type                                                                               | Notes |
+|-----------------|------------------------------------------------------------------------------------|-------|
+| `suitability`   | `"suitable"` / `"unsuitable"` / `"provisional_unsuitable"` / `"review"`           | Whether this song belongs in the active play pool. Default: `"suitable"` if omitted (backward compatibility). |
+| `startTime`     | number (seconds)                                                                   | Onset time: the point at which sustained musical material begins, computed by `scripts/compute_onset_rms.py`. Also serves as the audio play-start offset in `useAudio.js`. Named `startTime` in `songs.json` to match the existing field already consumed by the audio hook; the domain concept is `onsetSeconds`. |
+| `difficulty`    | `"super-easy"` / `"easy"` / `"hard"` / null                                       | Already exists on some songs. Retained as-is. Governs adaptive matchmaking in `useDaily.js`. No schema change needed, but this field is now formally part of the domain model rather than an ad-hoc tag. |
 
 ### Suitability semantics
 
 - `"suitable"`: the song is eligible to be served in any mode. It has passed either the heuristic screening gate (Phase 1) or the telemetry-informed review (Phase 2+).
-- `"unsuitable"`: the song is excluded from the active play pool. Song selection logic must filter it out. The song remains in `songs.json` for record-keeping and potential re-review.
+- `"unsuitable"`: the song is excluded from the active play pool. Confirmed by telemetry review (ticket 015). The song remains in `songs.json` for record-keeping and potential re-review.
+- `"provisional_unsuitable"`: the song is excluded from the active play pool on the basis of the heuristic alone — specifically, `startTime > 7s` (the reveal cap). This is a coarse guess, not a confirmed finding. It is visibly distinct from `"unsuitable"` so the provenance is preserved. Promotion to `"suitable"` after telemetry confirms recognizability is expected for some of these.
 - `"review"`: the song is provisionally included in the active pool but is flagged for priority review once telemetry data is available. Functionally treated as `suitable` for song selection purposes, but tracked separately for curation workflows.
 
 ### Invariants (extending domain-model.md section 3)
 
-7. A Song with `suitability === "unsuitable"` must not be served in any game mode.
+7. A Song with `suitability === "unsuitable"` or `suitability === "provisional_unsuitable"` must not be served in any game mode.
 8. If `suitability` is absent from a Song record, it is treated as `"suitable"` (backward compatibility).
 9. `difficulty` and `suitability` are independent axes. A song can be `suitable` and `hard`, or `unsuitable` regardless of difficulty. Difficulty is only meaningful for songs that pass the suitability gate.
+10. `"provisional_unsuitable"` and `"unsuitable"` must remain as distinct field values. A heuristic flag and a telemetry-confirmed flag must not collapse into the same status.
+
 
 ---
 

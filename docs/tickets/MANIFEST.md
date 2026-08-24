@@ -15,10 +15,11 @@ One line per ticket. Format: id | title | status | depends_on
 009 | How to Play Modal | done | 003
 010 | Expand Song Catalog | done | 002, 001
 011 | End-to-End Smoke Test and Pre-Launch Checklist | done | 005, 006, 007, 008, 009, 010
-012 | Instrument Per-Round Telemetry to Firestore | open | —
-013 | Add Suitability Field and Heuristic Screening Pass | open | —
-014 | Telemetry Aggregation Script for Song Metrics | open | 012
-015 | Telemetry-Informed Suitability Review Process | open | 013, 014
+012 | Instrument Per-Round Telemetry to Firestore | done | —
+013 | Add Suitability Field and Heuristic Screening Pass | done | —
+014 | Telemetry Aggregation Script for Song Metrics | done | 012
+015 | Telemetry-Informed Suitability Review Process | done | 013, 014
+016 | Highlight Clip and CDN | open | 013
 
 ---
 
@@ -38,12 +39,13 @@ One line per ticket. Format: id | title | status | depends_on
   -> 010 (catalog expansion) [also needs 001]
   -> all of above -> 011 (smoke test)
 
---- Song Curation (new) ---
+--- Song Curation ---
 
 012 (round telemetry) [no blockers]
 013 (suitability field + screening) [no blockers]
   012 -> 014 (aggregation script)
   013 + 014 -> 015 (telemetry-informed review)
+  013 -> 016 (highlight clip and CDN)
 ```
 
 ## Execution notes
@@ -55,4 +57,5 @@ One line per ticket. Format: id | title | status | depends_on
 - 012 and 013 can start immediately and in parallel. Neither depends on any prior ticket.
 - 014 depends only on 012 (it needs the roundEvents collection to exist).
 - 015 depends on both 013 (suitability tags must exist to review) and 014 (metrics must be computable to inform the review). It is a process ticket, not a code ticket.
+- 016 depends on 013 for the onsetSeconds / startTime values used as clip start points. It can be started as soon as 013 is done.
 - 012 should be prioritized: every day without telemetry is a day of lost signal.

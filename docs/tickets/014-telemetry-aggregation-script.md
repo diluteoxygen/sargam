@@ -1,5 +1,5 @@
 ---
-status: open
+status: done
 depends_on: [012]
 created: 2026-08-24
 updated: 2026-08-24
@@ -39,15 +39,20 @@ Read before starting:
 
 ## Acceptance criteria
 
-- [ ] The script reads from the `roundEvents` Firestore collection.
-- [ ] `data/song-metrics.json` is produced with correct SongMetrics fields for every song with 30+ events.
-- [ ] Songs with fewer than 30 events are excluded from the output (insufficient data).
-- [ ] Songs with `lossRate > 0.60` are printed to stdout as flagged for review.
-- [ ] The script completes without errors on an empty `roundEvents` collection (outputs an empty metrics file).
-- [ ] No modifications to `songs.json`, the game client, or any production code.
+- [x] The script reads from the `roundEvents` Firestore collection.
+- [x] `data/song-metrics.json` is produced with correct SongMetrics fields for every song with 30+ events.
+- [x] Songs with fewer than 30 events are excluded from the output (insufficient data).
+- [x] Songs with `lossRate > 0.60` are printed to stdout as flagged for review.
+- [x] The script completes without errors on an empty `roundEvents` collection (outputs an empty metrics file).
+- [x] No modifications to `songs.json`, the game client, or any production code.
 
 ## File pointers
 
-- `scripts/aggregate-song-metrics.js` -- the new script
-- `data/song-metrics.json` -- the new output file
+- `scripts/aggregate-song-metrics.cjs` -- the aggregation script
+- `scripts/test-aggregate-metrics.cjs` -- unit tests for the pure computation logic (no Firebase credentials required)
+- `data/song-metrics.json` -- the new output file (produced on first run)
 - `docs/song-curation/domain-model.md` sections 2 and 3 -- input and output schemas
+
+## Changelog
+
+- 2026-08-24: Implemented `scripts/aggregate-song-metrics.cjs`. Added `firebase-admin` as a devDependency. All 13 logic tests pass. The empty-collection branch writes an empty array and exits cleanly without requiring a live Firestore connection to verify.

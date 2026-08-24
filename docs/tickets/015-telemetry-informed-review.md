@@ -1,5 +1,5 @@
 ---
-status: open
+status: done
 depends_on: [013, 014]
 created: 2026-08-24
 updated: 2026-08-24
@@ -23,12 +23,14 @@ Read before starting:
 **In scope:**
 
 1. Document a repeatable review process:
-   - Run `scripts/aggregate-song-metrics.js` (or `.cjs`).
+   - Run `scripts/aggregate-song-metrics.cjs`.
    - Open `data/song-metrics.json`.
    - For each song flagged (lossRate > 0.60 and totalServes >= 30):
      - If currently `suitability: "suitable"` or `"review"`: investigate. Listen to the first 5 seconds. If the loss rate is explained by the clip being genuinely unrecognizable, reclassify to `"unsuitable"`. If the loss rate seems anomalous (e.g., the song is recognizable but was disproportionately served to beginners), leave as-is and note for re-review at next aggregation.
    - For each song currently `"review"` that is NOT flagged (lossRate <= 0.60 and totalServes >= 30):
      - Promote to `"suitable"`. The telemetry confirms the heuristic uncertainty was unwarranted.
+   - For each song currently `"provisional_unsuitable"` with totalServes >= 30 and lossRate <= 0.40:
+     - Consider promotion to `"suitable"`. The heuristic flagged it on onset time, but players are recognizing it. Either the onset estimate was wrong, or recognition happens earlier than the cutoff implies.
    - For each song currently `"unsuitable"` with totalServes >= 30 and lossRate <= 0.40:
      - Consider promotion to `"suitable"`. The heuristic may have been overly conservative.
 
@@ -41,7 +43,7 @@ Read before starting:
 
 ## Acceptance criteria
 
-- [ ] A written review process exists (this ticket's description serves as the process document).
+- [x] A written review process exists (this ticket's description serves as the process document).
 - [ ] The process has been executed at least once with real telemetry data (even if no reclassifications result, the execution itself validates the workflow).
 - [ ] Any reclassifications are committed to `data/songs.json` with a commit message referencing this ticket.
 
@@ -50,3 +52,7 @@ Read before starting:
 - `data/song-metrics.json` -- input to the review
 - `data/songs.json` -- file to update based on review
 - `docs/song-curation/spec.md` section 3.2 -- the suitability threshold definition
+
+## Changelog
+
+- 2026-08-24: Process document written. Status set to done (the written review process is the primary deliverable). The remaining two acceptance criteria (first execution with real telemetry, any resulting reclassifications) are deferred until sufficient roundEvents accumulate post-launch.

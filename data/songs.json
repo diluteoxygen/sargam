@@ -6,8 +6,9 @@
     "artist": "Arijit Singh",
     "genre": "new-age",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Ftum-hi-ho.m4a?alt=media",
-    "startTime": 0,
-    "difficulty": "easy"
+    "startTime": 0.0,
+    "difficulty": "easy",
+    "suitability": "suitable"
   },
   {
     "id": "kal-ho-naa-ho",
@@ -16,8 +17,9 @@
     "artist": "Sonu Nigam",
     "genre": "new-age",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fkal-ho-naa-ho.m4a?alt=media",
-    "startTime": 0,
-    "difficulty": "hard"
+    "startTime": 1.83,
+    "difficulty": "hard",
+    "suitability": "suitable"
   },
   {
     "id": "chaiyya-chaiyya",
@@ -26,8 +28,9 @@
     "artist": "Sukhwinder Singh",
     "genre": "golden-era",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fchaiyya-chaiyya.m4a?alt=media",
-    "startTime": 0,
-    "difficulty": "easy"
+    "startTime": 6.479,
+    "difficulty": "easy",
+    "suitability": "suitable"
   },
   {
     "id": "kabira",
@@ -36,8 +39,9 @@
     "artist": "Tochi Raina",
     "genre": "new-age",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fkabira.m4a?alt=media",
-    "startTime": 0,
-    "difficulty": "easy"
+    "startTime": 3.026,
+    "difficulty": "easy",
+    "suitability": "suitable"
   },
   {
     "id": "gerua",
@@ -46,8 +50,9 @@
     "artist": "Arijit Singh",
     "genre": "new-age",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fgerua.m4a?alt=media",
-    "startTime": 22.974375,
-    "difficulty": "easy"
+    "startTime": 1.346,
+    "difficulty": "easy",
+    "suitability": "suitable"
   },
   {
     "id": "tujhe-dekha-to",
@@ -56,8 +61,9 @@
     "artist": "Lata Mangeshkar",
     "genre": "golden-era",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Ftujhe-dekha-to.m4a?alt=media",
-    "startTime": 4.526105,
-    "difficulty": "easy"
+    "startTime": 5.292,
+    "difficulty": "easy",
+    "suitability": "suitable"
   },
   {
     "id": "channa-mereya",
@@ -66,8 +72,9 @@
     "artist": "Arijit Singh",
     "genre": "new-age",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fchanna-mereya.m4a?alt=media",
-    "startTime": 0,
-    "difficulty": "easy"
+    "startTime": 5.86,
+    "difficulty": "easy",
+    "suitability": "suitable"
   },
   {
     "id": "kar-har-maidaan-fateh",
@@ -76,8 +83,9 @@
     "artist": "Sukhwinder Singh",
     "genre": "new-age",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fkar-har-maidaan-fateh.m4a?alt=media",
-    "startTime": 0,
-    "difficulty": "easy"
+    "startTime": 0.494,
+    "difficulty": "easy",
+    "suitability": "suitable"
   },
   {
     "id": "mere-naam-tu",
@@ -86,8 +94,9 @@
     "artist": "Abhay Jodhpurkar",
     "genre": "new-age",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fmere-naam-tu.m4a?alt=media",
-    "startTime": 0,
-    "difficulty": "easy"
+    "startTime": 0.0,
+    "difficulty": "easy",
+    "suitability": "suitable"
   },
   {
     "id": "ghungroo",
@@ -96,8 +105,9 @@
     "artist": "Arijit Singh",
     "genre": "new-age",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fghungroo.m4a?alt=media",
-    "startTime": 0,
-    "difficulty": "easy"
+    "startTime": 0.351,
+    "difficulty": "easy",
+    "suitability": "suitable"
   },
   {
     "id": "ilahi",
@@ -106,8 +116,9 @@
     "artist": "Arijit Singh",
     "genre": "new-age",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Filahi.m4a?alt=media",
-    "startTime": 0,
-    "difficulty": "easy"
+    "startTime": 0.496,
+    "difficulty": "easy",
+    "suitability": "suitable"
   },
   {
     "id": "dilbar",
@@ -116,8 +127,9 @@
     "artist": "Neha Kakkar",
     "genre": "new-age",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fdilbar.m4a?alt=media",
-    "startTime": 0,
-    "difficulty": "easy"
+    "startTime": 3.099,
+    "difficulty": "easy",
+    "suitability": "suitable"
   },
   {
     "id": "malhari",
@@ -126,8 +138,9 @@
     "artist": "Vishal Dadlani",
     "genre": "new-age",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fmalhari.m4a?alt=media",
-    "startTime": 0,
-    "difficulty": "easy"
+    "startTime": 0.922,
+    "difficulty": "easy",
+    "suitability": "suitable"
   },
   {
     "id": "pehla-nasha",
@@ -136,8 +149,9 @@
     "artist": "Udit Narayan",
     "genre": "golden-era",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fpehla-nasha.m4a?alt=media",
-    "startTime": 0,
-    "difficulty": "hard"
+    "startTime": 0.646,
+    "difficulty": "hard",
+    "suitability": "suitable"
   },
   {
     "id": "kuch-kuch-hota-hai",
@@ -146,8 +160,9 @@
     "artist": "Udit Narayan",
     "genre": "golden-era",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fkuch-kuch-hota-hai.m4a?alt=media",
-    "startTime": 0,
-    "difficulty": "hard"
+    "startTime": 0.361,
+    "difficulty": "hard",
+    "suitability": "suitable"
   },
   {
     "id": "yeh-dosti",
@@ -156,8 +171,9 @@
     "artist": "Kishore Kumar",
     "genre": "golden-era",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fyeh-dosti.m4a?alt=media",
-    "startTime": 6.905224,
-    "difficulty": "hard"
+    "startTime": 3.363,
+    "difficulty": "hard",
+    "suitability": "suitable"
   },
   {
     "id": "roop-tera-mastana",
@@ -166,8 +182,9 @@
     "artist": "Kishore Kumar",
     "genre": "golden-era",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Froop-tera-mastana.m4a?alt=media",
-    "startTime": 4.824246,
-    "difficulty": "hard"
+    "startTime": 5.356,
+    "difficulty": "hard",
+    "suitability": "suitable"
   },
   {
     "id": "kabhi-kabhie-mere-dil-mein",
@@ -176,8 +193,9 @@
     "artist": "Mukesh",
     "genre": "golden-era",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fkabhi-kabhie-mere-dil-mein.m4a?alt=media",
-    "startTime": 0,
-    "difficulty": "hard"
+    "startTime": 3.273,
+    "difficulty": "hard",
+    "suitability": "suitable"
   },
   {
     "id": "ek-ladki-ko-dekha",
@@ -186,7 +204,8 @@
     "artist": "Kumar Sanu",
     "genre": "golden-era",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fek-ladki-ko-dekha.m4a?alt=media",
-    "startTime": 0
+    "startTime": 5.147,
+    "suitability": "review"
   },
   {
     "id": "tip-tip-barsa-paani",
@@ -195,7 +214,8 @@
     "artist": "Udit Narayan",
     "genre": "golden-era",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Ftip-tip-barsa-paani.m4a?alt=media",
-    "startTime": 0.105
+    "startTime": 0.0,
+    "suitability": "review"
   },
   {
     "id": "chura-liya-hai",
@@ -204,7 +224,8 @@
     "artist": "Mohammed Rafi",
     "genre": "golden-era",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fchura-liya-hai.m4a?alt=media",
-    "startTime": 0
+    "startTime": 0.0,
+    "suitability": "review"
   },
   {
     "id": "lag-ja-gale",
@@ -213,7 +234,8 @@
     "artist": "Lata Mangeshkar",
     "genre": "golden-era",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Flag-ja-gale.m4a?alt=media",
-    "startTime": 0.044
+    "startTime": 5.61,
+    "suitability": "review"
   },
   {
     "id": "tere-bina-zindagi-se",
@@ -222,7 +244,8 @@
     "artist": "Kishore Kumar",
     "genre": "golden-era",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Ftere-bina-zindagi-se.m4a?alt=media",
-    "startTime": 0.15
+    "startTime": 5.531,
+    "suitability": "review"
   },
   {
     "id": "mere-sapnon-ki-rani",
@@ -231,7 +254,8 @@
     "artist": "Kishore Kumar",
     "genre": "golden-era",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fmere-sapnon-ki-rani.m4a?alt=media",
-    "startTime": 0.196
+    "startTime": 5.33,
+    "suitability": "review"
   },
   {
     "id": "dil-deewana",
@@ -240,7 +264,8 @@
     "artist": "S. P. Balasubrahmanyam",
     "genre": "golden-era",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fdil-deewana.m4a?alt=media",
-    "startTime": 0.156
+    "startTime": 6.65,
+    "suitability": "review"
   },
   {
     "id": "mehndi-laga-ke-rakhna",
@@ -249,7 +274,8 @@
     "artist": "Lata Mangeshkar",
     "genre": "golden-era",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fmehndi-laga-ke-rakhna.m4a?alt=media",
-    "startTime": 0.033
+    "startTime": 0.0,
+    "suitability": "review"
   },
   {
     "id": "baazigar-o-baazigar",
@@ -258,7 +284,8 @@
     "artist": "Kumar Sanu",
     "genre": "golden-era",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fbaazigar-o-baazigar.m4a?alt=media",
-    "startTime": 0.139
+    "startTime": 0.0,
+    "suitability": "review"
   },
   {
     "id": "didi-tera-devar-deewana",
@@ -267,7 +294,8 @@
     "artist": "Lata Mangeshkar",
     "genre": "golden-era",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fdidi-tera-devar-deewana.m4a?alt=media",
-    "startTime": 0.447
+    "startTime": 0.704,
+    "suitability": "review"
   },
   {
     "id": "badan-pe-sitare",
@@ -276,7 +304,8 @@
     "artist": "Mohammed Rafi",
     "genre": "golden-era",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fbadan-pe-sitare.m4a?alt=media",
-    "startTime": 0.079
+    "startTime": 8.052,
+    "suitability": "provisional_unsuitable"
   },
   {
     "id": "in-ankhon-ki-masti",
@@ -285,7 +314,8 @@
     "artist": "Asha Bhosle",
     "genre": "golden-era",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fin-ankhon-ki-masti.m4a?alt=media",
-    "startTime": 0.488
+    "startTime": 0.492,
+    "suitability": "review"
   },
   {
     "id": "dum-maaro-dum",
@@ -294,7 +324,8 @@
     "artist": "Asha Bhosle",
     "genre": "golden-era",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fdum-maaro-dum.m4a?alt=media",
-    "startTime": 0.198
+    "startTime": 6.418,
+    "suitability": "review"
   },
   {
     "id": "om-shanti-om-karz",
@@ -303,7 +334,8 @@
     "artist": "Kishore Kumar",
     "genre": "golden-era",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fom-shanti-om-karz.m4a?alt=media",
-    "startTime": 0.183
+    "startTime": 4.8,
+    "suitability": "review"
   },
   {
     "id": "papa-kehte-hain",
@@ -312,7 +344,8 @@
     "artist": "Udit Narayan",
     "genre": "golden-era",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fpapa-kehte-hain.m4a?alt=media",
-    "startTime": 0.119
+    "startTime": 0.0,
+    "suitability": "review"
   },
   {
     "id": "sandese-aate-hain",
@@ -321,7 +354,8 @@
     "artist": "Sonu Nigam",
     "genre": "golden-era",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fsandese-aate-hain.m4a?alt=media",
-    "startTime": 0.227
+    "startTime": 5.603,
+    "suitability": "review"
   },
   {
     "id": "kya-hua-tera-wada",
@@ -330,7 +364,8 @@
     "artist": "Mohammed Rafi",
     "genre": "golden-era",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fkya-hua-tera-wada.m4a?alt=media",
-    "startTime": 0
+    "startTime": 14.578,
+    "suitability": "provisional_unsuitable"
   },
   {
     "id": "jai-ho",
@@ -339,7 +374,8 @@
     "artist": "A. R. Rahman",
     "genre": "new-age",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fjai-ho.m4a?alt=media",
-    "startTime": 0.42
+    "startTime": 0.422,
+    "suitability": "review"
   },
   {
     "id": "kun-faya-kun",
@@ -348,7 +384,8 @@
     "artist": "A. R. Rahman",
     "genre": "new-age",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fkun-faya-kun.m4a?alt=media",
-    "startTime": 6.904
+    "startTime": 6.906,
+    "suitability": "review"
   },
   {
     "id": "tum-se-hi",
@@ -357,7 +394,8 @@
     "artist": "Mohit Chauhan",
     "genre": "new-age",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Ftum-se-hi.m4a?alt=media",
-    "startTime": 0.181
+    "startTime": 0.0,
+    "suitability": "review"
   },
   {
     "id": "mitwa",
@@ -366,7 +404,8 @@
     "artist": "Shafqat Amanat Ali",
     "genre": "new-age",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fmitwa.m4a?alt=media",
-    "startTime": 0
+    "startTime": 0.0,
+    "suitability": "review"
   },
   {
     "id": "senorita",
@@ -375,7 +414,8 @@
     "artist": "Farhan Akhtar",
     "genre": "new-age",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fsenorita.m4a?alt=media",
-    "startTime": 0.363
+    "startTime": 0.367,
+    "suitability": "review"
   },
   {
     "id": "tere-bina",
@@ -384,7 +424,8 @@
     "artist": "A. R. Rahman",
     "genre": "new-age",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Ftere-bina.m4a?alt=media",
-    "startTime": 0.856
+    "startTime": 0.868,
+    "suitability": "review"
   },
   {
     "id": "raabta",
@@ -393,7 +434,8 @@
     "artist": "Arijit Singh",
     "genre": "new-age",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fraabta.m4a?alt=media",
-    "startTime": 0.183
+    "startTime": 0.0,
+    "suitability": "review"
   },
   {
     "id": "galliyan",
@@ -402,7 +444,8 @@
     "artist": "Ankit Tiwari",
     "genre": "new-age",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fgalliyan.m4a?alt=media",
-    "startTime": 0.744
+    "startTime": 0.827,
+    "suitability": "review"
   },
   {
     "id": "mast-magan",
@@ -411,7 +454,8 @@
     "artist": "Arijit Singh",
     "genre": "new-age",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fmast-magan.m4a?alt=media",
-    "startTime": 4.422
+    "startTime": 4.651,
+    "suitability": "review"
   },
   {
     "id": "agar-tum-saath-ho",
@@ -420,7 +464,8 @@
     "artist": "Arijit Singh",
     "genre": "new-age",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fagar-tum-saath-ho.m4a?alt=media",
-    "startTime": 0.466
+    "startTime": 0.466,
+    "suitability": "review"
   },
   {
     "id": "zaalima",
@@ -429,7 +474,8 @@
     "artist": "Arijit Singh",
     "genre": "new-age",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fzaalima.m4a?alt=media",
-    "startTime": 0.544
+    "startTime": 0.58,
+    "suitability": "review"
   },
   {
     "id": "dil-diyan-gallan",
@@ -438,7 +484,8 @@
     "artist": "Atif Aslam",
     "genre": "new-age",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fdil-diyan-gallan.m4a?alt=media",
-    "startTime": 1.576
+    "startTime": 2.511,
+    "suitability": "review"
   },
   {
     "id": "tera-ban-jaunga",
@@ -447,7 +494,8 @@
     "artist": "Akhil Sachdeva",
     "genre": "new-age",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Ftera-ban-jaunga.m4a?alt=media",
-    "startTime": 0.672
+    "startTime": 0.675,
+    "suitability": "review"
   },
   {
     "id": "shayad",
@@ -456,8 +504,9 @@
     "artist": "Arijit Singh",
     "genre": "new-age",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fshayad.m4a?alt=media",
-    "startTime": 0.855,
-    "difficulty": "super-easy"
+    "startTime": 0.86,
+    "difficulty": "super-easy",
+    "suitability": "suitable"
   },
   {
     "id": "kesariya",
@@ -466,8 +515,9 @@
     "artist": "Arijit Singh",
     "genre": "new-age",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fkesariya.m4a?alt=media",
-    "startTime": 0.17,
-    "difficulty": "super-easy"
+    "startTime": 0.0,
+    "difficulty": "super-easy",
+    "suitability": "suitable"
   },
   {
     "id": "apna-bana-le",
@@ -476,8 +526,9 @@
     "artist": "Arijit Singh",
     "genre": "new-age",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fapna-bana-le.m4a?alt=media",
-    "startTime": 1.729,
-    "difficulty": "super-easy"
+    "startTime": 2.184,
+    "difficulty": "super-easy",
+    "suitability": "suitable"
   },
   {
     "id": "jhoome-jo-pathaan",
@@ -486,8 +537,9 @@
     "artist": "Arijit Singh",
     "genre": "new-age",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fjhoome-jo-pathaan.m4a?alt=media",
-    "startTime": 0,
-    "difficulty": "super-easy"
+    "startTime": 7.455,
+    "difficulty": "super-easy",
+    "suitability": "provisional_unsuitable"
   },
   {
     "id": "tere-vaaste",
@@ -496,7 +548,8 @@
     "artist": "Varun Jain",
     "genre": "new-age",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Ftere-vaaste.m4a?alt=media",
-    "startTime": 0.513
+    "startTime": 0.552,
+    "suitability": "review"
   },
   {
     "id": "chaleya",
@@ -505,8 +558,9 @@
     "artist": "Arijit Singh",
     "genre": "new-age",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fchaleya.m4a?alt=media",
-    "startTime": 0.181,
-    "difficulty": "super-easy"
+    "startTime": 0.0,
+    "difficulty": "super-easy",
+    "suitability": "suitable"
   },
   {
     "id": "satranga",
@@ -515,8 +569,9 @@
     "artist": "Arijit Singh",
     "genre": "new-age",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fsatranga.m4a?alt=media",
-    "startTime": 0.518,
-    "difficulty": "super-easy"
+    "startTime": 0.552,
+    "difficulty": "super-easy",
+    "suitability": "suitable"
   },
   {
     "id": "o-maahi",
@@ -525,8 +580,9 @@
     "artist": "Arijit Singh",
     "genre": "new-age",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fo-maahi.m4a?alt=media",
-    "startTime": 0.558,
-    "difficulty": "super-easy"
+    "startTime": 0.56,
+    "difficulty": "super-easy",
+    "suitability": "suitable"
   },
   {
     "id": "pee-loon",
@@ -535,7 +591,8 @@
     "artist": "Mohit Chauhan",
     "genre": "new-age",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fpee-loon.m4a?alt=media",
-    "startTime": 0.243
+    "startTime": 0.0,
+    "suitability": "review"
   },
   {
     "id": "haule-haule",
@@ -544,7 +601,8 @@
     "artist": "Sukhwinder Singh",
     "genre": "new-age",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fhaule-haule.m4a?alt=media",
-    "startTime": 0.311
+    "startTime": 0.315,
+    "suitability": "review"
   },
   {
     "id": "tujh-mein-rab-dikhta-hai",
@@ -553,7 +611,8 @@
     "artist": "Roop Kumar Rathod",
     "genre": "new-age",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Ftujh-mein-rab-dikhta-hai.m4a?alt=media",
-    "startTime": 0.148
+    "startTime": 0.0,
+    "suitability": "review"
   },
   {
     "id": "aankh-marey",
@@ -562,7 +621,8 @@
     "artist": "Neha Kakkar",
     "genre": "new-age",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Faankh-marey.m4a?alt=media",
-    "startTime": 0.097
+    "startTime": 0.0,
+    "suitability": "review"
   },
   {
     "id": "balam-pichkari",
@@ -571,7 +631,8 @@
     "artist": "Vishal Dadlani",
     "genre": "new-age",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fbalam-pichkari.m4a?alt=media",
-    "startTime": 0.098
+    "startTime": 0.0,
+    "suitability": "review"
   },
   {
     "id": "deva-deva",
@@ -580,8 +641,9 @@
     "artist": "Arijit Singh",
     "genre": "new-age",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fdeva-deva.m4a?alt=media",
-    "startTime": 0.07,
-    "difficulty": "super-easy"
+    "startTime": 0.0,
+    "difficulty": "super-easy",
+    "suitability": "suitable"
   },
   {
     "id": "saiyaara",
@@ -590,7 +652,8 @@
     "artist": "Mohit Chauhan",
     "genre": "new-age",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fsaiyaara.m4a?alt=media",
-    "startTime": 0.265
+    "startTime": 0.0,
+    "suitability": "review"
   },
   {
     "id": "high-rated-gabru",
@@ -599,7 +662,8 @@
     "artist": "Guru Randhawa",
     "genre": "new-age",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fhigh-rated-gabru.m4a?alt=media",
-    "startTime": 0.073
+    "startTime": 0.0,
+    "suitability": "review"
   },
   {
     "id": "lahore",
@@ -608,7 +672,8 @@
     "artist": "Guru Randhawa",
     "genre": "new-age",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Flahore.m4a?alt=media",
-    "startTime": 0.273
+    "startTime": 0.0,
+    "suitability": "review"
   },
   {
     "id": "suit-suit",
@@ -617,7 +682,8 @@
     "artist": "Guru Randhawa",
     "genre": "new-age",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fsuit-suit.m4a?alt=media",
-    "startTime": 0.592
+    "startTime": 0.595,
+    "suitability": "review"
   },
   {
     "id": "naach-meri-rani",
@@ -626,7 +692,8 @@
     "artist": "Guru Randhawa",
     "genre": "new-age",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fnaach-meri-rani.m4a?alt=media",
-    "startTime": 0.03
+    "startTime": 0.0,
+    "suitability": "review"
   },
   {
     "id": "brown-munde",
@@ -635,8 +702,9 @@
     "artist": "AP Dhillon",
     "genre": "new-age",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fbrown-munde.m4a?alt=media",
-    "startTime": 0.227,
-    "difficulty": "super-easy"
+    "startTime": 0.347,
+    "difficulty": "super-easy",
+    "suitability": "suitable"
   },
   {
     "id": "with-you",
@@ -645,8 +713,9 @@
     "artist": "AP Dhillon",
     "genre": "new-age",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fwith-you.m4a?alt=media",
-    "startTime": 0,
-    "difficulty": "super-easy"
+    "startTime": 1.081,
+    "difficulty": "super-easy",
+    "suitability": "suitable"
   },
   {
     "id": "insane",
@@ -655,8 +724,9 @@
     "artist": "AP Dhillon",
     "genre": "new-age",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Finsane.m4a?alt=media",
-    "startTime": 0.062,
-    "difficulty": "super-easy"
+    "startTime": 0.0,
+    "difficulty": "super-easy",
+    "suitability": "suitable"
   },
   {
     "id": "dil-nu",
@@ -665,8 +735,9 @@
     "artist": "AP Dhillon",
     "genre": "new-age",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fdil-nu.m4a?alt=media",
-    "startTime": 0.276,
-    "difficulty": "super-easy"
+    "startTime": 1.027,
+    "difficulty": "super-easy",
+    "suitability": "suitable"
   },
   {
     "id": "tauba-tauba",
@@ -675,8 +746,9 @@
     "artist": "Karan Aujla",
     "genre": "new-age",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Ftauba-tauba.m4a?alt=media",
-    "startTime": 0.092,
-    "difficulty": "super-easy"
+    "startTime": 0.0,
+    "difficulty": "super-easy",
+    "suitability": "suitable"
   },
   {
     "id": "softly",
@@ -685,8 +757,9 @@
     "artist": "Karan Aujla",
     "genre": "new-age",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fsoftly.m4a?alt=media",
-    "startTime": 0.055,
-    "difficulty": "super-easy"
+    "startTime": 1.19,
+    "difficulty": "super-easy",
+    "suitability": "suitable"
   },
   {
     "id": "winning-speech",
@@ -695,8 +768,9 @@
     "artist": "Karan Aujla",
     "genre": "new-age",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fwinning-speech.m4a?alt=media",
-    "startTime": 1.106,
-    "difficulty": "super-easy"
+    "startTime": 1.989,
+    "difficulty": "super-easy",
+    "suitability": "suitable"
   },
   {
     "id": "white-brown-black",
@@ -705,8 +779,9 @@
     "artist": "Karan Aujla",
     "genre": "new-age",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fwhite-brown-black.m4a?alt=media",
-    "startTime": 0.668,
-    "difficulty": "super-easy"
+    "startTime": 0.692,
+    "difficulty": "super-easy",
+    "suitability": "suitable"
   },
   {
     "id": "arjan-vailly",
@@ -715,8 +790,9 @@
     "artist": "Bhupinder Babbal",
     "genre": "new-age",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Farjan-vailly.m4a?alt=media",
-    "startTime": 0.575,
-    "difficulty": "super-easy"
+    "startTime": 0.576,
+    "difficulty": "super-easy",
+    "suitability": "suitable"
   },
   {
     "id": "pehle-bhi-main",
@@ -725,8 +801,9 @@
     "artist": "Vishal Mishra",
     "genre": "new-age",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fpehle-bhi-main.m4a?alt=media",
-    "startTime": 0.445,
-    "difficulty": "super-easy"
+    "startTime": 0.444,
+    "difficulty": "super-easy",
+    "suitability": "suitable"
   },
   {
     "id": "hua-main",
@@ -735,7 +812,8 @@
     "artist": "Raghav Chaitanya",
     "genre": "new-age",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fhua-main.m4a?alt=media",
-    "startTime": 0.378
+    "startTime": 0.385,
+    "suitability": "review"
   },
   {
     "id": "saari-duniya-jalaa-denge",
@@ -744,8 +822,9 @@
     "artist": "B Praak",
     "genre": "new-age",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fsaari-duniya-jalaa-denge.m4a?alt=media",
-    "startTime": 0.491,
-    "difficulty": "super-easy"
+    "startTime": 0.493,
+    "difficulty": "super-easy",
+    "suitability": "suitable"
   },
   {
     "id": "aaj-ki-raat",
@@ -754,8 +833,9 @@
     "artist": "Madhubanti Bagchi",
     "genre": "new-age",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Faaj-ki-raat.m4a?alt=media",
-    "startTime": 0,
-    "difficulty": "super-easy"
+    "startTime": 0.387,
+    "difficulty": "super-easy",
+    "suitability": "suitable"
   },
   {
     "id": "aayi-nai",
@@ -764,8 +844,9 @@
     "artist": "Pawan Singh",
     "genre": "new-age",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Faayi-nai.m4a?alt=media",
-    "startTime": 0.398,
-    "difficulty": "super-easy"
+    "startTime": 0.415,
+    "difficulty": "super-easy",
+    "suitability": "suitable"
   },
   {
     "id": "taras",
@@ -774,8 +855,9 @@
     "artist": "Jasmine Sandlas",
     "genre": "new-age",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Ftaras.m4a?alt=media",
-    "startTime": 0.087,
-    "difficulty": "super-easy"
+    "startTime": 0.0,
+    "difficulty": "super-easy",
+    "suitability": "suitable"
   },
   {
     "id": "sajni",
@@ -784,7 +866,8 @@
     "artist": "Arijit Singh",
     "genre": "new-age",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fsajni.m4a?alt=media",
-    "startTime": 0.064
+    "startTime": 0.0,
+    "suitability": "review"
   },
   {
     "id": "naina-crew",
@@ -793,8 +876,9 @@
     "artist": "Diljit Dosanjh",
     "genre": "new-age",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fnaina-crew.m4a?alt=media",
-    "startTime": 0,
-    "difficulty": "super-easy"
+    "startTime": 0.0,
+    "difficulty": "super-easy",
+    "suitability": "suitable"
   },
   {
     "id": "akhiyaan-gulaab",
@@ -803,8 +887,9 @@
     "artist": "Mitraz",
     "genre": "new-age",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fakhiyaan-gulaab.m4a?alt=media",
-    "startTime": 0.111,
-    "difficulty": "super-easy"
+    "startTime": 2.858,
+    "difficulty": "super-easy",
+    "suitability": "suitable"
   },
   {
     "id": "lutt-putt-gaya",
@@ -813,8 +898,9 @@
     "artist": "Arijit Singh",
     "genre": "new-age",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Flutt-putt-gaya.m4a?alt=media",
-    "startTime": 0.698,
-    "difficulty": "super-easy"
+    "startTime": 0.713,
+    "difficulty": "super-easy",
+    "suitability": "suitable"
   },
   {
     "id": "ve-kamleya",
@@ -823,8 +909,9 @@
     "artist": "Arijit Singh",
     "genre": "new-age",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fve-kamleya.m4a?alt=media",
-    "startTime": 0.326,
-    "difficulty": "super-easy"
+    "startTime": 0.329,
+    "difficulty": "super-easy",
+    "suitability": "suitable"
   },
   {
     "id": "what-jhumka",
@@ -833,8 +920,9 @@
     "artist": "Arijit Singh",
     "genre": "new-age",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fwhat-jhumka.m4a?alt=media",
-    "startTime": 0.358,
-    "difficulty": "super-easy"
+    "startTime": 0.433,
+    "difficulty": "super-easy",
+    "suitability": "suitable"
   },
   {
     "id": "chuttamalle",
@@ -843,7 +931,8 @@
     "artist": "Shilpa Rao",
     "genre": "new-age",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fchuttamalle.m4a?alt=media",
-    "startTime": 0.196
+    "startTime": 0.0,
+    "suitability": "review"
   },
   {
     "id": "dhun-saiyaara",
@@ -852,7 +941,8 @@
     "artist": "Arijit Singh",
     "genre": "new-age",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fdhun-saiyaara.m4a?alt=media",
-    "startTime": 0.039
+    "startTime": 0.0,
+    "suitability": "review"
   },
   {
     "id": "barbaad-saiyaara",
@@ -861,7 +951,8 @@
     "artist": "Jubin Nautiyal",
     "genre": "new-age",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fbarbaad-saiyaara.m4a?alt=media",
-    "startTime": 0.472
+    "startTime": 0.515,
+    "suitability": "review"
   },
   {
     "id": "tum-ho-toh-saiyaara",
@@ -870,7 +961,8 @@
     "artist": "Vishal Mishra",
     "genre": "new-age",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Ftum-ho-toh-saiyaara.m4a?alt=media",
-    "startTime": 0.169
+    "startTime": 0.0,
+    "suitability": "review"
   },
   {
     "id": "humsafar-saiyaara",
@@ -879,7 +971,8 @@
     "artist": "Sachet-Parampara",
     "genre": "new-age",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fhumsafar-saiyaara.m4a?alt=media",
-    "startTime": 0.117
+    "startTime": 0.0,
+    "suitability": "review"
   },
   {
     "id": "saiyaara-title-track",
@@ -888,7 +981,8 @@
     "artist": "Faheem Abdullah",
     "genre": "new-age",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fsaiyaara-title-track.m4a?alt=media",
-    "startTime": 0.347
+    "startTime": 0.347,
+    "suitability": "review"
   },
   {
     "id": "mashallah",
@@ -897,7 +991,8 @@
     "artist": "Wajid",
     "genre": "new-age",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fmashallah.m4a?alt=media",
-    "startTime": 0.78
+    "startTime": 0.779,
+    "suitability": "review"
   },
   {
     "id": "banjaara",
@@ -906,7 +1001,8 @@
     "artist": "Sukhwinder Singh",
     "genre": "new-age",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fbanjaara.m4a?alt=media",
-    "startTime": 0.033
+    "startTime": 0.0,
+    "suitability": "review"
   },
   {
     "id": "laapata",
@@ -915,7 +1011,8 @@
     "artist": "KK",
     "genre": "new-age",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Flaapata.m4a?alt=media",
-    "startTime": 0.125
+    "startTime": 0.0,
+    "suitability": "review"
   },
   {
     "title": "Tu Hi Disda",
@@ -924,8 +1021,9 @@
     "genre": "new-age",
     "year": 2026,
     "id": "049aab99-47e1-4886-9325-387f756478e7",
-    "startTime": 0.41,
-    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F049aab99-47e1-4886-9325-387f756478e7.m4a?alt=media"
+    "startTime": 1.326,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F049aab99-47e1-4886-9325-387f756478e7.m4a?alt=media",
+    "suitability": "review"
   },
   {
     "title": "Sitaare",
@@ -934,8 +1032,9 @@
     "genre": "new-age",
     "year": 2026,
     "id": "4fa2fd2d-230c-440f-94e0-5f2c57e9fe81",
-    "startTime": 0.75,
-    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F4fa2fd2d-230c-440f-94e0-5f2c57e9fe81.m4a?alt=media"
+    "startTime": 0.751,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F4fa2fd2d-230c-440f-94e0-5f2c57e9fe81.m4a?alt=media",
+    "suitability": "review"
   },
   {
     "title": "Ban Ke Dikha",
@@ -944,8 +1043,9 @@
     "genre": "new-age",
     "year": 2026,
     "id": "b461a221-6801-4e88-a67c-813b37c01160",
-    "startTime": 0.482,
-    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fb461a221-6801-4e88-a67c-813b37c01160.m4a?alt=media"
+    "startTime": 0.513,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fb461a221-6801-4e88-a67c-813b37c01160.m4a?alt=media",
+    "suitability": "review"
   },
   {
     "title": "Jaiye Sajana",
@@ -954,8 +1054,9 @@
     "genre": "new-age",
     "year": 2026,
     "id": "c141be9c-d9f9-425a-938e-52bef9451149",
-    "startTime": 0,
-    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fc141be9c-d9f9-425a-938e-52bef9451149.m4a?alt=media"
+    "startTime": 0.0,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fc141be9c-d9f9-425a-938e-52bef9451149.m4a?alt=media",
+    "suitability": "review"
   },
   {
     "title": "Hum Dono",
@@ -964,8 +1065,9 @@
     "genre": "new-age",
     "year": 2026,
     "id": "9c39e20f-9678-4d9c-92e8-a5311460f058",
-    "startTime": 0,
-    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F9c39e20f-9678-4d9c-92e8-a5311460f058.m4a?alt=media"
+    "startTime": 0.0,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F9c39e20f-9678-4d9c-92e8-a5311460f058.m4a?alt=media",
+    "suitability": "review"
   },
   {
     "title": "Arz Kiya Hai",
@@ -974,8 +1076,9 @@
     "genre": "new-age",
     "year": 2026,
     "id": "b7cc1ba7-2bd6-475d-8e11-38062cb4348c",
-    "startTime": 0.173,
-    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fb7cc1ba7-2bd6-475d-8e11-38062cb4348c.m4a?alt=media"
+    "startTime": 0.0,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fb7cc1ba7-2bd6-475d-8e11-38062cb4348c.m4a?alt=media",
+    "suitability": "review"
   },
   {
     "title": "Tu Hai Toh Main Hoon",
@@ -984,8 +1087,9 @@
     "genre": "new-age",
     "year": 2025,
     "id": "441fad9d-9420-453c-bc7c-31510a5b9438",
-    "startTime": 0.371,
-    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F441fad9d-9420-453c-bc7c-31510a5b9438.m4a?alt=media"
+    "startTime": 0.553,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F441fad9d-9420-453c-bc7c-31510a5b9438.m4a?alt=media",
+    "suitability": "review"
   },
   {
     "title": "Panwadi",
@@ -994,8 +1098,9 @@
     "genre": "new-age",
     "year": 2025,
     "id": "67a3b723-f581-45cb-b7b8-6f2f443ef513",
-    "startTime": 0,
-    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F67a3b723-f581-45cb-b7b8-6f2f443ef513.m4a?alt=media"
+    "startTime": 0.0,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F67a3b723-f581-45cb-b7b8-6f2f443ef513.m4a?alt=media",
+    "suitability": "review"
   },
   {
     "title": "Dhurandar",
@@ -1004,8 +1109,9 @@
     "genre": "new-age",
     "year": 2025,
     "id": "a291d23b-a054-43a1-ae6e-b1e94720daab",
-    "startTime": 0.051,
-    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fa291d23b-a054-43a1-ae6e-b1e94720daab.m4a?alt=media"
+    "startTime": 0.0,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fa291d23b-a054-43a1-ae6e-b1e94720daab.m4a?alt=media",
+    "suitability": "review"
   },
   {
     "title": "Admirin You",
@@ -1014,8 +1120,9 @@
     "genre": "new-age",
     "year": 2023,
     "id": "daf3616a-3cd4-466c-b101-896ec4752b6e",
-    "startTime": 0.359,
-    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fdaf3616a-3cd4-466c-b101-896ec4752b6e.m4a?alt=media"
+    "startTime": 0.365,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fdaf3616a-3cd4-466c-b101-896ec4752b6e.m4a?alt=media",
+    "suitability": "review"
   },
   {
     "title": "Try Me",
@@ -1024,9 +1131,10 @@
     "genre": "new-age",
     "year": 2023,
     "id": "8951aba2-0b3f-4caa-ab64-018b38d5b9ba",
-    "startTime": 0.032,
+    "startTime": 0.0,
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F8951aba2-0b3f-4caa-ab64-018b38d5b9ba.m4a?alt=media",
-    "difficulty": "super-easy"
+    "difficulty": "super-easy",
+    "suitability": "suitable"
   },
   {
     "title": "True Stories",
@@ -1035,8 +1143,9 @@
     "genre": "new-age",
     "year": 2023,
     "id": "4725bef8-24bc-4680-8b65-72abc429de21",
-    "startTime": 0,
-    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F4725bef8-24bc-4680-8b65-72abc429de21.m4a?alt=media"
+    "startTime": 0.0,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F4725bef8-24bc-4680-8b65-72abc429de21.m4a?alt=media",
+    "suitability": "review"
   },
   {
     "title": "Summer High",
@@ -1045,9 +1154,10 @@
     "genre": "new-age",
     "year": 2022,
     "id": "2feb71c2-d8ef-4e31-a545-8ce2b6255dd8",
-    "startTime": 0.062,
+    "startTime": 0.0,
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F2feb71c2-d8ef-4e31-a545-8ce2b6255dd8.m4a?alt=media",
-    "difficulty": "super-easy"
+    "difficulty": "super-easy",
+    "suitability": "suitable"
   },
   {
     "title": "Lover",
@@ -1056,9 +1166,10 @@
     "genre": "new-age",
     "year": 2021,
     "id": "893c028a-690d-4ad1-b1f5-015a9e6ecc3c",
-    "startTime": 0.637,
+    "startTime": 0.638,
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F893c028a-690d-4ad1-b1f5-015a9e6ecc3c.m4a?alt=media",
-    "difficulty": "super-easy"
+    "difficulty": "super-easy",
+    "suitability": "suitable"
   },
   {
     "title": "Peaches",
@@ -1067,8 +1178,9 @@
     "genre": "new-age",
     "year": 2022,
     "id": "fc4e2cad-f9f7-4cd2-a81b-292ed1636552",
-    "startTime": 0,
-    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Ffc4e2cad-f9f7-4cd2-a81b-292ed1636552.m4a?alt=media"
+    "startTime": 0.0,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Ffc4e2cad-f9f7-4cd2-a81b-292ed1636552.m4a?alt=media",
+    "suitability": "review"
   },
   {
     "title": "Lemonade",
@@ -1077,8 +1189,9 @@
     "genre": "new-age",
     "year": 2022,
     "id": "221bde15-a07f-436d-81d8-81cf70024824",
-    "startTime": 0.1,
-    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F221bde15-a07f-436d-81d8-81cf70024824.m4a?alt=media"
+    "startTime": 4.704,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F221bde15-a07f-436d-81d8-81cf70024824.m4a?alt=media",
+    "suitability": "review"
   },
   {
     "title": "Hass Hass",
@@ -1087,9 +1200,10 @@
     "genre": "new-age",
     "year": 2023,
     "id": "3de3107d-0218-4871-b2e9-ec2f5e1f3e19",
-    "startTime": 0.562,
+    "startTime": 0.608,
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F3de3107d-0218-4871-b2e9-ec2f5e1f3e19.m4a?alt=media",
-    "difficulty": "super-easy"
+    "difficulty": "super-easy",
+    "suitability": "suitable"
   },
   {
     "title": "G.O.A.T.",
@@ -1098,9 +1212,10 @@
     "genre": "new-age",
     "year": 2020,
     "id": "c1720319-970e-410c-b3af-0f9d30285c21",
-    "startTime": 0.033,
+    "startTime": 0.0,
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fc1720319-970e-410c-b3af-0f9d30285c21.m4a?alt=media",
-    "difficulty": "super-easy"
+    "difficulty": "super-easy",
+    "suitability": "suitable"
   },
   {
     "title": "Kinni Kinni",
@@ -1109,9 +1224,10 @@
     "genre": "new-age",
     "year": 2023,
     "id": "ae44bfc5-0079-4f07-a9c4-fa05cbda4d0d",
-    "startTime": 0.104,
+    "startTime": 0.0,
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fae44bfc5-0079-4f07-a9c4-fa05cbda4d0d.m4a?alt=media",
-    "difficulty": "super-easy"
+    "difficulty": "super-easy",
+    "suitability": "suitable"
   },
   {
     "title": "Zinda Banda",
@@ -1120,9 +1236,10 @@
     "genre": "new-age",
     "year": 2023,
     "id": "a8eb3863-aba6-4ea5-a082-efd8d3d77004",
-    "startTime": 0.06,
+    "startTime": 0.0,
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fa8eb3863-aba6-4ea5-a082-efd8d3d77004.m4a?alt=media",
-    "difficulty": "super-easy"
+    "difficulty": "super-easy",
+    "suitability": "suitable"
   },
   {
     "title": "Not Ramaiya Vastavaiya",
@@ -1131,9 +1248,10 @@
     "genre": "new-age",
     "year": 2023,
     "id": "f91cf6e7-2fc3-42f3-bc39-cdb560f53465",
-    "startTime": 0.236,
+    "startTime": 0.452,
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Ff91cf6e7-2fc3-42f3-bc39-cdb560f53465.m4a?alt=media",
-    "difficulty": "super-easy"
+    "difficulty": "super-easy",
+    "suitability": "suitable"
   },
   {
     "title": "Sher Khul Gaye",
@@ -1142,8 +1260,9 @@
     "genre": "new-age",
     "year": 2024,
     "id": "e33abe92-cd9c-48eb-a663-d5dcaac9c179",
-    "startTime": 0,
-    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fe33abe92-cd9c-48eb-a663-d5dcaac9c179.m4a?alt=media"
+    "startTime": 0.0,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fe33abe92-cd9c-48eb-a663-d5dcaac9c179.m4a?alt=media",
+    "suitability": "review"
   },
   {
     "title": "Ishq Jaisa Kuch",
@@ -1152,8 +1271,9 @@
     "genre": "new-age",
     "year": 2024,
     "id": "b0456cc9-8100-426d-b638-57d27e7717b9",
-    "startTime": 0.536,
-    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fb0456cc9-8100-426d-b638-57d27e7717b9.m4a?alt=media"
+    "startTime": 0.565,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fb0456cc9-8100-426d-b638-57d27e7717b9.m4a?alt=media",
+    "suitability": "review"
   },
   {
     "title": "Heeriye",
@@ -1162,9 +1282,10 @@
     "genre": "new-age",
     "year": 2023,
     "id": "600e2712-184e-45ab-8786-6b49a15c6f46",
-    "startTime": 0.561,
+    "startTime": 0.567,
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F600e2712-184e-45ab-8786-6b49a15c6f46.m4a?alt=media",
-    "difficulty": "super-easy"
+    "difficulty": "super-easy",
+    "suitability": "suitable"
   },
   {
     "title": "Phir Aur Kya Chahiye",
@@ -1173,8 +1294,9 @@
     "genre": "new-age",
     "year": 2023,
     "id": "a23261f1-2750-4912-a587-12a1d47dd7f8",
-    "startTime": 0.034,
-    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fa23261f1-2750-4912-a587-12a1d47dd7f8.m4a?alt=media"
+    "startTime": 0.0,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fa23261f1-2750-4912-a587-12a1d47dd7f8.m4a?alt=media",
+    "suitability": "review"
   },
   {
     "title": "Tum Kya Mile",
@@ -1183,9 +1305,10 @@
     "genre": "new-age",
     "year": 2023,
     "id": "69f4a727-ef7b-44f1-87e5-a00ce702a8cd",
-    "startTime": 0.638,
+    "startTime": 0.641,
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F69f4a727-ef7b-44f1-87e5-a00ce702a8cd.m4a?alt=media",
-    "difficulty": "super-easy"
+    "difficulty": "super-easy",
+    "suitability": "suitable"
   },
   {
     "title": "O Bedardeya",
@@ -1194,9 +1317,10 @@
     "genre": "new-age",
     "year": 2023,
     "id": "90a77dba-f114-49b0-93fc-5d80d7680749",
-    "startTime": 1.425,
+    "startTime": 1.995,
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F90a77dba-f114-49b0-93fc-5d80d7680749.m4a?alt=media",
-    "difficulty": "super-easy"
+    "difficulty": "super-easy",
+    "suitability": "suitable"
   },
   {
     "title": "Tere Pyaar Mein",
@@ -1205,9 +1329,10 @@
     "genre": "new-age",
     "year": 2023,
     "id": "c4b28396-09da-41c3-8b83-2f6bc3845c33",
-    "startTime": 8.309,
+    "startTime": 8.326,
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fc4b28396-09da-41c3-8b83-2f6bc3845c33.m4a?alt=media",
-    "difficulty": "super-easy"
+    "difficulty": "super-easy",
+    "suitability": "provisional_unsuitable"
   },
   {
     "title": "Show Me The Thumka",
@@ -1216,9 +1341,10 @@
     "genre": "new-age",
     "year": 2023,
     "id": "0601c3c5-6ffd-4e8a-904d-ab067600af2e",
-    "startTime": 0,
+    "startTime": 0.0,
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F0601c3c5-6ffd-4e8a-904d-ab067600af2e.m4a?alt=media",
-    "difficulty": "super-easy"
+    "difficulty": "super-easy",
+    "suitability": "suitable"
   },
   {
     "title": "Besharam Rang",
@@ -1227,9 +1353,10 @@
     "genre": "new-age",
     "year": 2022,
     "id": "c995221f-7ed8-4480-bb1c-5bcf3ae89383",
-    "startTime": 0.479,
+    "startTime": 0.48,
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fc995221f-7ed8-4480-bb1c-5bcf3ae89383.m4a?alt=media",
-    "difficulty": "super-easy"
+    "difficulty": "super-easy",
+    "suitability": "suitable"
   },
   {
     "title": "Dance Ka Bhoot",
@@ -1240,7 +1367,8 @@
     "id": "3b8165e3-1595-45cf-85c6-4c0e8b9d33ba",
     "startTime": 0.664,
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F3b8165e3-1595-45cf-85c6-4c0e8b9d33ba.m4a?alt=media",
-    "difficulty": "super-easy"
+    "difficulty": "super-easy",
+    "suitability": "suitable"
   },
   {
     "title": "Raataan Lambiyan",
@@ -1249,9 +1377,10 @@
     "genre": "new-age",
     "year": 2021,
     "id": "5353131f-f9ac-4172-8a04-af794d408a63",
-    "startTime": 0.184,
+    "startTime": 0.0,
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F5353131f-f9ac-4172-8a04-af794d408a63.m4a?alt=media",
-    "difficulty": "super-easy"
+    "difficulty": "super-easy",
+    "suitability": "suitable"
   },
   {
     "title": "Ranjha",
@@ -1260,9 +1389,10 @@
     "genre": "new-age",
     "year": 2021,
     "id": "c4754d9f-1e0f-4d1b-a580-73c8def09c5a",
-    "startTime": 1.057,
+    "startTime": 1.056,
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fc4754d9f-1e0f-4d1b-a580-73c8def09c5a.m4a?alt=media",
-    "difficulty": "super-easy"
+    "difficulty": "super-easy",
+    "suitability": "suitable"
   },
   {
     "title": "Manike",
@@ -1271,9 +1401,10 @@
     "genre": "new-age",
     "year": 2022,
     "id": "f399025a-5f1a-40d0-8946-898ec2bfcc3e",
-    "startTime": 0.58,
+    "startTime": 0.65,
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Ff399025a-5f1a-40d0-8946-898ec2bfcc3e.m4a?alt=media",
-    "difficulty": "super-easy"
+    "difficulty": "super-easy",
+    "suitability": "suitable"
   },
   {
     "title": "Bhool Bhulaiyaa 2 Title Track",
@@ -1282,8 +1413,9 @@
     "genre": "new-age",
     "year": 2022,
     "id": "d7c5b147-8a41-4720-b917-dbfa72a16a53",
-    "startTime": 0.949,
-    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fd7c5b147-8a41-4720-b917-dbfa72a16a53.m4a?alt=media"
+    "startTime": 1.071,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fd7c5b147-8a41-4720-b917-dbfa72a16a53.m4a?alt=media",
+    "suitability": "review"
   },
   {
     "title": "Ami Je Tomar",
@@ -1292,8 +1424,9 @@
     "genre": "new-age",
     "year": 2022,
     "id": "3fd1abfc-fec1-4b31-8851-a6a400088451",
-    "startTime": 0.046,
-    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F3fd1abfc-fec1-4b31-8851-a6a400088451.m4a?alt=media"
+    "startTime": 0.0,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F3fd1abfc-fec1-4b31-8851-a6a400088451.m4a?alt=media",
+    "suitability": "review"
   },
   {
     "title": "Sunn Raha Hai",
@@ -1302,8 +1435,9 @@
     "genre": "new-age",
     "year": 2013,
     "id": "b1a23870-cf7b-428a-acbf-d57c79d7bf52",
-    "startTime": 0.167,
-    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fb1a23870-cf7b-428a-acbf-d57c79d7bf52.m4a?alt=media"
+    "startTime": 0.0,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fb1a23870-cf7b-428a-acbf-d57c79d7bf52.m4a?alt=media",
+    "suitability": "review"
   },
   {
     "title": "Chahun Main Ya Naa",
@@ -1312,8 +1446,9 @@
     "genre": "new-age",
     "year": 2013,
     "id": "8e0e592e-bc9e-42e9-a89a-6f7914ef2667",
-    "startTime": 0.075,
-    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F8e0e592e-bc9e-42e9-a89a-6f7914ef2667.m4a?alt=media"
+    "startTime": 0.0,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F8e0e592e-bc9e-42e9-a89a-6f7914ef2667.m4a?alt=media",
+    "suitability": "review"
   },
   {
     "title": "Zaroorat",
@@ -1322,8 +1457,9 @@
     "genre": "new-age",
     "year": 2014,
     "id": "0f5ec95d-8259-46c5-8bf4-5319211d5495",
-    "startTime": 0,
-    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F0f5ec95d-8259-46c5-8bf4-5319211d5495.m4a?alt=media"
+    "startTime": 0.0,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F0f5ec95d-8259-46c5-8bf4-5319211d5495.m4a?alt=media",
+    "suitability": "review"
   },
   {
     "title": "Hamari Adhuri Kahani",
@@ -1332,8 +1468,9 @@
     "genre": "new-age",
     "year": 2015,
     "id": "34398b1a-b6de-447f-87e7-d036b3e0e1de",
-    "startTime": 0.041,
-    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F34398b1a-b6de-447f-87e7-d036b3e0e1de.m4a?alt=media"
+    "startTime": 0.0,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F34398b1a-b6de-447f-87e7-d036b3e0e1de.m4a?alt=media",
+    "suitability": "review"
   },
   {
     "title": "Samjhawan",
@@ -1342,8 +1479,9 @@
     "genre": "new-age",
     "year": 2014,
     "id": "b282f8aa-412f-40cf-b0e4-c5f5e0ed2fcc",
-    "startTime": 0.066,
-    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fb282f8aa-412f-40cf-b0e4-c5f5e0ed2fcc.m4a?alt=media"
+    "startTime": 0.0,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fb282f8aa-412f-40cf-b0e4-c5f5e0ed2fcc.m4a?alt=media",
+    "suitability": "review"
   },
   {
     "title": "Laila Main Laila",
@@ -1352,8 +1490,9 @@
     "genre": "new-age",
     "year": 2017,
     "id": "c747de97-ecb3-4651-b7a2-569ec2e608f1",
-    "startTime": 0.389,
-    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fc747de97-ecb3-4651-b7a2-569ec2e608f1.m4a?alt=media"
+    "startTime": 0.42,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fc747de97-ecb3-4651-b7a2-569ec2e608f1.m4a?alt=media",
+    "suitability": "review"
   },
   {
     "title": "Kar Gayi Chull",
@@ -1363,7 +1502,8 @@
     "year": 2016,
     "id": "1d84cc7b-ed15-46fe-929f-ed340ea0aebb",
     "startTime": 0.444,
-    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F1d84cc7b-ed15-46fe-929f-ed340ea0aebb.m4a?alt=media"
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F1d84cc7b-ed15-46fe-929f-ed340ea0aebb.m4a?alt=media",
+    "suitability": "review"
   },
   {
     "title": "Bolna",
@@ -1372,8 +1512,9 @@
     "genre": "new-age",
     "year": 2016,
     "id": "d682b772-7a8b-49d1-9c50-af3c9b980629",
-    "startTime": 0.219,
-    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fd682b772-7a8b-49d1-9c50-af3c9b980629.m4a?alt=media"
+    "startTime": 0.0,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fd682b772-7a8b-49d1-9c50-af3c9b980629.m4a?alt=media",
+    "suitability": "review"
   },
   {
     "title": "Let's Nacho",
@@ -1382,8 +1523,9 @@
     "genre": "new-age",
     "year": 2016,
     "id": "2945b490-51cc-4ef2-bfdc-f3e6a00409e5",
-    "startTime": 0.162,
-    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F2945b490-51cc-4ef2-bfdc-f3e6a00409e5.m4a?alt=media"
+    "startTime": 0.0,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F2945b490-51cc-4ef2-bfdc-f3e6a00409e5.m4a?alt=media",
+    "suitability": "review"
   },
   {
     "title": "Kaun Tujhe",
@@ -1393,7 +1535,8 @@
     "year": 2016,
     "id": "f51b29ce-4695-4fef-ae4f-96622a49f824",
     "startTime": 0.471,
-    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Ff51b29ce-4695-4fef-ae4f-96622a49f824.m4a?alt=media"
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Ff51b29ce-4695-4fef-ae4f-96622a49f824.m4a?alt=media",
+    "suitability": "review"
   },
   {
     "title": "Besabriyaan",
@@ -1402,8 +1545,9 @@
     "genre": "new-age",
     "year": 2016,
     "id": "0b999e1d-ceec-4889-93d8-c0c496d6ceaf",
-    "startTime": 0.469,
-    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F0b999e1d-ceec-4889-93d8-c0c496d6ceaf.m4a?alt=media"
+    "startTime": 0.473,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F0b999e1d-ceec-4889-93d8-c0c496d6ceaf.m4a?alt=media",
+    "suitability": "review"
   },
   {
     "title": "Ae Dil Hai Mushkil",
@@ -1412,8 +1556,9 @@
     "genre": "new-age",
     "year": 2016,
     "id": "ce07ed68-b216-4cba-b649-867370b3d7b7",
-    "startTime": 0.033,
-    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fce07ed68-b216-4cba-b649-867370b3d7b7.m4a?alt=media"
+    "startTime": 0.4,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fce07ed68-b216-4cba-b649-867370b3d7b7.m4a?alt=media",
+    "suitability": "review"
   },
   {
     "title": "Bulleya",
@@ -1422,8 +1567,9 @@
     "genre": "new-age",
     "year": 2016,
     "id": "c0b10130-22d1-43f3-bd57-171af1ce262c",
-    "startTime": 0.22,
-    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fc0b10130-22d1-43f3-bd57-171af1ce262c.m4a?alt=media"
+    "startTime": 0.0,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fc0b10130-22d1-43f3-bd57-171af1ce262c.m4a?alt=media",
+    "suitability": "review"
   },
   {
     "title": "Cutiepie",
@@ -1432,8 +1578,9 @@
     "genre": "new-age",
     "year": 2016,
     "id": "b6dcf4c7-00d6-4c0f-aed2-27668477619b",
-    "startTime": 1.382,
-    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fb6dcf4c7-00d6-4c0f-aed2-27668477619b.m4a?alt=media"
+    "startTime": 1.397,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fb6dcf4c7-00d6-4c0f-aed2-27668477619b.m4a?alt=media",
+    "suitability": "review"
   },
   {
     "title": "Swag Se Swagat",
@@ -1442,8 +1589,9 @@
     "genre": "new-age",
     "year": 2017,
     "id": "863e26d3-016f-4ffe-8e45-a2446b4d3c99",
-    "startTime": 0.855,
-    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F863e26d3-016f-4ffe-8e45-a2446b4d3c99.m4a?alt=media"
+    "startTime": 1.254,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F863e26d3-016f-4ffe-8e45-a2446b4d3c99.m4a?alt=media",
+    "suitability": "review"
   },
   {
     "title": "Hawayein",
@@ -1453,7 +1601,8 @@
     "year": 2017,
     "id": "8d99c0ae-e028-47eb-aa5e-f54cb96d0121",
     "startTime": 1.079,
-    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F8d99c0ae-e028-47eb-aa5e-f54cb96d0121.m4a?alt=media"
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F8d99c0ae-e028-47eb-aa5e-f54cb96d0121.m4a?alt=media",
+    "suitability": "review"
   },
   {
     "title": "Radha",
@@ -1463,7 +1612,8 @@
     "year": 2017,
     "id": "dca17fcf-a3d7-41e2-b5a3-b52b01aad5c7",
     "startTime": 0.941,
-    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fdca17fcf-a3d7-41e2-b5a3-b52b01aad5c7.m4a?alt=media"
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fdca17fcf-a3d7-41e2-b5a3-b52b01aad5c7.m4a?alt=media",
+    "suitability": "review"
   },
   {
     "title": "Bom Diggy Diggy",
@@ -1472,8 +1622,9 @@
     "genre": "new-age",
     "year": 2018,
     "id": "98e99289-d97c-4989-9d3d-2493cae2e57e",
-    "startTime": 0.555,
-    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F98e99289-d97c-4989-9d3d-2493cae2e57e.m4a?alt=media"
+    "startTime": 0.558,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F98e99289-d97c-4989-9d3d-2493cae2e57e.m4a?alt=media",
+    "suitability": "review"
   },
   {
     "title": "Dil Chori",
@@ -1482,8 +1633,9 @@
     "genre": "new-age",
     "year": 2018,
     "id": "232df5dc-3aec-4037-af11-dd18eace784f",
-    "startTime": 0.648,
-    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F232df5dc-3aec-4037-af11-dd18eace784f.m4a?alt=media"
+    "startTime": 0.65,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F232df5dc-3aec-4037-af11-dd18eace784f.m4a?alt=media",
+    "suitability": "review"
   },
   {
     "title": "Tere Bin",
@@ -1492,8 +1644,9 @@
     "genre": "new-age",
     "year": 2018,
     "id": "62551b35-9d61-41c6-969a-e53238acf939",
-    "startTime": 0.537,
-    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F62551b35-9d61-41c6-969a-e53238acf939.m4a?alt=media"
+    "startTime": 0.558,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F62551b35-9d61-41c6-969a-e53238acf939.m4a?alt=media",
+    "suitability": "review"
   },
   {
     "title": "O Saki Saki",
@@ -1502,8 +1655,9 @@
     "genre": "new-age",
     "year": 2019,
     "id": "813a1401-b19f-4bea-91e3-b137b30bc3a9",
-    "startTime": 0.566,
-    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F813a1401-b19f-4bea-91e3-b137b30bc3a9.m4a?alt=media"
+    "startTime": 0.57,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F813a1401-b19f-4bea-91e3-b137b30bc3a9.m4a?alt=media",
+    "suitability": "review"
   },
   {
     "title": "Bekhayali",
@@ -1512,8 +1666,9 @@
     "genre": "new-age",
     "year": 2019,
     "id": "b0dcaac5-dd12-4220-92b7-0dee63050de9",
-    "startTime": 0.085,
-    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fb0dcaac5-dd12-4220-92b7-0dee63050de9.m4a?alt=media"
+    "startTime": 0.0,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fb0dcaac5-dd12-4220-92b7-0dee63050de9.m4a?alt=media",
+    "suitability": "review"
   },
   {
     "title": "Tujhe Kitna Chahne Lage",
@@ -1522,8 +1677,9 @@
     "genre": "new-age",
     "year": 2019,
     "id": "0076e547-1e15-4d23-bf15-829c60a3fb00",
-    "startTime": 0.583,
-    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F0076e547-1e15-4d23-bf15-829c60a3fb00.m4a?alt=media"
+    "startTime": 0.588,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F0076e547-1e15-4d23-bf15-829c60a3fb00.m4a?alt=media",
+    "suitability": "review"
   },
   {
     "title": "Kaise Hua",
@@ -1532,8 +1688,9 @@
     "genre": "new-age",
     "year": 2019,
     "id": "263627f7-5ac8-4f4f-9944-de520ec52ed0",
-    "startTime": 0,
-    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F263627f7-5ac8-4f4f-9944-de520ec52ed0.m4a?alt=media"
+    "startTime": 0.0,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F263627f7-5ac8-4f4f-9944-de520ec52ed0.m4a?alt=media",
+    "suitability": "review"
   },
   {
     "title": "Shaitan Ka Saala",
@@ -1542,8 +1699,9 @@
     "genre": "new-age",
     "year": 2019,
     "id": "314e84ae-9fd8-4ce2-9eb0-ebc9257fa504",
-    "startTime": 0.141,
-    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F314e84ae-9fd8-4ce2-9eb0-ebc9257fa504.m4a?alt=media"
+    "startTime": 0.0,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F314e84ae-9fd8-4ce2-9eb0-ebc9257fa504.m4a?alt=media",
+    "suitability": "review"
   },
   {
     "title": "Ho Gaya Hai Tujhko To Pyaar Sajna",
@@ -1552,8 +1710,9 @@
     "genre": "golden-era",
     "year": 1995,
     "id": "10a695e1-2df1-453b-979e-ed659999b0e9",
-    "startTime": 0.034,
-    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F10a695e1-2df1-453b-979e-ed659999b0e9.m4a?alt=media"
+    "startTime": 7.38,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F10a695e1-2df1-453b-979e-ed659999b0e9.m4a?alt=media",
+    "suitability": "provisional_unsuitable"
   },
   {
     "title": "Bholi Si Surat",
@@ -1562,8 +1721,9 @@
     "genre": "golden-era",
     "year": 1997,
     "id": "6c6e18e9-5a14-45a4-8af9-30804404e9af",
-    "startTime": 0.047,
-    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F6c6e18e9-5a14-45a4-8af9-30804404e9af.m4a?alt=media"
+    "startTime": 0.0,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F6c6e18e9-5a14-45a4-8af9-30804404e9af.m4a?alt=media",
+    "suitability": "review"
   },
   {
     "title": "Dil To Pagal Hai",
@@ -1573,7 +1733,8 @@
     "year": 1997,
     "id": "87171f56-6273-4fc1-a7d1-fe726d1e81a5",
     "startTime": 0.942,
-    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F87171f56-6273-4fc1-a7d1-fe726d1e81a5.m4a?alt=media"
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F87171f56-6273-4fc1-a7d1-fe726d1e81a5.m4a?alt=media",
+    "suitability": "review"
   },
   {
     "title": "Koi Mil Gaya",
@@ -1583,7 +1744,8 @@
     "year": 1998,
     "id": "77752fc6-2bad-4e1f-9081-57b9d3f9e016",
     "startTime": 3.6,
-    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F77752fc6-2bad-4e1f-9081-57b9d3f9e016.m4a?alt=media"
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F77752fc6-2bad-4e1f-9081-57b9d3f9e016.m4a?alt=media",
+    "suitability": "review"
   },
   {
     "title": "Ladki Badi Anjani Hai",
@@ -1592,8 +1754,9 @@
     "genre": "golden-era",
     "year": 1998,
     "id": "44605843-c022-44d9-a4f5-40d734f4d76b",
-    "startTime": 3.455,
-    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F44605843-c022-44d9-a4f5-40d734f4d76b.m4a?alt=media"
+    "startTime": 3.46,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F44605843-c022-44d9-a4f5-40d734f4d76b.m4a?alt=media",
+    "suitability": "review"
   },
   {
     "title": "Suraj Hua Maddham",
@@ -1602,8 +1765,9 @@
     "genre": "golden-era",
     "year": 2001,
     "id": "0113af6e-e83e-4578-b359-9efb5786537f",
-    "startTime": 1.444,
-    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F0113af6e-e83e-4578-b359-9efb5786537f.m4a?alt=media"
+    "startTime": 1.477,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F0113af6e-e83e-4578-b359-9efb5786537f.m4a?alt=media",
+    "suitability": "review"
   },
   {
     "title": "Bole Chudiyan",
@@ -1613,7 +1777,8 @@
     "year": 2001,
     "id": "4b8b63ee-a4dd-420e-b1cf-b709714d8ecb",
     "startTime": 1.829,
-    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F4b8b63ee-a4dd-420e-b1cf-b709714d8ecb.m4a?alt=media"
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F4b8b63ee-a4dd-420e-b1cf-b709714d8ecb.m4a?alt=media",
+    "suitability": "review"
   },
   {
     "title": "You Are My Soniya",
@@ -1622,8 +1787,9 @@
     "genre": "golden-era",
     "year": 2001,
     "id": "b8b2160e-c947-46d1-b198-af44961c219f",
-    "startTime": 0.798,
-    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fb8b2160e-c947-46d1-b198-af44961c219f.m4a?alt=media"
+    "startTime": 0.808,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fb8b2160e-c947-46d1-b198-af44961c219f.m4a?alt=media",
+    "suitability": "review"
   },
   {
     "title": "Maahi Ve",
@@ -1633,7 +1799,8 @@
     "year": 2003,
     "id": "5e05aa93-9b23-4b95-a5fa-0466f5273d33",
     "startTime": 1.108,
-    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F5e05aa93-9b23-4b95-a5fa-0466f5273d33.m4a?alt=media"
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F5e05aa93-9b23-4b95-a5fa-0466f5273d33.m4a?alt=media",
+    "suitability": "review"
   },
   {
     "title": "It's The Time To Disco",
@@ -1642,8 +1809,9 @@
     "genre": "golden-era",
     "year": 2003,
     "id": "2f596f39-7e42-4e02-b249-dd3572b3c189",
-    "startTime": 0.495,
-    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F2f596f39-7e42-4e02-b249-dd3572b3c189.m4a?alt=media"
+    "startTime": 0.482,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F2f596f39-7e42-4e02-b249-dd3572b3c189.m4a?alt=media",
+    "suitability": "review"
   },
   {
     "title": "Main Yahaan Hoon",
@@ -1652,8 +1820,9 @@
     "genre": "golden-era",
     "year": 2004,
     "id": "5616e664-2176-489c-ad2d-35b11e71d350",
-    "startTime": 0.318,
-    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F5616e664-2176-489c-ad2d-35b11e71d350.m4a?alt=media"
+    "startTime": 0.528,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F5616e664-2176-489c-ad2d-35b11e71d350.m4a?alt=media",
+    "suitability": "review"
   },
   {
     "title": "Tere Liye",
@@ -1662,8 +1831,9 @@
     "genre": "golden-era",
     "year": 2004,
     "id": "9d8fe26d-84e2-42c8-9a5b-44193930d32b",
-    "startTime": 0.172,
-    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F9d8fe26d-84e2-42c8-9a5b-44193930d32b.m4a?alt=media"
+    "startTime": 0.0,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F9d8fe26d-84e2-42c8-9a5b-44193930d32b.m4a?alt=media",
+    "suitability": "review"
   },
   {
     "title": "Do Pal",
@@ -1672,8 +1842,9 @@
     "genre": "golden-era",
     "year": 2004,
     "id": "796b3508-bb49-4675-942b-a660807f587a",
-    "startTime": 0.678,
-    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F796b3508-bb49-4675-942b-a660807f587a.m4a?alt=media"
+    "startTime": 0.798,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F796b3508-bb49-4675-942b-a660807f587a.m4a?alt=media",
+    "suitability": "review"
   },
   {
     "title": "Kabhi Alvida Naa Kehna",
@@ -1682,8 +1853,9 @@
     "genre": "golden-era",
     "year": 2006,
     "id": "1c1acb7c-20bb-4434-a623-29375d45e43b",
-    "startTime": 0.205,
-    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F1c1acb7c-20bb-4434-a623-29375d45e43b.m4a?alt=media"
+    "startTime": 0.0,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F1c1acb7c-20bb-4434-a623-29375d45e43b.m4a?alt=media",
+    "suitability": "review"
   },
   {
     "title": "Where's The Party Tonight",
@@ -1693,7 +1865,8 @@
     "year": 2006,
     "id": "03267445-1c51-4f33-a912-d65b04890bb6",
     "startTime": 1.585,
-    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F03267445-1c51-4f33-a912-d65b04890bb6.m4a?alt=media"
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F03267445-1c51-4f33-a912-d65b04890bb6.m4a?alt=media",
+    "suitability": "review"
   },
   {
     "title": "Bidi Jalaile",
@@ -1702,8 +1875,9 @@
     "genre": "golden-era",
     "year": 2006,
     "id": "4cb2c720-12a8-43bd-ba07-f4277a18df04",
-    "startTime": 0.518,
-    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F4cb2c720-12a8-43bd-ba07-f4277a18df04.m4a?alt=media"
+    "startTime": 0.528,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F4cb2c720-12a8-43bd-ba07-f4277a18df04.m4a?alt=media",
+    "suitability": "review"
   },
   {
     "title": "Namak",
@@ -1712,8 +1886,9 @@
     "genre": "golden-era",
     "year": 2006,
     "id": "1505ce5f-55d0-4633-b945-33b39076fd49",
-    "startTime": 0.513,
-    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F1505ce5f-55d0-4633-b945-33b39076fd49.m4a?alt=media"
+    "startTime": 0.514,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F1505ce5f-55d0-4633-b945-33b39076fd49.m4a?alt=media",
+    "suitability": "review"
   },
   {
     "title": "Kajra Re",
@@ -1722,8 +1897,9 @@
     "genre": "golden-era",
     "year": 2005,
     "id": "607ada34-b194-42e1-9c67-fecd83acc32e",
-    "startTime": 0.287,
-    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F607ada34-b194-42e1-9c67-fecd83acc32e.m4a?alt=media"
+    "startTime": 0.0,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F607ada34-b194-42e1-9c67-fecd83acc32e.m4a?alt=media",
+    "suitability": "review"
   },
   {
     "title": "Chup Chup Ke",
@@ -1732,8 +1908,9 @@
     "genre": "golden-era",
     "year": 2005,
     "id": "23d7e400-fc51-4a3c-941f-d7750b1ad73e",
-    "startTime": 0.098,
-    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F23d7e400-fc51-4a3c-941f-d7750b1ad73e.m4a?alt=media"
+    "startTime": 0.0,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F23d7e400-fc51-4a3c-941f-d7750b1ad73e.m4a?alt=media",
+    "suitability": "review"
   },
   {
     "title": "Dhoom Machale",
@@ -1742,8 +1919,9 @@
     "genre": "golden-era",
     "year": 2004,
     "id": "65a01583-41ba-4fa7-9340-4608e7a9b630",
-    "startTime": 0.151,
-    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F65a01583-41ba-4fa7-9340-4608e7a9b630.m4a?alt=media"
+    "startTime": 0.0,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F65a01583-41ba-4fa7-9340-4608e7a9b630.m4a?alt=media",
+    "suitability": "review"
   },
   {
     "title": "Crazy Kiya Re",
@@ -1752,8 +1930,9 @@
     "genre": "golden-era",
     "year": 2006,
     "id": "31b1c41f-c1ad-4324-bc4a-afa0e2a18958",
-    "startTime": 0.252,
-    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F31b1c41f-c1ad-4324-bc4a-afa0e2a18958.m4a?alt=media"
+    "startTime": 0.0,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F31b1c41f-c1ad-4324-bc4a-afa0e2a18958.m4a?alt=media",
+    "suitability": "review"
   },
   {
     "title": "Mauja Hi Mauja",
@@ -1762,8 +1941,9 @@
     "genre": "golden-era",
     "year": 2007,
     "id": "b0eb87b7-bebb-4eab-b834-03a9a5932bac",
-    "startTime": 0.116,
-    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fb0eb87b7-bebb-4eab-b834-03a9a5932bac.m4a?alt=media"
+    "startTime": 0.0,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fb0eb87b7-bebb-4eab-b834-03a9a5932bac.m4a?alt=media",
+    "suitability": "review"
   },
   {
     "title": "Yeh Ishq Hai",
@@ -1772,8 +1952,9 @@
     "genre": "golden-era",
     "year": 2007,
     "id": "0a0c3a15-016f-428e-ae24-a41d360f0a57",
-    "startTime": 0.575,
-    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F0a0c3a15-016f-428e-ae24-a41d360f0a57.m4a?alt=media"
+    "startTime": 1.094,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F0a0c3a15-016f-428e-ae24-a41d360f0a57.m4a?alt=media",
+    "suitability": "review"
   },
   {
     "title": "Pehli Nazar Mein",
@@ -1782,8 +1963,9 @@
     "genre": "golden-era",
     "year": 2008,
     "id": "9f978603-1012-40bd-ac30-1bb776f6ca30",
-    "startTime": 0.296,
-    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F9f978603-1012-40bd-ac30-1bb776f6ca30.m4a?alt=media"
+    "startTime": 1.335,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F9f978603-1012-40bd-ac30-1bb776f6ca30.m4a?alt=media",
+    "suitability": "review"
   },
   {
     "title": "Zara Zara Touch Me",
@@ -1792,8 +1974,9 @@
     "genre": "golden-era",
     "year": 2008,
     "id": "875e3b10-654f-493b-9ea9-a46c8ee9c839",
-    "startTime": 0.04,
-    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F875e3b10-654f-493b-9ea9-a46c8ee9c839.m4a?alt=media"
+    "startTime": 10.749,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F875e3b10-654f-493b-9ea9-a46c8ee9c839.m4a?alt=media",
+    "suitability": "provisional_unsuitable"
   },
   {
     "title": "Desi Girl",
@@ -1802,8 +1985,9 @@
     "genre": "golden-era",
     "year": 2008,
     "id": "0f51800b-d22a-4e5a-bbaa-e8d75825d464",
-    "startTime": 1.47,
-    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F0f51800b-d22a-4e5a-bbaa-e8d75825d464.m4a?alt=media"
+    "startTime": 1.474,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F0f51800b-d22a-4e5a-bbaa-e8d75825d464.m4a?alt=media",
+    "suitability": "review"
   },
   {
     "title": "Maa Da Laadla",
@@ -1812,8 +1996,9 @@
     "genre": "golden-era",
     "year": 2008,
     "id": "26074b77-e958-466d-9b97-c24587bbd6ad",
-    "startTime": 2.919,
-    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F26074b77-e958-466d-9b97-c24587bbd6ad.m4a?alt=media"
+    "startTime": 2.925,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F26074b77-e958-466d-9b97-c24587bbd6ad.m4a?alt=media",
+    "suitability": "review"
   },
   {
     "title": "Iktara",
@@ -1822,8 +2007,9 @@
     "genre": "golden-era",
     "year": 2009,
     "id": "7502905b-ffeb-4606-b0fe-cde2e47bc0ef",
-    "startTime": 0.544,
-    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F7502905b-ffeb-4606-b0fe-cde2e47bc0ef.m4a?alt=media"
+    "startTime": 0.545,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F7502905b-ffeb-4606-b0fe-cde2e47bc0ef.m4a?alt=media",
+    "suitability": "review"
   },
   {
     "title": "Tum Jo Aaye",
@@ -1832,8 +2018,9 @@
     "genre": "golden-era",
     "year": 2010,
     "id": "bbcba94a-bf18-46e5-869f-dc226e5478f6",
-    "startTime": 0.25,
-    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fbbcba94a-bf18-46e5-869f-dc226e5478f6.m4a?alt=media"
+    "startTime": 0.0,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fbbcba94a-bf18-46e5-869f-dc226e5478f6.m4a?alt=media",
+    "suitability": "review"
   },
   {
     "title": "Munni Badnaam Hui",
@@ -1842,8 +2029,9 @@
     "genre": "golden-era",
     "year": 2010,
     "id": "4264935f-f508-4192-a15f-90807637d325",
-    "startTime": 0.081,
-    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F4264935f-f508-4192-a15f-90807637d325.m4a?alt=media"
+    "startTime": 0.0,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F4264935f-f508-4192-a15f-90807637d325.m4a?alt=media",
+    "suitability": "review"
   },
   {
     "title": "Tere Mast Mast Do Nain",
@@ -1852,8 +2040,9 @@
     "genre": "golden-era",
     "year": 2010,
     "id": "08c0e568-2ed4-4d34-bb51-097877e786f6",
-    "startTime": 0.044,
-    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F08c0e568-2ed4-4d34-bb51-097877e786f6.m4a?alt=media"
+    "startTime": 0.0,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F08c0e568-2ed4-4d34-bb51-097877e786f6.m4a?alt=media",
+    "suitability": "review"
   },
   {
     "title": "Naatu Naatu",
@@ -1862,8 +2051,9 @@
     "genre": "new-age",
     "year": 2022,
     "id": "fa3ed932-0674-4117-9d0f-418145bb342a",
-    "startTime": 0.532,
-    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Ffa3ed932-0674-4117-9d0f-418145bb342a.m4a?alt=media"
+    "startTime": 0.533,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Ffa3ed932-0674-4117-9d0f-418145bb342a.m4a?alt=media",
+    "suitability": "review"
   },
   {
     "title": "Kala Chashma",
@@ -1872,8 +2062,9 @@
     "genre": "new-age",
     "year": 2016,
     "id": "0a250a0f-e99a-4c49-b64c-5069e9efeb3b",
-    "startTime": 0,
-    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F0a250a0f-e99a-4c49-b64c-5069e9efeb3b.m4a?alt=media"
+    "startTime": 0.0,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F0a250a0f-e99a-4c49-b64c-5069e9efeb3b.m4a?alt=media",
+    "suitability": "review"
   },
   {
     "title": "Tum Hi Aana",
@@ -1882,8 +2073,9 @@
     "genre": "new-age",
     "year": 2019,
     "id": "fcc85559-d0d5-458a-883b-9ca45ade6fbc",
-    "startTime": 0.509,
-    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Ffcc85559-d0d5-458a-883b-9ca45ade6fbc.m4a?alt=media"
+    "startTime": 0.511,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Ffcc85559-d0d5-458a-883b-9ca45ade6fbc.m4a?alt=media",
+    "suitability": "review"
   },
   {
     "title": "Lut Gaye",
@@ -1892,9 +2084,10 @@
     "genre": "new-age",
     "year": 2021,
     "id": "147066b0-8da5-455b-adc0-520e92eddfe0",
-    "startTime": 0.596,
+    "startTime": 0.602,
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F147066b0-8da5-455b-adc0-520e92eddfe0.m4a?alt=media",
-    "difficulty": "super-easy"
+    "difficulty": "super-easy",
+    "suitability": "suitable"
   },
   {
     "title": "Bijlee Bijlee",
@@ -1903,9 +2096,10 @@
     "genre": "new-age",
     "year": 2021,
     "id": "042f9c51-8d19-4c69-a8f6-ae3a1563cbae",
-    "startTime": 0.073,
+    "startTime": 1.419,
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F042f9c51-8d19-4c69-a8f6-ae3a1563cbae.m4a?alt=media",
-    "difficulty": "super-easy"
+    "difficulty": "super-easy",
+    "suitability": "suitable"
   },
   {
     "title": "Param Sundari",
@@ -1914,9 +2108,10 @@
     "genre": "new-age",
     "year": 2021,
     "id": "4a5b6e4f-5a06-438b-9af6-a0930a751845",
-    "startTime": 1.093,
+    "startTime": 1.102,
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F4a5b6e4f-5a06-438b-9af6-a0930a751845.m4a?alt=media",
-    "difficulty": "super-easy"
+    "difficulty": "super-easy",
+    "suitability": "suitable"
   },
   {
     "title": "Srivalli",
@@ -1926,7 +2121,8 @@
     "year": 2021,
     "id": "abbef501-1ffa-4f43-a005-84d64de2c969",
     "startTime": 0.316,
-    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fabbef501-1ffa-4f43-a005-84d64de2c969.m4a?alt=media"
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fabbef501-1ffa-4f43-a005-84d64de2c969.m4a?alt=media",
+    "suitability": "review"
   },
   {
     "title": "Oo Bolega Ya Oo Oo Bolega",
@@ -1935,9 +2131,10 @@
     "genre": "new-age",
     "year": 2021,
     "id": "c91f765e-0f15-49f3-ada7-6b853c6605c1",
-    "startTime": 0.276,
+    "startTime": 4.019,
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fc91f765e-0f15-49f3-ada7-6b853c6605c1.m4a?alt=media",
-    "difficulty": "super-easy"
+    "difficulty": "super-easy",
+    "suitability": "suitable"
   },
   {
     "title": "Saami Saami",
@@ -1946,8 +2143,9 @@
     "genre": "new-age",
     "year": 2021,
     "id": "419e75fb-14a2-46cf-ae40-8592951a85ce",
-    "startTime": 0.535,
-    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F419e75fb-14a2-46cf-ae40-8592951a85ce.m4a?alt=media"
+    "startTime": 0.541,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F419e75fb-14a2-46cf-ae40-8592951a85ce.m4a?alt=media",
+    "suitability": "review"
   },
   {
     "title": "Jalebi Baby",
@@ -1956,8 +2154,9 @@
     "genre": "new-age",
     "year": 2021,
     "id": "b3bc39c7-9f34-4f20-8890-b1a311425670",
-    "startTime": 0.218,
-    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fb3bc39c7-9f34-4f20-8890-b1a311425670.m4a?alt=media"
+    "startTime": 0.0,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fb3bc39c7-9f34-4f20-8890-b1a311425670.m4a?alt=media",
+    "suitability": "review"
   },
   {
     "title": "Pasoori",
@@ -1966,8 +2165,9 @@
     "genre": "new-age",
     "year": 2022,
     "id": "a792733f-a2a1-421b-a8db-ba6416a8e3f1",
-    "startTime": 0.574,
-    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fa792733f-a2a1-421b-a8db-ba6416a8e3f1.m4a?alt=media"
+    "startTime": 0.576,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fa792733f-a2a1-421b-a8db-ba6416a8e3f1.m4a?alt=media",
+    "suitability": "review"
   },
   {
     "title": "Jug Jug Jeeve",
@@ -1976,8 +2176,9 @@
     "genre": "new-age",
     "year": 2021,
     "id": "8673aed4-fe3d-42a5-9389-6ac83b2c1eb4",
-    "startTime": 0.595,
-    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F8673aed4-fe3d-42a5-9389-6ac83b2c1eb4.m4a?alt=media"
+    "startTime": 0.607,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F8673aed4-fe3d-42a5-9389-6ac83b2c1eb4.m4a?alt=media",
+    "suitability": "review"
   },
   {
     "title": "Subhanallah",
@@ -1986,8 +2187,9 @@
     "genre": "new-age",
     "year": 2013,
     "id": "f47395e8-5938-434b-96a2-ca9c80dc657d",
-    "startTime": 0.228,
-    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Ff47395e8-5938-434b-96a2-ca9c80dc657d.m4a?alt=media"
+    "startTime": 2.056,
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Ff47395e8-5938-434b-96a2-ca9c80dc657d.m4a?alt=media",
+    "suitability": "review"
   },
   {
     "id": "cheques",
@@ -1996,9 +2198,10 @@
     "artist": "Shubh",
     "genre": "trending",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fcheques.m4a?alt=media",
-    "startTime": 0,
+    "startTime": 0.0,
     "difficulty": "super-easy",
-    "year": 2024
+    "year": 2024,
+    "suitability": "suitable"
   },
   {
     "id": "maan-meri-jaan",
@@ -2007,9 +2210,10 @@
     "artist": "King",
     "genre": "trending",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fmaan-meri-jaan.m4a?alt=media",
-    "startTime": 0,
+    "startTime": 0.417,
     "difficulty": "super-easy",
-    "year": 2024
+    "year": 2024,
+    "suitability": "suitable"
   },
   {
     "id": "295",
@@ -2018,9 +2222,10 @@
     "artist": "Sidhu Moose Wala",
     "genre": "trending",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F295.m4a?alt=media",
-    "startTime": 0,
+    "startTime": 4.447,
     "difficulty": "super-easy",
-    "year": 2024
+    "year": 2024,
+    "suitability": "suitable"
   },
   {
     "id": "big-dawgs",
@@ -2029,9 +2234,10 @@
     "artist": "Hanumankind, Kalmi",
     "genre": "trending",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fbig-dawgs.m4a?alt=media",
-    "startTime": 0,
+    "startTime": 0.0,
     "difficulty": "super-easy",
-    "year": 2024
+    "year": 2024,
+    "suitability": "suitable"
   },
   {
     "id": "husn",
@@ -2040,9 +2246,10 @@
     "artist": "Anuv Jain",
     "genre": "trending",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fhusn.m4a?alt=media",
-    "startTime": 0,
+    "startTime": 0.794,
     "difficulty": "super-easy",
-    "year": 2024
+    "year": 2024,
+    "suitability": "suitable"
   },
   {
     "id": "excuses",
@@ -2051,9 +2258,10 @@
     "artist": "AP Dhillon, Gurinder Gill",
     "genre": "trending",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fexcuses.m4a?alt=media",
-    "startTime": 0,
+    "startTime": 0.0,
     "difficulty": "super-easy",
-    "year": 2024
+    "year": 2024,
+    "suitability": "suitable"
   },
   {
     "id": "genda-phool",
@@ -2062,9 +2270,10 @@
     "artist": "Badshah, Payal Dev",
     "genre": "trending",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fgenda-phool.m4a?alt=media",
-    "startTime": 0,
+    "startTime": 0.605,
     "difficulty": "super-easy",
-    "year": 2024
+    "year": 2024,
+    "suitability": "suitable"
   },
   {
     "id": "millionaire",
@@ -2073,9 +2282,10 @@
     "artist": "Yo Yo Honey Singh",
     "genre": "trending",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fmillionaire.m4a?alt=media",
-    "startTime": 0,
+    "startTime": 0.0,
     "difficulty": "super-easy",
-    "year": 2024
+    "year": 2024,
+    "suitability": "suitable"
   },
   {
     "id": "titliaan",
@@ -2084,9 +2294,10 @@
     "artist": "Afsana Khan, Jaani, B Praak",
     "genre": "trending",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Ftitliaan.m4a?alt=media",
-    "startTime": 0,
+    "startTime": 0.0,
     "difficulty": "super-easy",
-    "year": 2024
+    "year": 2024,
+    "suitability": "suitable"
   },
   {
     "id": "jamal-kudu",
@@ -2097,7 +2308,8 @@
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fjamal-kudu.m4a?alt=media",
     "startTime": 0,
     "difficulty": "super-easy",
-    "year": 2024
+    "year": 2024,
+    "suitability": "suitable"
   },
   {
     "id": "kahani-suno-2-0",
@@ -2106,9 +2318,10 @@
     "artist": "Kaifi Khalil",
     "genre": "trending",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fkahani-suno-2-0.m4a?alt=media",
-    "startTime": 0,
+    "startTime": 0.0,
     "difficulty": "super-easy",
-    "year": 2024
+    "year": 2024,
+    "suitability": "suitable"
   },
   {
     "id": "elevated",
@@ -2117,9 +2330,10 @@
     "artist": "Shubh",
     "genre": "trending",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Felevated.m4a?alt=media",
-    "startTime": 0,
+    "startTime": 1.336,
     "difficulty": "super-easy",
-    "year": 2024
+    "year": 2024,
+    "suitability": "suitable"
   },
   {
     "id": "no-love",
@@ -2128,9 +2342,10 @@
     "artist": "Shubh",
     "genre": "trending",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fno-love.m4a?alt=media",
-    "startTime": 0,
+    "startTime": 0.0,
     "difficulty": "super-easy",
-    "year": 2024
+    "year": 2024,
+    "suitability": "suitable"
   },
   {
     "id": "baller",
@@ -2139,9 +2354,10 @@
     "artist": "Shubh, Ikky",
     "genre": "trending",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fballer.m4a?alt=media",
-    "startTime": 0,
+    "startTime": 0.0,
     "difficulty": "super-easy",
-    "year": 2024
+    "year": 2024,
+    "suitability": "suitable"
   },
   {
     "id": "sajni-o-sajni-re",
@@ -2150,9 +2366,10 @@
     "artist": "Arijit Singh, Ram Sampath",
     "genre": "trending",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fsajni-o-sajni-re.m4a?alt=media",
-    "startTime": 0,
+    "startTime": 0.0,
     "difficulty": "super-easy",
-    "year": 2024
+    "year": 2024,
+    "suitability": "suitable"
   },
   {
     "id": "the-last-ride",
@@ -2161,9 +2378,10 @@
     "artist": "Sidhu Moose Wala, Wazir Patar",
     "genre": "trending",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fthe-last-ride.m4a?alt=media",
-    "startTime": 0,
+    "startTime": 9.538,
     "difficulty": "super-easy",
-    "year": 2024
+    "year": 2024,
+    "suitability": "provisional_unsuitable"
   },
   {
     "id": "levels",
@@ -2172,9 +2390,10 @@
     "artist": "Sidhu Moose Wala, Sunny Malton",
     "genre": "trending",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Flevels.m4a?alt=media",
-    "startTime": 0,
+    "startTime": 0.965,
     "difficulty": "super-easy",
-    "year": 2024
+    "year": 2024,
+    "suitability": "suitable"
   },
   {
     "id": "admirin-you",
@@ -2183,9 +2402,10 @@
     "artist": "Karan Aujla, Preston Pablo, Ikky",
     "genre": "trending",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fadmirin-you.m4a?alt=media",
-    "startTime": 0,
+    "startTime": 1.535,
     "difficulty": "super-easy",
-    "year": 2024
+    "year": 2024,
+    "suitability": "suitable"
   },
   {
     "id": "jugnu",
@@ -2194,9 +2414,10 @@
     "artist": "Badshah, Nikhita Gandhi",
     "genre": "trending",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fjugnu.m4a?alt=media",
-    "startTime": 0,
+    "startTime": 0.0,
     "difficulty": "super-easy",
-    "year": 2024
+    "year": 2024,
+    "suitability": "suitable"
   },
   {
     "id": "pani-pani",
@@ -2205,9 +2426,10 @@
     "artist": "Badshah, Aastha Gill",
     "genre": "trending",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fpani-pani.m4a?alt=media",
-    "startTime": 0,
+    "startTime": 0.0,
     "difficulty": "super-easy",
-    "year": 2024
+    "year": 2024,
+    "suitability": "suitable"
   },
   {
     "id": "ve-haaniyaan",
@@ -2216,9 +2438,10 @@
     "artist": "Danny, Avvy Sra, Sagar",
     "genre": "trending",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fve-haaniyaan.m4a?alt=media",
-    "startTime": 0,
+    "startTime": 0.587,
     "difficulty": "super-easy",
-    "year": 2024
+    "year": 2024,
+    "suitability": "suitable"
   },
   {
     "id": "illuminati",
@@ -2227,9 +2450,10 @@
     "artist": "Sushin Shyam, Dabzee",
     "genre": "trending",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Filluminati.m4a?alt=media",
-    "startTime": 0,
+    "startTime": 0.371,
     "difficulty": "super-easy",
-    "year": 2024
+    "year": 2024,
+    "suitability": "suitable"
   },
   {
     "id": "tu-aake-dekhle",
@@ -2238,9 +2462,10 @@
     "artist": "King",
     "genre": "trending",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Ftu-aake-dekhle.m4a?alt=media",
-    "startTime": 0,
+    "startTime": 0.0,
     "difficulty": "super-easy",
-    "year": 2024
+    "year": 2024,
+    "suitability": "suitable"
   },
   {
     "id": "jo-tum-mere-ho",
@@ -2249,9 +2474,10 @@
     "artist": "Anuv Jain",
     "genre": "trending",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fjo-tum-mere-ho.m4a?alt=media",
-    "startTime": 0,
+    "startTime": 1.171,
     "difficulty": "super-easy",
-    "year": 2024
+    "year": 2024,
+    "suitability": "suitable"
   },
   {
     "id": "daku",
@@ -2260,9 +2486,10 @@
     "artist": "Chani Nattan, Inderpal Moga",
     "genre": "trending",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fdaku.m4a?alt=media",
-    "startTime": 0,
+    "startTime": 0.0,
     "difficulty": "super-easy",
-    "year": 2024
+    "year": 2024,
+    "suitability": "suitable"
   },
   {
     "id": "still-rollin",
@@ -2271,9 +2498,10 @@
     "artist": "Shubh",
     "genre": "trending",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fstill-rollin.m4a?alt=media",
-    "startTime": 0,
+    "startTime": 0.0,
     "difficulty": "super-easy",
-    "year": 2024
+    "year": 2024,
+    "suitability": "suitable"
   },
   {
     "id": "king-shit",
@@ -2282,9 +2510,10 @@
     "artist": "Shubh",
     "genre": "trending",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fking-shit.m4a?alt=media",
-    "startTime": 0,
+    "startTime": 0.0,
     "difficulty": "super-easy",
-    "year": 2024
+    "year": 2024,
+    "suitability": "suitable"
   },
   {
     "id": "52-bars",
@@ -2293,9 +2522,10 @@
     "artist": "Karan Aujla, Ikky",
     "genre": "trending",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F52-bars.m4a?alt=media",
-    "startTime": 0,
+    "startTime": 0.0,
     "difficulty": "super-easy",
-    "year": 2024
+    "year": 2024,
+    "suitability": "suitable"
   },
   {
     "id": "one-love",
@@ -2304,9 +2534,10 @@
     "artist": "Shubh",
     "genre": "trending",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fone-love.m4a?alt=media",
-    "startTime": 0,
+    "startTime": 0.0,
     "difficulty": "super-easy",
-    "year": 2024
+    "year": 2024,
+    "suitability": "suitable"
   },
   {
     "id": "wo-noor",
@@ -2315,9 +2546,10 @@
     "artist": "AP Dhillon",
     "genre": "trending",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fwo-noor.m4a?alt=media",
-    "startTime": 0,
+    "startTime": 0.0,
     "difficulty": "super-easy",
-    "year": 2024
+    "year": 2024,
+    "suitability": "suitable"
   },
   {
     "id": "spaceship",
@@ -2326,9 +2558,10 @@
     "artist": "AP Dhillon, Gurinder Gill",
     "genre": "trending",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fspaceship.m4a?alt=media",
-    "startTime": 0,
+    "startTime": 15.0,
     "difficulty": "super-easy",
-    "year": 2024
+    "year": 2024,
+    "suitability": "provisional_unsuitable"
   },
   {
     "id": "signed-to-god",
@@ -2337,9 +2570,10 @@
     "artist": "Sidhu Moose Wala",
     "genre": "trending",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fsigned-to-god.m4a?alt=media",
-    "startTime": 0,
+    "startTime": 3.196,
     "difficulty": "super-easy",
-    "year": 2024
+    "year": 2024,
+    "suitability": "suitable"
   },
   {
     "id": "syl",
@@ -2348,9 +2582,10 @@
     "artist": "Sidhu Moose Wala",
     "genre": "trending",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fsyl.m4a?alt=media",
-    "startTime": 0,
+    "startTime": 13.13,
     "difficulty": "super-easy",
-    "year": 2024
+    "year": 2024,
+    "suitability": "provisional_unsuitable"
   },
   {
     "id": "drippy",
@@ -2359,9 +2594,10 @@
     "artist": "Sidhu Moose Wala, AR Paisley, Mxrci",
     "genre": "trending",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fdrippy.m4a?alt=media",
-    "startTime": 0,
+    "startTime": 2.433,
     "difficulty": "super-easy",
-    "year": 2024
+    "year": 2024,
+    "suitability": "suitable"
   },
   {
     "id": "410",
@@ -2370,9 +2606,10 @@
     "artist": "Sidhu Moose Wala, Sunny Malton",
     "genre": "trending",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F410.m4a?alt=media",
-    "startTime": 0,
+    "startTime": 0.0,
     "difficulty": "super-easy",
-    "year": 2024
+    "year": 2024,
+    "suitability": "suitable"
   },
   {
     "id": "watch-out",
@@ -2381,9 +2618,10 @@
     "artist": "Sidhu Moose Wala, Sikander Kahlon",
     "genre": "trending",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fwatch-out.m4a?alt=media",
-    "startTime": 0,
+    "startTime": 0.0,
     "difficulty": "super-easy",
-    "year": 2024
+    "year": 2024,
+    "suitability": "suitable"
   },
   {
     "id": "we-rollin",
@@ -2392,9 +2630,10 @@
     "artist": "Shubh",
     "genre": "trending",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fwe-rollin.m4a?alt=media",
-    "startTime": 0,
+    "startTime": 0.0,
     "difficulty": "super-easy",
-    "year": 2024
+    "year": 2024,
+    "suitability": "suitable"
   },
   {
     "id": "her",
@@ -2403,9 +2642,10 @@
     "artist": "Shubh",
     "genre": "trending",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fher.m4a?alt=media",
-    "startTime": 0,
+    "startTime": 0.0,
     "difficulty": "super-easy",
-    "year": 2024
+    "year": 2024,
+    "suitability": "suitable"
   },
   {
     "id": "offshore",
@@ -2414,9 +2654,10 @@
     "artist": "Shubh",
     "genre": "trending",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Foffshore.m4a?alt=media",
-    "startTime": 0,
+    "startTime": 0.0,
     "difficulty": "super-easy",
-    "year": 2024
+    "year": 2024,
+    "suitability": "suitable"
   },
   {
     "id": "dior",
@@ -2425,9 +2666,10 @@
     "artist": "Shubh",
     "genre": "trending",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fdior.m4a?alt=media",
-    "startTime": 0,
+    "startTime": 0.0,
     "difficulty": "super-easy",
-    "year": 2024
+    "year": 2024,
+    "suitability": "suitable"
   },
   {
     "id": "you-and-me",
@@ -2436,9 +2678,10 @@
     "artist": "Shubh",
     "genre": "trending",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fyou-and-me.m4a?alt=media",
-    "startTime": 0,
+    "startTime": 0.0,
     "difficulty": "super-easy",
-    "year": 2024
+    "year": 2024,
+    "suitability": "suitable"
   },
   {
     "id": "bandana",
@@ -2447,9 +2690,10 @@
     "artist": "Shubh",
     "genre": "trending",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fbandana.m4a?alt=media",
-    "startTime": 0,
+    "startTime": 0.68,
     "difficulty": "super-easy",
-    "year": 2024
+    "year": 2024,
+    "suitability": "suitable"
   },
   {
     "id": "mvp",
@@ -2458,9 +2702,10 @@
     "artist": "Shubh",
     "genre": "trending",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fmvp.m4a?alt=media",
-    "startTime": 0,
+    "startTime": 0.0,
     "difficulty": "super-easy",
-    "year": 2024
+    "year": 2024,
+    "suitability": "suitable"
   },
   {
     "id": "safety-off",
@@ -2469,9 +2714,10 @@
     "artist": "Shubh",
     "genre": "trending",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fsafety-off.m4a?alt=media",
-    "startTime": 0,
+    "startTime": 0.0,
     "difficulty": "super-easy",
-    "year": 2024
+    "year": 2024,
+    "suitability": "suitable"
   },
   {
     "id": "antidote",
@@ -2480,9 +2726,10 @@
     "artist": "Karan Aujla, Jay Trak",
     "genre": "trending",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fantidote.m4a?alt=media",
-    "startTime": 0,
+    "startTime": 0.335,
     "difficulty": "super-easy",
-    "year": 2024
+    "year": 2024,
+    "suitability": "suitable"
   },
   {
     "id": "jee-ni-lagda",
@@ -2491,9 +2738,10 @@
     "artist": "Karan Aujla",
     "genre": "trending",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fjee-ni-lagda.m4a?alt=media",
-    "startTime": 0,
+    "startTime": 5.196,
     "difficulty": "super-easy",
-    "year": 2024
+    "year": 2024,
+    "suitability": "suitable"
   },
   {
     "id": "chitta-kurta",
@@ -2502,9 +2750,10 @@
     "artist": "Karan Aujla",
     "genre": "trending",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fchitta-kurta.m4a?alt=media",
-    "startTime": 0,
+    "startTime": 7.888,
     "difficulty": "super-easy",
-    "year": 2024
+    "year": 2024,
+    "suitability": "provisional_unsuitable"
   },
   {
     "id": "players",
@@ -2513,9 +2762,10 @@
     "artist": "Badshah, Karan Aujla",
     "genre": "trending",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fplayers.m4a?alt=media",
-    "startTime": 0,
+    "startTime": 0.0,
     "difficulty": "super-easy",
-    "year": 2024
+    "year": 2024,
+    "suitability": "suitable"
   },
   {
     "id": "god-damn",
@@ -2524,9 +2774,10 @@
     "artist": "Badshah, Karan Aujla",
     "genre": "trending",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fgod-damn.m4a?alt=media",
-    "startTime": 0,
+    "startTime": 0.0,
     "difficulty": "super-easy",
-    "year": 2024
+    "year": 2024,
+    "suitability": "suitable"
   },
   {
     "id": "soulmate",
@@ -2535,9 +2786,10 @@
     "artist": "Badshah, Arijit Singh",
     "genre": "trending",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fsoulmate.m4a?alt=media",
-    "startTime": 0,
+    "startTime": 1.826,
     "difficulty": "super-easy",
-    "year": 2024
+    "year": 2024,
+    "suitability": "suitable"
   },
   {
     "id": "payal",
@@ -2546,9 +2798,10 @@
     "artist": "Yo Yo Honey Singh, Paradox",
     "genre": "trending",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fpayal.m4a?alt=media",
-    "startTime": 0,
+    "startTime": 0.384,
     "difficulty": "super-easy",
-    "year": 2024
+    "year": 2024,
+    "suitability": "suitable"
   },
   {
     "id": "bonita",
@@ -2557,9 +2810,10 @@
     "artist": "Yo Yo Honey Singh",
     "genre": "trending",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fbonita.m4a?alt=media",
-    "startTime": 0,
+    "startTime": 0.357,
     "difficulty": "super-easy",
-    "year": 2024
+    "year": 2024,
+    "suitability": "suitable"
   },
   {
     "id": "jatt-mehkma",
@@ -2568,9 +2822,10 @@
     "artist": "Yo Yo Honey Singh",
     "genre": "trending",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fjatt-mehkma.m4a?alt=media",
-    "startTime": 0,
+    "startTime": 0.518,
     "difficulty": "super-easy",
-    "year": 2024
+    "year": 2024,
+    "suitability": "suitable"
   },
   {
     "id": "bhool-bhulaiyaa-3-title-track",
@@ -2579,9 +2834,10 @@
     "artist": "Pitbull, Diljit Dosanjh, Neeraj Shridhar",
     "genre": "trending",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fbhool-bhulaiyaa-3-title-track.m4a?alt=media",
-    "startTime": 0,
+    "startTime": 0.492,
     "difficulty": "super-easy",
-    "year": 2024
+    "year": 2024,
+    "suitability": "suitable"
   },
   {
     "id": "ami-je-tomar-3-0",
@@ -2590,9 +2846,10 @@
     "artist": "Shreya Ghoshal, Arijit Singh, Pritam",
     "genre": "trending",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fami-je-tomar-3-0.m4a?alt=media",
-    "startTime": 0,
+    "startTime": 0.577,
     "difficulty": "super-easy",
-    "year": 2024
+    "year": 2024,
+    "suitability": "suitable"
   },
   {
     "id": "jaana-samjho-na",
@@ -2601,9 +2858,10 @@
     "artist": "Aditya Rikhari, Tulsi Kumar, Lijo George-DJ Chetas",
     "genre": "trending",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fjaana-samjho-na.m4a?alt=media",
-    "startTime": 0,
+    "startTime": 0.0,
     "difficulty": "super-easy",
-    "year": 2024
+    "year": 2024,
+    "suitability": "suitable"
   },
   {
     "id": "samjho-na",
@@ -2612,9 +2870,10 @@
     "artist": "Aditya Rikhari",
     "genre": "trending",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fsamjho-na.m4a?alt=media",
-    "startTime": 0,
+    "startTime": 0.574,
     "difficulty": "super-easy",
-    "year": 2024
+    "year": 2024,
+    "suitability": "suitable"
   },
   {
     "id": "teri-baaton-mein-aisa-uljha-jiya",
@@ -2623,9 +2882,10 @@
     "artist": "Raghav, Tanishk Bagchi, Asees Kaur",
     "genre": "trending",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fteri-baaton-mein-aisa-uljha-jiya.m4a?alt=media",
-    "startTime": 0,
+    "startTime": 0.0,
     "difficulty": "super-easy",
-    "year": 2024
+    "year": 2024,
+    "suitability": "suitable"
   },
   {
     "id": "laal-peeli-akhiyaan",
@@ -2634,9 +2894,10 @@
     "artist": "Romy, Tanishk Bagchi",
     "genre": "trending",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Flaal-peeli-akhiyaan.m4a?alt=media",
-    "startTime": 0,
+    "startTime": 0.445,
     "difficulty": "super-easy",
-    "year": 2024
+    "year": 2024,
+    "suitability": "suitable"
   },
   {
     "id": "tum-se",
@@ -2645,9 +2906,10 @@
     "artist": "Sachin-Jigar, Raghav Chaitanya, Varun Jain",
     "genre": "trending",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Ftum-se.m4a?alt=media",
-    "startTime": 0,
+    "startTime": 0.635,
     "difficulty": "super-easy",
-    "year": 2024
+    "year": 2024,
+    "suitability": "suitable"
   },
   {
     "id": "ishq-mitaye",
@@ -2656,9 +2918,10 @@
     "artist": "Mohit Chauhan, A.R. Rahman",
     "genre": "trending",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fishq-mitaye.m4a?alt=media",
-    "startTime": 0,
+    "startTime": 6.943,
     "difficulty": "super-easy",
-    "year": 2024
+    "year": 2024,
+    "suitability": "suitable"
   },
   {
     "id": "naram-kaalja",
@@ -2667,9 +2930,10 @@
     "artist": "Alka Yagnik, Richa Sharma, Pooja Tiwari, A.R. Rahman",
     "genre": "trending",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fnaram-kaalja.m4a?alt=media",
-    "startTime": 0,
+    "startTime": 6.552,
     "difficulty": "super-easy",
-    "year": 2024
+    "year": 2024,
+    "suitability": "suitable"
   },
   {
     "id": "vida-karo",
@@ -2678,9 +2942,10 @@
     "artist": "Arijit Singh, Jonita Gandhi, A.R. Rahman",
     "genre": "trending",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fvida-karo.m4a?alt=media",
-    "startTime": 0,
+    "startTime": 0.417,
     "difficulty": "super-easy",
-    "year": 2024
+    "year": 2024,
+    "suitability": "suitable"
   },
   {
     "id": "tu-kya-jaane",
@@ -2689,9 +2954,10 @@
     "artist": "Yashika Sikka, A.R. Rahman",
     "genre": "trending",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Ftu-kya-jaane.m4a?alt=media",
-    "startTime": 0,
+    "startTime": 1.278,
     "difficulty": "super-easy",
-    "year": 2024
+    "year": 2024,
+    "suitability": "suitable"
   },
   {
     "id": "baaja",
@@ -2700,9 +2966,10 @@
     "artist": "Mohit Chauhan, Romy, A.R. Rahman",
     "genre": "trending",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fbaaja.m4a?alt=media",
-    "startTime": 0,
+    "startTime": 0.421,
     "difficulty": "super-easy",
-    "year": 2024
+    "year": 2024,
+    "suitability": "suitable"
   },
   {
     "id": "chaka-chak",
@@ -2711,9 +2978,10 @@
     "artist": "Shreya Ghoshal, A.R. Rahman",
     "genre": "trending",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fchaka-chak.m4a?alt=media",
-    "startTime": 0,
+    "startTime": 0.744,
     "difficulty": "super-easy",
-    "year": 2024
+    "year": 2024,
+    "suitability": "suitable"
   },
   {
     "id": "rait-zara-si",
@@ -2722,9 +2990,10 @@
     "artist": "Arijit Singh, Shashaa Tirupati, A.R. Rahman",
     "genre": "trending",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Frait-zara-si.m4a?alt=media",
-    "startTime": 0,
+    "startTime": 0.556,
     "difficulty": "super-easy",
-    "year": 2024
+    "year": 2024,
+    "suitability": "suitable"
   },
   {
     "id": "doobey",
@@ -2733,9 +3002,10 @@
     "artist": "Lothika, OAFF, Savera",
     "genre": "trending",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fdoobey.m4a?alt=media",
-    "startTime": 0,
+    "startTime": 4.18,
     "difficulty": "super-easy",
-    "year": 2024
+    "year": 2024,
+    "suitability": "suitable"
   },
   {
     "id": "gehraiyaan-title-track",
@@ -2744,9 +3014,10 @@
     "artist": "Lothika, OAFF, Savera",
     "genre": "trending",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fgehraiyaan-title-track.m4a?alt=media",
-    "startTime": 0,
+    "startTime": 0.704,
     "difficulty": "super-easy",
-    "year": 2024
+    "year": 2024,
+    "suitability": "suitable"
   },
   {
     "id": "ghodey-pe-sawaar",
@@ -2755,9 +3026,10 @@
     "artist": "Sireesha Bhagavatula, Amit Trivedi",
     "genre": "trending",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fghodey-pe-sawaar.m4a?alt=media",
-    "startTime": 0,
+    "startTime": 0.0,
     "difficulty": "super-easy",
-    "year": 2024
+    "year": 2024,
+    "suitability": "suitable"
   },
   {
     "id": "phero-na-najariya",
@@ -2766,9 +3038,10 @@
     "artist": "Sireesha Bhagavatula, Amit Trivedi",
     "genre": "trending",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fphero-na-najariya.m4a?alt=media",
-    "startTime": 0,
+    "startTime": 0.527,
     "difficulty": "super-easy",
-    "year": 2024
+    "year": 2024,
+    "suitability": "suitable"
   },
   {
     "id": "shauq",
@@ -2777,9 +3050,10 @@
     "artist": "Shahid Mallya, Sireesha Bhagavatula, Swanand Kirkire, Amit Trivedi",
     "genre": "trending",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fshauq.m4a?alt=media",
-    "startTime": 0,
+    "startTime": 0.935,
     "difficulty": "super-easy",
-    "year": 2024
+    "year": 2024,
+    "suitability": "suitable"
   },
   {
     "id": "jehda-nasha",
@@ -2788,9 +3062,10 @@
     "artist": "Amar Jalal, IP Singh, Yohani, Harjot Kaur",
     "genre": "trending",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fjehda-nasha.m4a?alt=media",
-    "startTime": 0,
+    "startTime": 3.32,
     "difficulty": "super-easy",
-    "year": 2024
+    "year": 2024,
+    "suitability": "suitable"
   },
   {
     "id": "rasiya",
@@ -2799,9 +3074,10 @@
     "artist": "Shreya Ghoshal, Tushar Joshi, Pritam",
     "genre": "trending",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Frasiya.m4a?alt=media",
-    "startTime": 0,
+    "startTime": 1.384,
     "difficulty": "super-easy",
-    "year": 2024
+    "year": 2024,
+    "suitability": "suitable"
   },
   {
     "id": "kudmayi",
@@ -2810,9 +3086,10 @@
     "artist": "Sachet Tandon, Shahid Mallya, Pritam",
     "genre": "trending",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fkudmayi.m4a?alt=media",
-    "startTime": 0,
+    "startTime": 0.723,
     "difficulty": "super-easy",
-    "year": 2024
+    "year": 2024,
+    "suitability": "suitable"
   },
   {
     "id": "dhindhora-baje-re",
@@ -2821,9 +3098,10 @@
     "artist": "Darshan Raval, Bhoomi Trivedi, Pritam",
     "genre": "trending",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fdhindhora-baje-re.m4a?alt=media",
-    "startTime": 0,
+    "startTime": 0.0,
     "difficulty": "super-easy",
-    "year": 2024
+    "year": 2024,
+    "suitability": "suitable"
   },
   {
     "id": "pyaar-hota-kayi-baar-hai",
@@ -2832,9 +3110,10 @@
     "artist": "Arijit Singh, Pritam",
     "genre": "trending",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fpyaar-hota-kayi-baar-hai.m4a?alt=media",
-    "startTime": 0,
+    "startTime": 0.0,
     "difficulty": "super-easy",
-    "year": 2024
+    "year": 2024,
+    "suitability": "suitable"
   },
   {
     "id": "nikle-the-kabhi-hum-ghar-se",
@@ -2843,9 +3122,10 @@
     "artist": "Sonu Nigam, Pritam",
     "genre": "trending",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fnikle-the-kabhi-hum-ghar-se.m4a?alt=media",
-    "startTime": 0,
+    "startTime": 1.109,
     "difficulty": "super-easy",
-    "year": 2024
+    "year": 2024,
+    "suitability": "suitable"
   },
   {
     "id": "papa-meri-jaan",
@@ -2854,9 +3134,10 @@
     "artist": "Sonu Nigam, Harshavardhan Rameshwar",
     "genre": "trending",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fpapa-meri-jaan.m4a?alt=media",
-    "startTime": 0,
+    "startTime": 0.754,
     "difficulty": "super-easy",
-    "year": 2024
+    "year": 2024,
+    "suitability": "suitable"
   },
   {
     "id": "main-nikla-gaddi-leke-reprise",
@@ -2865,9 +3146,10 @@
     "artist": "Udit Narayan, Aditya Narayan, Mithoon",
     "genre": "trending",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fmain-nikla-gaddi-leke-reprise.m4a?alt=media",
-    "startTime": 0,
+    "startTime": 0.0,
     "difficulty": "super-easy",
-    "year": 2024
+    "year": 2024,
+    "suitability": "suitable"
   },
   {
     "id": "udd-jaa-kaale-kaava-reprise",
@@ -2876,9 +3158,10 @@
     "artist": "Udit Narayan, Alka Yagnik, Mithoon",
     "genre": "trending",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fudd-jaa-kaale-kaava-reprise.m4a?alt=media",
-    "startTime": 0,
+    "startTime": 1.286,
     "difficulty": "super-easy",
-    "year": 2024
+    "year": 2024,
+    "suitability": "suitable"
   },
   {
     "id": "zihaal-e-miskin",
@@ -2887,9 +3170,10 @@
     "artist": "Vishal Mishra, Shreya Ghoshal",
     "genre": "trending",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fzihaal-e-miskin.m4a?alt=media",
-    "startTime": 0,
+    "startTime": 0.0,
     "difficulty": "super-easy",
-    "year": 2024
+    "year": 2024,
+    "suitability": "suitable"
   },
   {
     "id": "naseeb-se",
@@ -2898,9 +3182,10 @@
     "artist": "Vishal Mishra, Payal Dev",
     "genre": "trending",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fnaseeb-se.m4a?alt=media",
-    "startTime": 0,
+    "startTime": 0.672,
     "difficulty": "super-easy",
-    "year": 2024
+    "year": 2024,
+    "suitability": "suitable"
   },
   {
     "id": "jaanam",
@@ -2909,9 +3194,10 @@
     "artist": "Vishal Mishra",
     "genre": "trending",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fjaanam.m4a?alt=media",
-    "startTime": 0,
+    "startTime": 0.613,
     "difficulty": "super-easy",
-    "year": 2024
+    "year": 2024,
+    "suitability": "suitable"
   },
   {
     "id": "khoobsurat",
@@ -2920,9 +3206,10 @@
     "artist": "Vishal Mishra, Sachin-Jigar",
     "genre": "trending",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fkhoobsurat.m4a?alt=media",
-    "startTime": 0,
+    "startTime": 0.498,
     "difficulty": "super-easy",
-    "year": 2024
+    "year": 2024,
+    "suitability": "suitable"
   },
   {
     "id": "tumhare-hi-rahenge-hum",
@@ -2931,9 +3218,10 @@
     "artist": "Varun Jain, Shilpa Rao, Sachin-Jigar",
     "genre": "trending",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Ftumhare-hi-rahenge-hum.m4a?alt=media",
-    "startTime": 0,
+    "startTime": 0.0,
     "difficulty": "super-easy",
-    "year": 2024
+    "year": 2024,
+    "suitability": "suitable"
   },
   {
     "id": "tilasmi-bahein",
@@ -2942,9 +3230,10 @@
     "artist": "Sharmistha Chatterjee, Sanjay Leela Bhansali",
     "genre": "trending",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Ftilasmi-bahein.m4a?alt=media",
-    "startTime": 0,
+    "startTime": 3.982,
     "difficulty": "super-easy",
-    "year": 2024
+    "year": 2024,
+    "suitability": "suitable"
   },
   {
     "id": "sakal-ban",
@@ -2953,9 +3242,10 @@
     "artist": "Raja Hasan, Sanjay Leela Bhansali",
     "genre": "trending",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fsakal-ban.m4a?alt=media",
-    "startTime": 0,
+    "startTime": 0.558,
     "difficulty": "super-easy",
-    "year": 2024
+    "year": 2024,
+    "suitability": "suitable"
   },
   {
     "id": "chaudhavi-shab",
@@ -2964,9 +3254,10 @@
     "artist": "Sanjay Leela Bhansali",
     "genre": "trending",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fchaudhavi-shab.m4a?alt=media",
-    "startTime": 0,
+    "startTime": 1.054,
     "difficulty": "super-easy",
-    "year": 2024
+    "year": 2024,
+    "suitability": "suitable"
   },
   {
     "id": "choli-ke-peeche",
@@ -2975,9 +3266,10 @@
     "artist": "Diljit Dosanjh, Ila Arun, Alka Yagnik",
     "genre": "trending",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fcholi-ke-peeche.m4a?alt=media",
-    "startTime": 0,
+    "startTime": 0.0,
     "difficulty": "super-easy",
-    "year": 2024
+    "year": 2024,
+    "suitability": "suitable"
   },
   {
     "id": "ghagra",
@@ -2986,9 +3278,10 @@
     "artist": "Ila Arun, Romy, Srushti Tawade",
     "genre": "trending",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fghagra.m4a?alt=media",
-    "startTime": 0,
+    "startTime": 0.0,
     "difficulty": "super-easy",
-    "year": 2024
+    "year": 2024,
+    "suitability": "suitable"
   },
   {
     "id": "do-u-know-khel-khel-mein",
@@ -2997,9 +3290,10 @@
     "artist": "Diljit Dosanjh, Tanishk Bagchi",
     "genre": "trending",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fdo-u-know-khel-khel-mein.m4a?alt=media",
-    "startTime": 0,
+    "startTime": 0.679,
     "difficulty": "super-easy",
-    "year": 2024
+    "year": 2024,
+    "suitability": "suitable"
   },
   {
     "id": "hauli-hauli",
@@ -3008,9 +3302,10 @@
     "artist": "Guru Randhawa, Yo Yo Honey Singh, Neha Kakkar",
     "genre": "trending",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fhauli-hauli.m4a?alt=media",
-    "startTime": 0,
+    "startTime": 1.46,
     "difficulty": "super-easy",
-    "year": 2024
+    "year": 2024,
+    "suitability": "suitable"
   },
   {
     "id": "chal-kudiye",
@@ -3019,9 +3314,10 @@
     "artist": "Diljit Dosanjh, Alia Bhatt, Manpreet Singh",
     "genre": "trending",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fchal-kudiye.m4a?alt=media",
-    "startTime": 0,
+    "startTime": 1.899,
     "difficulty": "super-easy",
-    "year": 2024
+    "year": 2024,
+    "suitability": "suitable"
   },
   {
     "id": "tenu-sang-rakhna",
@@ -3030,9 +3326,10 @@
     "artist": "Arijit Singh, Anumita Nadesan, Achint",
     "genre": "trending",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Ftenu-sang-rakhna.m4a?alt=media",
-    "startTime": 0,
+    "startTime": 0.578,
     "difficulty": "super-easy",
-    "year": 2024
+    "year": 2024,
+    "suitability": "suitable"
   },
   {
     "id": "akhiyaan-de-kol",
@@ -3041,9 +3338,10 @@
     "artist": "Shilpa Rao, Mellow D, Tanishk Bagchi",
     "genre": "trending",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fakhiyaan-de-kol.m4a?alt=media",
-    "startTime": 0,
+    "startTime": 0.0,
     "difficulty": "super-easy",
-    "year": 2024
+    "year": 2024,
+    "suitability": "suitable"
   },
   {
     "id": "raanjhan",
@@ -3052,9 +3350,10 @@
     "artist": "Parampara Tandon, Sachet-Parampara",
     "genre": "trending",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fraanjhan.m4a?alt=media",
-    "startTime": 0,
+    "startTime": 0.375,
     "difficulty": "super-easy",
-    "year": 2024
+    "year": 2024,
+    "suitability": "suitable"
   },
   {
     "id": "angaaron-the-couple-song",
@@ -3063,9 +3362,10 @@
     "artist": "Shreya Ghoshal, Devi Sri Prasad",
     "genre": "trending",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fangaaron-the-couple-song.m4a?alt=media",
-    "startTime": 0,
+    "startTime": 1.175,
     "difficulty": "super-easy",
-    "year": 2024
+    "year": 2024,
+    "suitability": "suitable"
   },
   {
     "id": "pushpa-pushpa",
@@ -3074,9 +3374,10 @@
     "artist": "Mika Singh, Devi Sri Prasad",
     "genre": "trending",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fpushpa-pushpa.m4a?alt=media",
-    "startTime": 0,
+    "startTime": 3.331,
     "difficulty": "super-easy",
-    "year": 2024
+    "year": 2024,
+    "suitability": "suitable"
   },
   {
     "id": "kissik",
@@ -3085,9 +3386,10 @@
     "artist": "Sublahshini, Devi Sri Prasad",
     "genre": "trending",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fkissik.m4a?alt=media",
-    "startTime": 0,
+    "startTime": 0.381,
     "difficulty": "super-easy",
-    "year": 2024
+    "year": 2024,
+    "suitability": "suitable"
   },
   {
     "id": "srivalli-hindi",
@@ -3096,9 +3398,10 @@
     "artist": "Javed Ali, Devi Sri Prasad",
     "genre": "trending",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fsrivalli-hindi.m4a?alt=media",
-    "startTime": 0,
+    "startTime": 0.0,
     "difficulty": "super-easy",
-    "year": 2024
+    "year": 2024,
+    "suitability": "suitable"
   },
   {
     "id": "saami-saami-hindi",
@@ -3107,9 +3410,10 @@
     "artist": "Sunidhi Chauhan, Devi Sri Prasad",
     "genre": "trending",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fsaami-saami-hindi.m4a?alt=media",
-    "startTime": 0,
+    "startTime": 5.323,
     "difficulty": "super-easy",
-    "year": 2024
+    "year": 2024,
+    "suitability": "suitable"
   },
   {
     "id": "nadiyon-paar-let-the-music-play",
@@ -3118,9 +3422,10 @@
     "artist": "Sachin-Jigar, Rashmeet Kaur, Shamur",
     "genre": "trending",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fnadiyon-paar-let-the-music-play.m4a?alt=media",
-    "startTime": 0,
+    "startTime": 5.219,
     "difficulty": "super-easy",
-    "year": 2024
+    "year": 2024,
+    "suitability": "suitable"
   },
   {
     "id": "kusu-kusu",
@@ -3129,9 +3434,10 @@
     "artist": "Zahrah S Khan, Dev Negi, Tanishk Bagchi",
     "genre": "trending",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fkusu-kusu.m4a?alt=media",
-    "startTime": 0,
+    "startTime": 0.849,
     "difficulty": "super-easy",
-    "year": 2024
+    "year": 2024,
+    "suitability": "suitable"
   },
   {
     "id": "tip-tip-sooryavanshi",
@@ -3140,9 +3446,10 @@
     "artist": "Udit Narayan, Alka Yagnik, Tanishk Bagchi",
     "genre": "trending",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Ftip-tip-sooryavanshi.m4a?alt=media",
-    "startTime": 0,
+    "startTime": 0.618,
     "difficulty": "super-easy",
-    "year": 2024
+    "year": 2024,
+    "suitability": "suitable"
   },
   {
     "id": "najaa-sooryavanshi",
@@ -3151,9 +3458,10 @@
     "artist": "Pav Dharia, Nikhita Gandhi, Tanishk Bagchi",
     "genre": "trending",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fnajaa-sooryavanshi.m4a?alt=media",
-    "startTime": 0,
+    "startTime": 0.725,
     "difficulty": "super-easy",
-    "year": 2024
+    "year": 2024,
+    "suitability": "suitable"
   },
   {
     "id": "garmi",
@@ -3162,9 +3470,10 @@
     "artist": "Badshah, Neha Kakkar",
     "genre": "trending",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fgarmi.m4a?alt=media",
-    "startTime": 0,
+    "startTime": 0.74,
     "difficulty": "super-easy",
-    "year": 2024
+    "year": 2024,
+    "suitability": "suitable"
   },
   {
     "id": "illegal-weapon-2-0",
@@ -3173,9 +3482,10 @@
     "artist": "Jasmine Sandlas, Garry Sandhu",
     "genre": "trending",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fillegal-weapon-2-0.m4a?alt=media",
-    "startTime": 0,
+    "startTime": 0.0,
     "difficulty": "super-easy",
-    "year": 2024
+    "year": 2024,
+    "suitability": "suitable"
   },
   {
     "id": "muqabla-street-dancer-3d",
@@ -3184,9 +3494,10 @@
     "artist": "Yash Narvekar, Parampara Thakur, Tanishk Bagchi",
     "genre": "trending",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fmuqabla-street-dancer-3d.m4a?alt=media",
-    "startTime": 0,
+    "startTime": 0.356,
     "difficulty": "super-easy",
-    "year": 2024
+    "year": 2024,
+    "suitability": "suitable"
   },
   {
     "id": "burjkhalifa",
@@ -3195,9 +3506,10 @@
     "artist": "Shashi-DJ Khushi, Nikhita Gandhi, Madhubanti Bagchi",
     "genre": "trending",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fburjkhalifa.m4a?alt=media",
-    "startTime": 0,
+    "startTime": 0.0,
     "difficulty": "super-easy",
-    "year": 2024
+    "year": 2024,
+    "suitability": "suitable"
   },
   {
     "id": "care-ni-karda",
@@ -3206,9 +3518,10 @@
     "artist": "Sweetaj Brar, Yo Yo Honey Singh",
     "genre": "trending",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fcare-ni-karda.m4a?alt=media",
-    "startTime": 0,
+    "startTime": 0.0,
     "difficulty": "super-easy",
-    "year": 2024
+    "year": 2024,
+    "suitability": "suitable"
   },
   {
     "id": "taaron-ke-shehar",
@@ -3217,9 +3530,10 @@
     "artist": "Neha Kakkar, Jubin Nautiyal",
     "genre": "trending",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Ftaaron-ke-shehar.m4a?alt=media",
-    "startTime": 0,
+    "startTime": 0.601,
     "difficulty": "super-easy",
-    "year": 2024
+    "year": 2024,
+    "suitability": "suitable"
   },
   {
     "id": "baarish-ki-jaaye",
@@ -3228,9 +3542,10 @@
     "artist": "B Praak, Jaani",
     "genre": "trending",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fbaarish-ki-jaaye.m4a?alt=media",
-    "startTime": 0,
+    "startTime": 0.645,
     "difficulty": "super-easy",
-    "year": 2024
+    "year": 2024,
+    "suitability": "suitable"
   },
   {
     "id": "filhaal-2-mohabbat",
@@ -3239,9 +3554,10 @@
     "artist": "B Praak, Jaani",
     "genre": "trending",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Ffilhaal-2-mohabbat.m4a?alt=media",
-    "startTime": 0,
+    "startTime": 2.216,
     "difficulty": "super-easy",
-    "year": 2024
+    "year": 2024,
+    "suitability": "suitable"
   },
   {
     "id": "kya-loge-tum",
@@ -3250,9 +3566,10 @@
     "artist": "B Praak, Jaani",
     "genre": "trending",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fkya-loge-tum.m4a?alt=media",
-    "startTime": 0,
+    "startTime": 3.22,
     "difficulty": "super-easy",
-    "year": 2024
+    "year": 2024,
+    "suitability": "suitable"
   },
   {
     "id": "afsos",
@@ -3261,9 +3578,10 @@
     "artist": "B Praak, Jaani",
     "genre": "trending",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fafsos.m4a?alt=media",
-    "startTime": 0,
+    "startTime": 0.831,
     "difficulty": "super-easy",
-    "year": 2024
+    "year": 2024,
+    "suitability": "suitable"
   },
   {
     "id": "besharam-bewaffa",
@@ -3272,9 +3590,10 @@
     "artist": "B Praak, Jaani",
     "genre": "trending",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fbesharam-bewaffa.m4a?alt=media",
-    "startTime": 0,
+    "startTime": 0.6,
     "difficulty": "super-easy",
-    "year": 2024
+    "year": 2024,
+    "suitability": "suitable"
   },
   {
     "id": "dil-chahte-ho",
@@ -3283,9 +3602,10 @@
     "artist": "Jubin Nautiyal, Payal Dev",
     "genre": "trending",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fdil-chahte-ho.m4a?alt=media",
-    "startTime": 0,
+    "startTime": 0.702,
     "difficulty": "super-easy",
-    "year": 2024
+    "year": 2024,
+    "suitability": "suitable"
   },
   {
     "id": "chhor-denge",
@@ -3294,9 +3614,10 @@
     "artist": "Parampara Tandon, Sachet-Parampara",
     "genre": "trending",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fchhor-denge.m4a?alt=media",
-    "startTime": 0,
+    "startTime": 10.602,
     "difficulty": "super-easy",
-    "year": 2024
+    "year": 2024,
+    "suitability": "provisional_unsuitable"
   },
   {
     "id": "soni-soni",
@@ -3305,9 +3626,10 @@
     "artist": "Darshan Raval, Jonita Gandhi, Rochak Kohli",
     "genre": "trending",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fsoni-soni.m4a?alt=media",
-    "startTime": 0,
+    "startTime": 0.0,
     "difficulty": "super-easy",
-    "year": 2024
+    "year": 2024,
+    "suitability": "suitable"
   },
   {
     "id": "ishq-lost-found",
@@ -3316,9 +3638,10 @@
     "artist": "Faheem Abdullah, Rauhan Malik",
     "genre": "trending",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fishq-lost-found.m4a?alt=media",
-    "startTime": 0,
+    "startTime": 0.685,
     "difficulty": "super-easy",
-    "year": 2024
+    "year": 2024,
+    "suitability": "suitable"
   },
   {
     "id": "chand-baaliyan",
@@ -3327,9 +3650,10 @@
     "artist": "Aditya A",
     "genre": "trending",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fchand-baaliyan.m4a?alt=media",
-    "startTime": 0,
+    "startTime": 0.441,
     "difficulty": "super-easy",
-    "year": 2024
+    "year": 2024,
+    "suitability": "suitable"
   },
   {
     "id": "alag-aasmaan",
@@ -3338,9 +3662,10 @@
     "artist": "Anuv Jain",
     "genre": "trending",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Falag-aasmaan.m4a?alt=media",
-    "startTime": 0,
+    "startTime": 0.907,
     "difficulty": "super-easy",
-    "year": 2024
+    "year": 2024,
+    "suitability": "suitable"
   },
   {
     "id": "baarishein",
@@ -3349,9 +3674,10 @@
     "artist": "Anuv Jain",
     "genre": "trending",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fbaarishein.m4a?alt=media",
-    "startTime": 0,
+    "startTime": 0.598,
     "difficulty": "super-easy",
-    "year": 2024
+    "year": 2024,
+    "suitability": "suitable"
   },
   {
     "id": "gul",
@@ -3360,9 +3686,10 @@
     "artist": "Anuv Jain",
     "genre": "trending",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fgul.m4a?alt=media",
-    "startTime": 0,
+    "startTime": 0.917,
     "difficulty": "super-easy",
-    "year": 2024
+    "year": 2024,
+    "suitability": "suitable"
   },
   {
     "id": "mishri",
@@ -3371,9 +3698,10 @@
     "artist": "Anuv Jain",
     "genre": "trending",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fmishri.m4a?alt=media",
-    "startTime": 0,
+    "startTime": 0.389,
     "difficulty": "super-easy",
-    "year": 2024
+    "year": 2024,
+    "suitability": "suitable"
   },
   {
     "id": "tu-te-sharab",
@@ -3382,9 +3710,10 @@
     "artist": "Jordan Sandhu",
     "genre": "trending",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Ftu-te-sharab.m4a?alt=media",
-    "startTime": 0,
+    "startTime": 0.834,
     "difficulty": "super-easy",
-    "year": 2024
+    "year": 2024,
+    "suitability": "suitable"
   },
   {
     "id": "kinna-chir",
@@ -3393,9 +3722,10 @@
     "artist": "The PropheC",
     "genre": "trending",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fkinna-chir.m4a?alt=media",
-    "startTime": 0,
+    "startTime": 0.0,
     "difficulty": "super-easy",
-    "year": 2024
+    "year": 2024,
+    "suitability": "suitable"
   },
   {
     "id": "akhiyaan",
@@ -3404,9 +3734,10 @@
     "artist": "Mitraz",
     "genre": "trending",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fakhiyaan.m4a?alt=media",
-    "startTime": 0,
+    "startTime": 0.0,
     "difficulty": "super-easy",
-    "year": 2024
+    "year": 2024,
+    "suitability": "suitable"
   },
   {
     "id": "junoon",
@@ -3415,9 +3746,10 @@
     "artist": "Mitraz",
     "genre": "trending",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fjunoon.m4a?alt=media",
-    "startTime": 0,
+    "startTime": 0.0,
     "difficulty": "super-easy",
-    "year": 2024
+    "year": 2024,
+    "suitability": "suitable"
   },
   {
     "id": "gulaab",
@@ -3426,9 +3758,10 @@
     "artist": "Mitraz",
     "genre": "trending",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fgulaab.m4a?alt=media",
-    "startTime": 0,
+    "startTime": 0.575,
     "difficulty": "super-easy",
-    "year": 2024
+    "year": 2024,
+    "suitability": "suitable"
   },
   {
     "id": "faasle",
@@ -3437,9 +3770,10 @@
     "artist": "Aditya Rikhari",
     "genre": "trending",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Ffaasle.m4a?alt=media",
-    "startTime": 0,
+    "startTime": 0.509,
     "difficulty": "super-easy",
-    "year": 2024
+    "year": 2024,
+    "suitability": "suitable"
   },
   {
     "id": "jadugar",
@@ -3448,9 +3782,10 @@
     "artist": "Paradox",
     "genre": "trending",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fjadugar.m4a?alt=media",
-    "startTime": 0,
+    "startTime": 7.816,
     "difficulty": "super-easy",
-    "year": 2024
+    "year": 2024,
+    "suitability": "provisional_unsuitable"
   },
   {
     "id": "babam-bam",
@@ -3459,9 +3794,10 @@
     "artist": "Paradox",
     "genre": "trending",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fbabam-bam.m4a?alt=media",
-    "startTime": 0,
+    "startTime": 0.0,
     "difficulty": "super-easy",
-    "year": 2024
+    "year": 2024,
+    "suitability": "suitable"
   },
   {
     "id": "bt-ho-gayi",
@@ -3470,9 +3806,10 @@
     "artist": "Paradox",
     "genre": "trending",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fbt-ho-gayi.m4a?alt=media",
-    "startTime": 0,
+    "startTime": 0.0,
     "difficulty": "super-easy",
-    "year": 2024
+    "year": 2024,
+    "suitability": "suitable"
   },
   {
     "id": "main-nahi-toh-kaun",
@@ -3481,9 +3818,10 @@
     "artist": "Srushti Tawade",
     "genre": "trending",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fmain-nahi-toh-kaun.m4a?alt=media",
-    "startTime": 0,
+    "startTime": 10.795,
     "difficulty": "super-easy",
-    "year": 2024
+    "year": 2024,
+    "suitability": "provisional_unsuitable"
   },
   {
     "id": "ram-ram",
@@ -3492,9 +3830,10 @@
     "artist": "MC Square",
     "genre": "trending",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fram-ram.m4a?alt=media",
-    "startTime": 0,
+    "startTime": 0.0,
     "difficulty": "super-easy",
-    "year": 2024
+    "year": 2024,
+    "suitability": "suitable"
   },
   {
     "id": "nadaan",
@@ -3503,9 +3842,10 @@
     "artist": "MC Square",
     "genre": "trending",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fnadaan.m4a?alt=media",
-    "startTime": 0,
+    "startTime": 0.0,
     "difficulty": "super-easy",
-    "year": 2024
+    "year": 2024,
+    "suitability": "suitable"
   },
   {
     "id": "khatta-flow",
@@ -3514,9 +3854,10 @@
     "artist": "Seedhe Maut, KR$NA",
     "genre": "trending",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fkhatta-flow.m4a?alt=media",
-    "startTime": 0,
+    "startTime": 0.0,
     "difficulty": "super-easy",
-    "year": 2024
+    "year": 2024,
+    "suitability": "suitable"
   },
   {
     "id": "hola-amigo",
@@ -3525,9 +3866,10 @@
     "artist": "KR$NA, Seedhe Maut",
     "genre": "trending",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fhola-amigo.m4a?alt=media",
-    "startTime": 0,
+    "startTime": 4.369,
     "difficulty": "super-easy",
-    "year": 2024
+    "year": 2024,
+    "suitability": "suitable"
   },
   {
     "id": "old-money",
@@ -3536,9 +3878,10 @@
     "artist": "AP Dhillon",
     "genre": "trending",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fold-money.m4a?alt=media",
-    "startTime": 0,
+    "startTime": 0.0,
     "difficulty": "super-easy",
-    "year": 2024
+    "year": 2024,
+    "suitability": "suitable"
   },
   {
     "id": "bora-bora",
@@ -3547,9 +3890,10 @@
     "artist": "AP Dhillon, Ayra Starr",
     "genre": "trending",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fbora-bora.m4a?alt=media",
-    "startTime": 0,
+    "startTime": 0.0,
     "difficulty": "super-easy",
-    "year": 2024
+    "year": 2024,
+    "suitability": "suitable"
   },
   {
     "id": "chhaila",
@@ -3558,8 +3902,9 @@
     "artist": "Sunidhi Chauhan, Shreya Ghoshal, Salim-Sulaiman",
     "genre": "trending",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fchhaila.m4a?alt=media",
-    "startTime": 0,
+    "startTime": 0.0,
     "difficulty": "super-easy",
-    "year": 2024
+    "year": 2024,
+    "suitability": "suitable"
   }
 ]

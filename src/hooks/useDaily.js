@@ -12,10 +12,17 @@ const sessionPlayedIds = {
 // Memory cache of current song per mode
 const modeSongCache = {};
 
+function isSuitable(song) {
+  const s = song.suitability;
+  // Absent suitability defaults to suitable (domain model invariant 8).
+  if (!s) return true;
+  return s !== "unsuitable" && s !== "provisional_unsuitable";
+}
+
 function getFallbackSong(mode, exclude = []) {
-  let pool = songsData;
+  let pool = songsData.filter(isSuitable);
   if (mode === "trending") {
-    pool = songsData.filter((s) => s.year >= 2024);
+    pool = pool.filter((s) => s.year >= 2024);
   }
   
   // Adaptive Matchmaking for non-daily modes
