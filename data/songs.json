@@ -8,7 +8,12 @@
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Ftum-hi-ho.m4a?alt=media",
     "startTime": 0.0,
     "difficulty": "easy",
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=Umqb9KENgmk",
+      "apple": "https://music.apple.com/us/album/tum-hi-ho/1073359412?i=1073359419&uo=4",
+      "spotify": null
+    }
   },
   {
     "id": "kal-ho-naa-ho",
@@ -19,7 +24,12 @@
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fkal-ho-naa-ho.m4a?alt=media",
     "startTime": 0.0,
     "difficulty": "hard",
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=g0eO74UmRBs",
+      "apple": "https://music.apple.com/us/album/kal-ho-naa-ho/300388644?i=300388792&uo=4",
+      "spotify": null
+    }
   },
   {
     "id": "kabira",
@@ -30,7 +40,12 @@
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fkabira.m4a?alt=media",
     "startTime": 0.0,
     "difficulty": "easy",
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=jHNNMj5bNQw",
+      "apple": "https://music.apple.com/us/album/kabira/1070912669?i=1070912818&uo=4",
+      "spotify": null
+    }
   },
   {
     "id": "gerua",
@@ -41,7 +56,12 @@
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fgerua.m4a?alt=media",
     "startTime": 0.0,
     "difficulty": "easy",
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=AEIVhBS6baE",
+      "apple": "https://music.apple.com/us/album/gerua/1057567669?i=1057567670&uo=4",
+      "spotify": null
+    }
   },
   {
     "id": "channa-mereya",
@@ -52,7 +72,12 @@
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fchanna-mereya.m4a?alt=media",
     "startTime": 0.0,
     "difficulty": "easy",
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=bzSTpdcs-EI",
+      "apple": "https://music.apple.com/us/album/channa-mereya/1169015635?i=1169015785&uo=4",
+      "spotify": null
+    }
   },
   {
     "id": "kar-har-maidaan-fateh",
@@ -63,7 +88,12 @@
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fkar-har-maidaan-fateh.m4a?alt=media",
     "startTime": 0.0,
     "difficulty": "easy",
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=RCgbE6eS-DU",
+      "apple": "https://music.apple.com/us/album/kar-har-maidaan-fateh/1405546157?i=1405546221&uo=4",
+      "spotify": null
+    }
   },
   {
     "id": "mere-naam-tu",
@@ -74,7 +104,12 @@
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fmere-naam-tu.m4a?alt=media",
     "startTime": 0.0,
     "difficulty": "easy",
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=iwvkJFPCXzk",
+      "apple": "https://music.apple.com/us/album/mere-naam-tu/1447648536?i=1447648537&uo=4",
+      "spotify": null
+    }
   },
   {
     "id": "ghungroo",
@@ -85,7 +120,12 @@
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fghungroo.m4a?alt=media",
     "startTime": 0.0,
     "difficulty": "easy",
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=qFkNATtc3mc",
+      "apple": "https://music.apple.com/us/album/ghungroo-from-war/1478998925?i=1478998926&uo=4",
+      "spotify": null
+    }
   },
   {
     "id": "ilahi",
@@ -96,7 +136,12 @@
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Filahi.m4a?alt=media",
     "startTime": 0.0,
     "difficulty": "easy",
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=6uHPT_zXdx4",
+      "apple": "https://music.apple.com/us/album/ilahi/1070912669?i=1070912815&uo=4",
+      "spotify": null
+    }
   },
   {
     "id": "dilbar",
@@ -107,7 +152,12 @@
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fdilbar.m4a?alt=media",
     "startTime": 0.0,
     "difficulty": "easy",
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=JFcgOboQZ08",
+      "apple": "https://music.apple.com/us/album/dilbar-from-satyameva-jayate/1407156321?i=1407156328&uo=4",
+      "spotify": null
+    }
   },
   {
     "id": "malhari",
@@ -118,7 +168,12 @@
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fmalhari.m4a?alt=media",
     "startTime": 0.0,
     "difficulty": "easy",
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=l_MyUGq7pgs",
+      "apple": "https://music.apple.com/us/album/malhari/1842065692?i=1842065696&uo=4",
+      "spotify": null
+    }
   },
   {
     "id": "jai-ho",
@@ -128,7 +183,12 @@
     "genre": "new-age",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fjai-ho.m4a?alt=media",
     "startTime": 0.0,
-    "suitability": "review"
+    "suitability": "review",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=xwwAVRyNmgQ",
+      "apple": "https://music.apple.com/us/album/jai-ho-you-are-my-destiny-feat-nicole-scherzinger/1445277968?i=1445277970&uo=4",
+      "spotify": null
+    }
   },
   {
     "id": "kun-faya-kun",
@@ -138,7 +198,12 @@
     "genre": "new-age",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fkun-faya-kun.m4a?alt=media",
     "startTime": 0.0,
-    "suitability": "review"
+    "suitability": "review",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=T94PHkuydcw",
+      "apple": "https://music.apple.com/us/album/kun-faya-kun/1123241840?i=1123241921&uo=4",
+      "spotify": null
+    }
   },
   {
     "id": "tum-se-hi",
@@ -148,7 +213,12 @@
     "genre": "new-age",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Ftum-se-hi.m4a?alt=media",
     "startTime": 0.0,
-    "suitability": "review"
+    "suitability": "review",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=Cb6wuzOurPc",
+      "apple": "https://music.apple.com/us/album/tum-se-hi/1134725343?i=1134725347&uo=4",
+      "spotify": null
+    }
   },
   {
     "id": "mitwa",
@@ -158,7 +228,12 @@
     "genre": "new-age",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fmitwa.m4a?alt=media",
     "startTime": 0.0,
-    "suitability": "review"
+    "suitability": "review",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=ru_5PA8cwkE",
+      "apple": "https://music.apple.com/us/album/mitwa/305752278?i=305752291&uo=4",
+      "spotify": null
+    }
   },
   {
     "id": "senorita",
@@ -168,7 +243,12 @@
     "genre": "new-age",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fsenorita.m4a?alt=media",
     "startTime": 0.0,
-    "suitability": "review"
+    "suitability": "review",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=2Z0Put0teCM",
+      "apple": "https://music.apple.com/us/album/se%C3%B1orita/1116365471?i=1116365492&uo=4",
+      "spotify": null
+    }
   },
   {
     "id": "tere-bina",
@@ -178,7 +258,12 @@
     "genre": "new-age",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Ftere-bina.m4a?alt=media",
     "startTime": 0.0,
-    "suitability": "review"
+    "suitability": "review",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=_mwqXnTEHSc",
+      "apple": "https://music.apple.com/us/album/tere-bina/264849882?i=264849919&uo=4",
+      "spotify": null
+    }
   },
   {
     "id": "raabta",
@@ -188,7 +273,12 @@
     "genre": "new-age",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fraabta.m4a?alt=media",
     "startTime": 0.0,
-    "suitability": "review"
+    "suitability": "review",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=vEe-UgJvUHE",
+      "apple": "https://music.apple.com/us/album/raabta/1117419889?i=1117420384&uo=4",
+      "spotify": null
+    }
   },
   {
     "id": "galliyan",
@@ -198,7 +288,12 @@
     "genre": "new-age",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fgalliyan.m4a?alt=media",
     "startTime": 0.0,
-    "suitability": "review"
+    "suitability": "review",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=FxAG_11PzCk",
+      "apple": "https://music.apple.com/us/album/galliyan/1111741333?i=1111741439&uo=4",
+      "spotify": null
+    }
   },
   {
     "id": "mast-magan",
@@ -208,7 +303,12 @@
     "genre": "new-age",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fmast-magan.m4a?alt=media",
     "startTime": 0.0,
-    "suitability": "review"
+    "suitability": "review",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=xitd9mEZIHk",
+      "apple": "https://music.apple.com/us/album/mast-magan/1074828947?i=1074829986&uo=4",
+      "spotify": null
+    }
   },
   {
     "id": "agar-tum-saath-ho",
@@ -218,7 +318,12 @@
     "genre": "new-age",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fagar-tum-saath-ho.m4a?alt=media",
     "startTime": 0.0,
-    "suitability": "review"
+    "suitability": "review",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=fs7-8M1VbZU",
+      "apple": "https://music.apple.com/us/album/agar-tum-saath-ho/1071074537?i=1071074558&uo=4",
+      "spotify": null
+    }
   },
   {
     "id": "zaalima",
@@ -228,7 +333,12 @@
     "genre": "new-age",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fzaalima.m4a?alt=media",
     "startTime": 0.0,
-    "suitability": "review"
+    "suitability": "review",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=JBA6DzhJxNY",
+      "apple": "https://music.apple.com/us/album/zaalima/1529525310?i=1529525315&uo=4",
+      "spotify": null
+    }
   },
   {
     "id": "dil-diyan-gallan",
@@ -238,7 +348,12 @@
     "genre": "new-age",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fdil-diyan-gallan.m4a?alt=media",
     "startTime": 0.0,
-    "suitability": "review"
+    "suitability": "review",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=SAcpESN_Fk4",
+      "apple": "https://music.apple.com/us/album/dil-diyan-gallan/1324456542?i=1324456545&uo=4",
+      "spotify": null
+    }
   },
   {
     "id": "tera-ban-jaunga",
@@ -248,7 +363,12 @@
     "genre": "new-age",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Ftera-ban-jaunga.m4a?alt=media",
     "startTime": 0.0,
-    "suitability": "review"
+    "suitability": "review",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=Qdz5n1Xe5Qo",
+      "apple": "https://music.apple.com/us/album/tera-ban-jaunga/1468448737?i=1468448744&uo=4",
+      "spotify": null
+    }
   },
   {
     "id": "shayad",
@@ -259,7 +379,12 @@
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fshayad.m4a?alt=media",
     "startTime": 0.0,
     "difficulty": "super-easy",
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=MJyKN-8UncM",
+      "apple": "https://music.apple.com/us/album/shayad-from-love-aaj-kal/1495947506?i=1495947509&uo=4",
+      "spotify": null
+    }
   },
   {
     "id": "kesariya",
@@ -270,7 +395,12 @@
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fkesariya.m4a?alt=media",
     "startTime": 0.0,
     "difficulty": "super-easy",
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=BddP6PYo2gs",
+      "apple": "https://music.apple.com/us/album/kesariya-from-brahmastra/1635013814?i=1635014240&uo=4",
+      "spotify": null
+    }
   },
   {
     "id": "apna-bana-le",
@@ -281,7 +411,12 @@
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fapna-bana-le.m4a?alt=media",
     "startTime": 0.0,
     "difficulty": "super-easy",
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=UEvOsQBu1jY",
+      "apple": "https://music.apple.com/us/album/apna-bana-le-from-bhediya/1653219847?i=1653219849&uo=4",
+      "spotify": null
+    }
   },
   {
     "id": "jhoome-jo-pathaan",
@@ -292,7 +427,12 @@
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fjhoome-jo-pathaan.m4a?alt=media",
     "startTime": 0.0,
     "difficulty": "super-easy",
-    "suitability": "provisional_unsuitable"
+    "suitability": "provisional_unsuitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=YxWlaYCA8MU",
+      "apple": "https://music.apple.com/us/album/jhoome-jo-pathaan/1659644976?i=1659644978&uo=4",
+      "spotify": null
+    }
   },
   {
     "id": "tere-vaaste",
@@ -302,7 +442,12 @@
     "genre": "new-age",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Ftere-vaaste.m4a?alt=media",
     "startTime": 0.0,
-    "suitability": "review"
+    "suitability": "review",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=asJnUpK62Zc",
+      "apple": "https://music.apple.com/us/album/tere-vaaste-from-zara-hatke-zara-bachke/1688981118?i=1688981130&uo=4",
+      "spotify": null
+    }
   },
   {
     "id": "chaleya",
@@ -313,7 +458,12 @@
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fchaleya.m4a?alt=media",
     "startTime": 0.0,
     "difficulty": "super-easy",
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=VAdGW7QDJiU",
+      "apple": "https://music.apple.com/us/album/chaleya-from-jawan/1702461666?i=1702461667&uo=4",
+      "spotify": null
+    }
   },
   {
     "id": "satranga",
@@ -324,7 +474,12 @@
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fsatranga.m4a?alt=media",
     "startTime": 0.0,
     "difficulty": "super-easy",
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=HrnrqYxYrbk",
+      "apple": "https://music.apple.com/us/album/satranga/1718278225?i=1718278231&uo=4",
+      "spotify": null
+    }
   },
   {
     "id": "o-maahi",
@@ -335,7 +490,12 @@
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fo-maahi.m4a?alt=media",
     "startTime": 0.0,
     "difficulty": "super-easy",
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=Etkd-07gnxM",
+      "apple": "https://music.apple.com/us/album/o-maahi/1722326387?i=1722326393&uo=4",
+      "spotify": null
+    }
   },
   {
     "id": "pee-loon",
@@ -345,7 +505,12 @@
     "genre": "new-age",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fpee-loon.m4a?alt=media",
     "startTime": 0.0,
-    "suitability": "review"
+    "suitability": "review",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=Nbr_KJT0TIc",
+      "apple": "https://music.apple.com/us/album/pee-loon/1123340727?i=1123340746&uo=4",
+      "spotify": null
+    }
   },
   {
     "id": "haule-haule",
@@ -355,7 +520,12 @@
     "genre": "new-age",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fhaule-haule.m4a?alt=media",
     "startTime": 0.0,
-    "suitability": "review"
+    "suitability": "review",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=yOKPfZyUa2g",
+      "apple": "https://music.apple.com/us/album/haule-haule/673596457?i=673596465&uo=4",
+      "spotify": null
+    }
   },
   {
     "id": "tujh-mein-rab-dikhta-hai",
@@ -365,7 +535,12 @@
     "genre": "new-age",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Ftujh-mein-rab-dikhta-hai.m4a?alt=media",
     "startTime": 0.0,
-    "suitability": "review"
+    "suitability": "review",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=qoq8B8ThgEM",
+      "apple": "https://music.apple.com/us/album/tujh-mein-rab-dikhta-hai/673596457?i=673596462&uo=4",
+      "spotify": null
+    }
   },
   {
     "id": "aankh-marey",
@@ -375,7 +550,12 @@
     "genre": "new-age",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Faankh-marey.m4a?alt=media",
     "startTime": 0.0,
-    "suitability": "review"
+    "suitability": "review",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=w8b4nPOlzSM",
+      "apple": "https://music.apple.com/us/album/aankh-marey/1447936145?i=1447936149&uo=4",
+      "spotify": null
+    }
   },
   {
     "id": "balam-pichkari",
@@ -385,7 +565,12 @@
     "genre": "new-age",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fbalam-pichkari.m4a?alt=media",
     "startTime": 0.0,
-    "suitability": "review"
+    "suitability": "review",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=0WtRNGubWGA",
+      "apple": "https://music.apple.com/us/album/balam-pichkari/1070912669?i=1070912810&uo=4",
+      "spotify": null
+    }
   },
   {
     "id": "deva-deva",
@@ -396,7 +581,12 @@
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fdeva-deva.m4a?alt=media",
     "startTime": 0.0,
     "difficulty": "super-easy",
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=mNuhKUOD_A0",
+      "apple": "https://music.apple.com/us/album/deva-deva-from-brahmastra/1638680266?i=1638680267&uo=4",
+      "spotify": null
+    }
   },
   {
     "id": "saiyaara",
@@ -406,7 +596,12 @@
     "genre": "new-age",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fsaiyaara.m4a?alt=media",
     "startTime": 0.0,
-    "suitability": "review"
+    "suitability": "review",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=A5pSnIwbpaM",
+      "apple": "https://music.apple.com/us/album/saiyaara/673948187?i=673948365&uo=4",
+      "spotify": null
+    }
   },
   {
     "id": "high-rated-gabru",
@@ -416,7 +611,12 @@
     "genre": "new-age",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fhigh-rated-gabru.m4a?alt=media",
     "startTime": 0.0,
-    "suitability": "review"
+    "suitability": "review",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=hjWf8A0YNSE",
+      "apple": "https://music.apple.com/us/album/high-rated-gabru-from-high-rated-gabru/1454933723?i=1454933724&uo=4",
+      "spotify": null
+    }
   },
   {
     "id": "lahore",
@@ -426,7 +626,12 @@
     "genre": "new-age",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Flahore.m4a?alt=media",
     "startTime": 0.0,
-    "suitability": "review"
+    "suitability": "review",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=dZ0fwJojhrs",
+      "apple": "https://music.apple.com/us/album/lahore/1325390153?i=1325390805&uo=4",
+      "spotify": null
+    }
   },
   {
     "id": "suit-suit",
@@ -436,7 +641,12 @@
     "genre": "new-age",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fsuit-suit.m4a?alt=media",
     "startTime": 0.0,
-    "suitability": "review"
+    "suitability": "review",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=uQ763VvqiEM",
+      "apple": "https://music.apple.com/us/album/suit-suit-feat-arjun/1229021041?i=1229021047&uo=4",
+      "spotify": null
+    }
   },
   {
     "id": "naach-meri-rani",
@@ -446,7 +656,12 @@
     "genre": "new-age",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fnaach-meri-rani.m4a?alt=media",
     "startTime": 0.0,
-    "suitability": "review"
+    "suitability": "review",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=TCx1yMegJ4A",
+      "apple": "https://music.apple.com/us/album/naach-meri-rani-feat-nora-fatehi/1536132495?i=1536132496&uo=4",
+      "spotify": null
+    }
   },
   {
     "id": "brown-munde",
@@ -457,7 +672,12 @@
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fbrown-munde.m4a?alt=media",
     "startTime": 0.0,
     "difficulty": "super-easy",
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=VNs_cCtdbPc",
+      "apple": "https://music.apple.com/us/album/brown-munde/1531596344?i=1531596345&uo=4",
+      "spotify": null
+    }
   },
   {
     "id": "with-you",
@@ -468,7 +688,12 @@
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fwith-you.m4a?alt=media",
     "startTime": 0.0,
     "difficulty": "super-easy",
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=mZQH8CPQ-wo",
+      "apple": "https://music.apple.com/us/album/with-you/1700880665?i=1700880858&uo=4",
+      "spotify": null
+    }
   },
   {
     "id": "insane",
@@ -479,7 +704,12 @@
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Finsane.m4a?alt=media",
     "startTime": 0.0,
     "difficulty": "super-easy",
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=cqP8I5aaud8",
+      "apple": "https://music.apple.com/us/album/insane/1562346952?i=1562346959&uo=4",
+      "spotify": null
+    }
   },
   {
     "id": "dil-nu",
@@ -490,7 +720,12 @@
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fdil-nu.m4a?alt=media",
     "startTime": 0.0,
     "difficulty": "super-easy",
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=p2EdDiiVHh4",
+      "apple": "https://music.apple.com/us/album/dil-nu/1648624139?i=1648624705&uo=4",
+      "spotify": null
+    }
   },
   {
     "id": "tauba-tauba",
@@ -501,7 +736,12 @@
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Ftauba-tauba.m4a?alt=media",
     "startTime": 0.0,
     "difficulty": "super-easy",
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=LK7-_dgAVQE",
+      "apple": "https://music.apple.com/us/album/tauba-tauba-from-bad-newz/1754562143?i=1754562159&uo=4",
+      "spotify": null
+    }
   },
   {
     "id": "softly",
@@ -512,7 +752,12 @@
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fsoftly.m4a?alt=media",
     "startTime": 0.0,
     "difficulty": "super-easy",
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=cWMxCE2HTag",
+      "apple": "https://music.apple.com/us/album/softly/1697533643?i=1697533818&uo=4",
+      "spotify": null
+    }
   },
   {
     "id": "winning-speech",
@@ -523,7 +768,12 @@
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fwinning-speech.m4a?alt=media",
     "startTime": 0.0,
     "difficulty": "super-easy",
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=vsWxs1tuwDk",
+      "apple": "https://music.apple.com/us/album/winning-speech/1745062649?i=1745062759&uo=4",
+      "spotify": null
+    }
   },
   {
     "id": "white-brown-black",
@@ -534,7 +784,12 @@
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fwhite-brown-black.m4a?alt=media",
     "startTime": 0.0,
     "difficulty": "super-easy",
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=BtQp2U6hJII",
+      "apple": "https://music.apple.com/us/album/white-brown-black/1657665080?i=1657665086&uo=4",
+      "spotify": null
+    }
   },
   {
     "id": "arjan-vailly",
@@ -545,7 +800,12 @@
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Farjan-vailly.m4a?alt=media",
     "startTime": 0.0,
     "difficulty": "super-easy",
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=zqGW6x_5N0k",
+      "apple": "https://music.apple.com/us/album/arjan-vailly/1718278225?i=1718278228&uo=4",
+      "spotify": null
+    }
   },
   {
     "id": "pehle-bhi-main",
@@ -556,7 +816,12 @@
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fpehle-bhi-main.m4a?alt=media",
     "startTime": 0.0,
     "difficulty": "super-easy",
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=iAIBF2ngbWY",
+      "apple": "https://music.apple.com/us/album/pehle-bhi-main/1718278225?i=1718278234&uo=4",
+      "spotify": null
+    }
   },
   {
     "id": "hua-main",
@@ -566,7 +831,12 @@
     "genre": "new-age",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fhua-main.m4a?alt=media",
     "startTime": 0.0,
-    "suitability": "review"
+    "suitability": "review",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=xG6sOnqd7WM",
+      "apple": "https://music.apple.com/us/album/hua-main/1718278225?i=1718278230&uo=4",
+      "spotify": null
+    }
   },
   {
     "id": "saari-duniya-jalaa-denge",
@@ -577,7 +847,12 @@
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fsaari-duniya-jalaa-denge.m4a?alt=media",
     "startTime": 0.0,
     "difficulty": "super-easy",
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=6OXfgu8uKnE",
+      "apple": "https://music.apple.com/us/album/saari-duniya-jalaa-denge/1718278225?i=1718278238&uo=4",
+      "spotify": null
+    }
   },
   {
     "id": "aaj-ki-raat",
@@ -588,7 +863,12 @@
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Faaj-ki-raat.m4a?alt=media",
     "startTime": 0.0,
     "difficulty": "super-easy",
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=DNabARVbztw",
+      "apple": "https://music.apple.com/us/album/aaj-ki-raat-from-stree-2/1759100523?i=1759100524&uo=4",
+      "spotify": null
+    }
   },
   {
     "id": "aayi-nai",
@@ -599,7 +879,12 @@
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Faayi-nai.m4a?alt=media",
     "startTime": 0.0,
     "difficulty": "super-easy",
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=nFgsBxw-zWQ",
+      "apple": "https://music.apple.com/us/album/aayi-nai-from-stree-2/1760581355?i=1760581362&uo=4",
+      "spotify": null
+    }
   },
   {
     "id": "taras",
@@ -610,7 +895,12 @@
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Ftaras.m4a?alt=media",
     "startTime": 0.0,
     "difficulty": "super-easy",
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=kfXy4W0aD40",
+      "apple": "https://music.apple.com/us/album/taras-from-munjya/1748501086?i=1748501087&uo=4",
+      "spotify": null
+    }
   },
   {
     "id": "sajni",
@@ -620,7 +910,12 @@
     "genre": "new-age",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fsajni.m4a?alt=media",
     "startTime": 0.0,
-    "suitability": "review"
+    "suitability": "review",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=k3g_WjLCsXM",
+      "apple": "https://music.apple.com/us/album/sajni/1730725577?i=1730725583&uo=4",
+      "spotify": null
+    }
   },
   {
     "id": "naina-crew",
@@ -631,7 +926,12 @@
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fnaina-crew.m4a?alt=media",
     "startTime": 0.0,
     "difficulty": "super-easy",
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=3u6lLWGjFLY",
+      "apple": "https://music.apple.com/us/album/naina-from-crew/1734233686?i=1734233958&uo=4",
+      "spotify": null
+    }
   },
   {
     "id": "akhiyaan-gulaab",
@@ -642,7 +942,12 @@
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fakhiyaan-gulaab.m4a?alt=media",
     "startTime": 0.0,
     "difficulty": "super-easy",
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=ETiHKMmfr-k",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "lutt-putt-gaya",
@@ -653,7 +958,12 @@
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Flutt-putt-gaya.m4a?alt=media",
     "startTime": 0.0,
     "difficulty": "super-easy",
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=MeBJ5ERJZU4",
+      "apple": "https://music.apple.com/us/album/lutt-putt-gaya/1722326387?i=1722326390&uo=4",
+      "spotify": null
+    }
   },
   {
     "id": "ve-kamleya",
@@ -664,7 +974,12 @@
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fve-kamleya.m4a?alt=media",
     "startTime": 0.0,
     "difficulty": "super-easy",
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=QXJyMpxd210",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "what-jhumka",
@@ -675,7 +990,12 @@
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fwhat-jhumka.m4a?alt=media",
     "startTime": 0.0,
     "difficulty": "super-easy",
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=P1fIdFRnfqw",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "chuttamalle",
@@ -685,7 +1005,12 @@
     "genre": "new-age",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fchuttamalle.m4a?alt=media",
     "startTime": 0.0,
-    "suitability": "review"
+    "suitability": "review",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=GWNrPJyRTcA",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "dhun-saiyaara",
@@ -695,7 +1020,12 @@
     "genre": "new-age",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fdhun-saiyaara.m4a?alt=media",
     "startTime": 0.0,
-    "suitability": "review"
+    "suitability": "review",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=cUmUOb7j3dc",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "barbaad-saiyaara",
@@ -705,7 +1035,12 @@
     "genre": "new-age",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fbarbaad-saiyaara.m4a?alt=media",
     "startTime": 0.0,
-    "suitability": "review"
+    "suitability": "review",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=0v5eHPfy5Lk",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "tum-ho-toh-saiyaara",
@@ -715,7 +1050,12 @@
     "genre": "new-age",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Ftum-ho-toh-saiyaara.m4a?alt=media",
     "startTime": 0.0,
-    "suitability": "review"
+    "suitability": "review",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=rOUuGvJkBrQ",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "humsafar-saiyaara",
@@ -725,7 +1065,12 @@
     "genre": "new-age",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fhumsafar-saiyaara.m4a?alt=media",
     "startTime": 0.0,
-    "suitability": "review"
+    "suitability": "review",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=0NXnRmoILSs",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "saiyaara-title-track",
@@ -735,7 +1080,12 @@
     "genre": "new-age",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fsaiyaara-title-track.m4a?alt=media",
     "startTime": 0.0,
-    "suitability": "review"
+    "suitability": "review",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=BSJa1UytM8w",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "mashallah",
@@ -745,7 +1095,12 @@
     "genre": "new-age",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fmashallah.m4a?alt=media",
     "startTime": 0.0,
-    "suitability": "review"
+    "suitability": "review",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=9_BUZaTcozs",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "banjaara",
@@ -755,7 +1110,12 @@
     "genre": "new-age",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fbanjaara.m4a?alt=media",
     "startTime": 0.0,
-    "suitability": "review"
+    "suitability": "review",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=7QF7z76ehyo",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "laapata",
@@ -765,7 +1125,12 @@
     "genre": "new-age",
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Flaapata.m4a?alt=media",
     "startTime": 0.0,
-    "suitability": "review"
+    "suitability": "review",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=3PqxT1VqyNc",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "title": "Tu Hi Disda",
@@ -776,7 +1141,12 @@
     "id": "049aab99-47e1-4886-9325-387f756478e7",
     "startTime": 0.0,
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F049aab99-47e1-4886-9325-387f756478e7.m4a?alt=media",
-    "suitability": "review"
+    "suitability": "review",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=jKz81eb9af4",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "title": "Sitaare",
@@ -787,7 +1157,12 @@
     "id": "4fa2fd2d-230c-440f-94e0-5f2c57e9fe81",
     "startTime": 0.0,
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F4fa2fd2d-230c-440f-94e0-5f2c57e9fe81.m4a?alt=media",
-    "suitability": "review"
+    "suitability": "review",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=nDjloeIB3Pc",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "title": "Ban Ke Dikha",
@@ -798,7 +1173,12 @@
     "id": "b461a221-6801-4e88-a67c-813b37c01160",
     "startTime": 0.0,
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fb461a221-6801-4e88-a67c-813b37c01160.m4a?alt=media",
-    "suitability": "review"
+    "suitability": "review",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=kNlY7VKDdno",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "title": "Jaiye Sajana",
@@ -809,7 +1189,12 @@
     "id": "c141be9c-d9f9-425a-938e-52bef9451149",
     "startTime": 0.0,
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fc141be9c-d9f9-425a-938e-52bef9451149.m4a?alt=media",
-    "suitability": "review"
+    "suitability": "review",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=F2m4HPLvj-4",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "title": "Hum Dono",
@@ -820,7 +1205,12 @@
     "id": "9c39e20f-9678-4d9c-92e8-a5311460f058",
     "startTime": 0.0,
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F9c39e20f-9678-4d9c-92e8-a5311460f058.m4a?alt=media",
-    "suitability": "review"
+    "suitability": "review",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=iVcS3k0HuXY",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "title": "Arz Kiya Hai",
@@ -831,7 +1221,12 @@
     "id": "b7cc1ba7-2bd6-475d-8e11-38062cb4348c",
     "startTime": 0.0,
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fb7cc1ba7-2bd6-475d-8e11-38062cb4348c.m4a?alt=media",
-    "suitability": "review"
+    "suitability": "review",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=bP8ATWCvqzw",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "title": "Tu Hai Toh Main Hoon",
@@ -842,7 +1237,12 @@
     "id": "441fad9d-9420-453c-bc7c-31510a5b9438",
     "startTime": 0.0,
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F441fad9d-9420-453c-bc7c-31510a5b9438.m4a?alt=media",
-    "suitability": "review"
+    "suitability": "review",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=CKJA9blyMUg",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "title": "Panwadi",
@@ -853,7 +1253,12 @@
     "id": "67a3b723-f581-45cb-b7b8-6f2f443ef513",
     "startTime": 0.0,
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F67a3b723-f581-45cb-b7b8-6f2f443ef513.m4a?alt=media",
-    "suitability": "review"
+    "suitability": "review",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=qLyqKU-FJmg",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "title": "Dhurandar",
@@ -864,7 +1269,12 @@
     "id": "a291d23b-a054-43a1-ae6e-b1e94720daab",
     "startTime": 0.0,
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fa291d23b-a054-43a1-ae6e-b1e94720daab.m4a?alt=media",
-    "suitability": "review"
+    "suitability": "review",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=0NXnRmoILSs",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "title": "Admirin You",
@@ -875,7 +1285,12 @@
     "id": "daf3616a-3cd4-466c-b101-896ec4752b6e",
     "startTime": 0.0,
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fdaf3616a-3cd4-466c-b101-896ec4752b6e.m4a?alt=media",
-    "suitability": "review"
+    "suitability": "review",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=k85UB5b6pJU",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "title": "Try Me",
@@ -887,7 +1302,12 @@
     "startTime": 0.0,
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F8951aba2-0b3f-4caa-ab64-018b38d5b9ba.m4a?alt=media",
     "difficulty": "super-easy",
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=6wkwmDzZ3n4",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "title": "True Stories",
@@ -898,7 +1318,12 @@
     "id": "4725bef8-24bc-4680-8b65-72abc429de21",
     "startTime": 0.0,
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F4725bef8-24bc-4680-8b65-72abc429de21.m4a?alt=media",
-    "suitability": "review"
+    "suitability": "review",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=-wFTG_f-W4c",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "title": "Summer High",
@@ -910,7 +1335,12 @@
     "startTime": 0.0,
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F2feb71c2-d8ef-4e31-a545-8ce2b6255dd8.m4a?alt=media",
     "difficulty": "super-easy",
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=nqUN530Rgtw",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "title": "Lover",
@@ -922,7 +1352,12 @@
     "startTime": 0.0,
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F893c028a-690d-4ad1-b1f5-015a9e6ecc3c.m4a?alt=media",
     "difficulty": "super-easy",
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=mH_LFkWxpI0",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "title": "Peaches",
@@ -933,7 +1368,12 @@
     "id": "fc4e2cad-f9f7-4cd2-a81b-292ed1636552",
     "startTime": 0.0,
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Ffc4e2cad-f9f7-4cd2-a81b-292ed1636552.m4a?alt=media",
-    "suitability": "review"
+    "suitability": "review",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=s0JTpcDu1Tk",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "title": "Lemonade",
@@ -944,7 +1384,12 @@
     "id": "221bde15-a07f-436d-81d8-81cf70024824",
     "startTime": 0.0,
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F221bde15-a07f-436d-81d8-81cf70024824.m4a?alt=media",
-    "suitability": "review"
+    "suitability": "review",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=ZVgergj8Xe4",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "title": "Hass Hass",
@@ -956,7 +1401,12 @@
     "startTime": 0.0,
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F3de3107d-0218-4871-b2e9-ec2f5e1f3e19.m4a?alt=media",
     "difficulty": "super-easy",
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=jADTdg-o8i0",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "title": "G.O.A.T.",
@@ -968,7 +1418,12 @@
     "startTime": 0.0,
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fc1720319-970e-410c-b3af-0f9d30285c21.m4a?alt=media",
     "difficulty": "super-easy",
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=cl0a3i2wFcc",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "title": "Kinni Kinni",
@@ -980,7 +1435,12 @@
     "startTime": 0.0,
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fae44bfc5-0079-4f07-a9c4-fa05cbda4d0d.m4a?alt=media",
     "difficulty": "super-easy",
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=ejYe2GwBEJ0",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "title": "Zinda Banda",
@@ -992,7 +1452,12 @@
     "startTime": 0.0,
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fa8eb3863-aba6-4ea5-a082-efd8d3d77004.m4a?alt=media",
     "difficulty": "super-easy",
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=stjZKBhQ3lg",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "title": "Not Ramaiya Vastavaiya",
@@ -1004,7 +1469,12 @@
     "startTime": 0.0,
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Ff91cf6e7-2fc3-42f3-bc39-cdb560f53465.m4a?alt=media",
     "difficulty": "super-easy",
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=m3OtL4peEWU",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "title": "Sher Khul Gaye",
@@ -1015,7 +1485,12 @@
     "id": "e33abe92-cd9c-48eb-a663-d5dcaac9c179",
     "startTime": 0.0,
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fe33abe92-cd9c-48eb-a663-d5dcaac9c179.m4a?alt=media",
-    "suitability": "review"
+    "suitability": "review",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=exdsbFvhocI",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "title": "Ishq Jaisa Kuch",
@@ -1026,7 +1501,12 @@
     "id": "b0456cc9-8100-426d-b638-57d27e7717b9",
     "startTime": 0.0,
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fb0456cc9-8100-426d-b638-57d27e7717b9.m4a?alt=media",
-    "suitability": "review"
+    "suitability": "review",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=KUNTKDOjXcY",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "title": "Heeriye",
@@ -1038,7 +1518,12 @@
     "startTime": 0.0,
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F600e2712-184e-45ab-8786-6b49a15c6f46.m4a?alt=media",
     "difficulty": "super-easy",
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=RLzC55ai0eo",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "title": "Phir Aur Kya Chahiye",
@@ -1049,7 +1534,12 @@
     "id": "a23261f1-2750-4912-a587-12a1d47dd7f8",
     "startTime": 0.0,
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fa23261f1-2750-4912-a587-12a1d47dd7f8.m4a?alt=media",
-    "suitability": "review"
+    "suitability": "review",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=PR_mFnjFidk",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "title": "Tum Kya Mile",
@@ -1061,7 +1551,12 @@
     "startTime": 0.0,
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F69f4a727-ef7b-44f1-87e5-a00ce702a8cd.m4a?alt=media",
     "difficulty": "super-easy",
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=hacByYwJ_a4",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "title": "O Bedardeya",
@@ -1073,7 +1568,12 @@
     "startTime": 0.0,
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F90a77dba-f114-49b0-93fc-5d80d7680749.m4a?alt=media",
     "difficulty": "super-easy",
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=o-YQ1t2oLRU",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "title": "Tere Pyaar Mein",
@@ -1085,7 +1585,12 @@
     "startTime": 0.0,
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fc4b28396-09da-41c3-8b83-2f6bc3845c33.m4a?alt=media",
     "difficulty": "super-easy",
-    "suitability": "provisional_unsuitable"
+    "suitability": "provisional_unsuitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=IMg_UUJVpMo",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "title": "Show Me The Thumka",
@@ -1097,7 +1602,12 @@
     "startTime": 0.0,
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F0601c3c5-6ffd-4e8a-904d-ab067600af2e.m4a?alt=media",
     "difficulty": "super-easy",
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=KgpFBdapobY",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "title": "Besharam Rang",
@@ -1109,7 +1619,12 @@
     "startTime": 0.0,
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fc995221f-7ed8-4480-bb1c-5bcf3ae89383.m4a?alt=media",
     "difficulty": "super-easy",
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=PkNk4ScHAhM",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "title": "Dance Ka Bhoot",
@@ -1121,7 +1636,12 @@
     "startTime": 0.0,
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F3b8165e3-1595-45cf-85c6-4c0e8b9d33ba.m4a?alt=media",
     "difficulty": "super-easy",
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=jTyuYo3GKaY",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "title": "Raataan Lambiyan",
@@ -1133,7 +1653,12 @@
     "startTime": 0.0,
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F5353131f-f9ac-4172-8a04-af794d408a63.m4a?alt=media",
     "difficulty": "super-easy",
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=gvyUuxdRdR4",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "title": "Ranjha",
@@ -1145,7 +1670,12 @@
     "startTime": 0.0,
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fc4754d9f-1e0f-4d1b-a580-73c8def09c5a.m4a?alt=media",
     "difficulty": "super-easy",
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=V7LwfY5U5WI",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "title": "Manike",
@@ -1157,7 +1687,12 @@
     "startTime": 0.0,
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Ff399025a-5f1a-40d0-8946-898ec2bfcc3e.m4a?alt=media",
     "difficulty": "super-easy",
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=zqHUMF9syFA",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "title": "Bhool Bhulaiyaa 2 Title Track",
@@ -1168,7 +1703,12 @@
     "id": "d7c5b147-8a41-4720-b917-dbfa72a16a53",
     "startTime": 0.0,
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fd7c5b147-8a41-4720-b917-dbfa72a16a53.m4a?alt=media",
-    "suitability": "review"
+    "suitability": "review",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=J1rOfVst-EQ",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "title": "Ami Je Tomar",
@@ -1179,7 +1719,12 @@
     "id": "3fd1abfc-fec1-4b31-8851-a6a400088451",
     "startTime": 0.0,
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F3fd1abfc-fec1-4b31-8851-a6a400088451.m4a?alt=media",
-    "suitability": "review"
+    "suitability": "review",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=5JrsyO1lMEw",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "title": "Sunn Raha Hai",
@@ -1190,7 +1735,12 @@
     "id": "b1a23870-cf7b-428a-acbf-d57c79d7bf52",
     "startTime": 0.0,
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fb1a23870-cf7b-428a-acbf-d57c79d7bf52.m4a?alt=media",
-    "suitability": "review"
+    "suitability": "review",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=2b-JOu-72F8",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "title": "Chahun Main Ya Naa",
@@ -1201,7 +1751,12 @@
     "id": "8e0e592e-bc9e-42e9-a89a-6f7914ef2667",
     "startTime": 0.0,
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F8e0e592e-bc9e-42e9-a89a-6f7914ef2667.m4a?alt=media",
-    "suitability": "review"
+    "suitability": "review",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=Q4F7MF5Vzt0",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "title": "Zaroorat",
@@ -1212,7 +1767,12 @@
     "id": "0f5ec95d-8259-46c5-8bf4-5319211d5495",
     "startTime": 0.0,
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F0f5ec95d-8259-46c5-8bf4-5319211d5495.m4a?alt=media",
-    "suitability": "review"
+    "suitability": "review",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=VMEXKJbsUmE",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "title": "Hamari Adhuri Kahani",
@@ -1223,7 +1783,12 @@
     "id": "34398b1a-b6de-447f-87e7-d036b3e0e1de",
     "startTime": 0.0,
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F34398b1a-b6de-447f-87e7-d036b3e0e1de.m4a?alt=media",
-    "suitability": "review"
+    "suitability": "review",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=sVRwZEkXepg",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "title": "Samjhawan",
@@ -1234,7 +1799,12 @@
     "id": "b282f8aa-412f-40cf-b0e4-c5f5e0ed2fcc",
     "startTime": 0.0,
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fb282f8aa-412f-40cf-b0e4-c5f5e0ed2fcc.m4a?alt=media",
-    "suitability": "review"
+    "suitability": "review",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=yQ6d627OZig",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "title": "Laila Main Laila",
@@ -1245,7 +1815,12 @@
     "id": "c747de97-ecb3-4651-b7a2-569ec2e608f1",
     "startTime": 0.0,
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fc747de97-ecb3-4651-b7a2-569ec2e608f1.m4a?alt=media",
-    "suitability": "review"
+    "suitability": "review",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=95I5VaR7GeU",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "title": "Kar Gayi Chull",
@@ -1256,7 +1831,12 @@
     "id": "1d84cc7b-ed15-46fe-929f-ed340ea0aebb",
     "startTime": 0.0,
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F1d84cc7b-ed15-46fe-929f-ed340ea0aebb.m4a?alt=media",
-    "suitability": "review"
+    "suitability": "review",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=Bea019pOw5w",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "title": "Bolna",
@@ -1267,7 +1847,12 @@
     "id": "d682b772-7a8b-49d1-9c50-af3c9b980629",
     "startTime": 0.0,
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fd682b772-7a8b-49d1-9c50-af3c9b980629.m4a?alt=media",
-    "suitability": "review"
+    "suitability": "review",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=GYFDRoJtfGM",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "title": "Let's Nacho",
@@ -1278,7 +1863,12 @@
     "id": "2945b490-51cc-4ef2-bfdc-f3e6a00409e5",
     "startTime": 0.0,
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F2945b490-51cc-4ef2-bfdc-f3e6a00409e5.m4a?alt=media",
-    "suitability": "review"
+    "suitability": "review",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=TLnwqAarPkM",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "title": "Kaun Tujhe",
@@ -1289,7 +1879,12 @@
     "id": "f51b29ce-4695-4fef-ae4f-96622a49f824",
     "startTime": 0.0,
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Ff51b29ce-4695-4fef-ae4f-96622a49f824.m4a?alt=media",
-    "suitability": "review"
+    "suitability": "review",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=ZVAZEZJfa7g",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "title": "Besabriyaan",
@@ -1300,7 +1895,12 @@
     "id": "0b999e1d-ceec-4889-93d8-c0c496d6ceaf",
     "startTime": 0.0,
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F0b999e1d-ceec-4889-93d8-c0c496d6ceaf.m4a?alt=media",
-    "suitability": "review"
+    "suitability": "review",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=UBBHpoW3AKA",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "title": "Ae Dil Hai Mushkil",
@@ -1311,7 +1911,12 @@
     "id": "ce07ed68-b216-4cba-b649-867370b3d7b7",
     "startTime": 0.0,
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fce07ed68-b216-4cba-b649-867370b3d7b7.m4a?alt=media",
-    "suitability": "review"
+    "suitability": "review",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=6FURuLYrR_Q",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "title": "Bulleya",
@@ -1322,7 +1927,12 @@
     "id": "c0b10130-22d1-43f3-bd57-171af1ce262c",
     "startTime": 0.0,
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fc0b10130-22d1-43f3-bd57-171af1ce262c.m4a?alt=media",
-    "suitability": "review"
+    "suitability": "review",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=wTgrZE9RWNY",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "title": "Cutiepie",
@@ -1333,7 +1943,12 @@
     "id": "b6dcf4c7-00d6-4c0f-aed2-27668477619b",
     "startTime": 0.0,
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fb6dcf4c7-00d6-4c0f-aed2-27668477619b.m4a?alt=media",
-    "suitability": "review"
+    "suitability": "review",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=mVxMqmeeLXc",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "title": "Swag Se Swagat",
@@ -1344,7 +1959,12 @@
     "id": "863e26d3-016f-4ffe-8e45-a2446b4d3c99",
     "startTime": 0.0,
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F863e26d3-016f-4ffe-8e45-a2446b4d3c99.m4a?alt=media",
-    "suitability": "review"
+    "suitability": "review",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=7TRFf7uUfhQ",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "title": "Hawayein",
@@ -1355,7 +1975,12 @@
     "id": "8d99c0ae-e028-47eb-aa5e-f54cb96d0121",
     "startTime": 0.0,
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F8d99c0ae-e028-47eb-aa5e-f54cb96d0121.m4a?alt=media",
-    "suitability": "review"
+    "suitability": "review",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=cYOB941gyXI",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "title": "Radha",
@@ -1366,7 +1991,12 @@
     "id": "dca17fcf-a3d7-41e2-b5a3-b52b01aad5c7",
     "startTime": 0.0,
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fdca17fcf-a3d7-41e2-b5a3-b52b01aad5c7.m4a?alt=media",
-    "suitability": "review"
+    "suitability": "review",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=loRj95fRX1c",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "title": "Bom Diggy Diggy",
@@ -1377,7 +2007,12 @@
     "id": "98e99289-d97c-4989-9d3d-2493cae2e57e",
     "startTime": 0.0,
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F98e99289-d97c-4989-9d3d-2493cae2e57e.m4a?alt=media",
-    "suitability": "review"
+    "suitability": "review",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=yIIGQB6EMAM",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "title": "Dil Chori",
@@ -1388,7 +2023,12 @@
     "id": "232df5dc-3aec-4037-af11-dd18eace784f",
     "startTime": 0.0,
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F232df5dc-3aec-4037-af11-dd18eace784f.m4a?alt=media",
-    "suitability": "review"
+    "suitability": "review",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=xWi8nDUjHGA",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "title": "Tere Bin",
@@ -1399,7 +2039,12 @@
     "id": "62551b35-9d61-41c6-969a-e53238acf939",
     "startTime": 0.0,
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F62551b35-9d61-41c6-969a-e53238acf939.m4a?alt=media",
-    "suitability": "review"
+    "suitability": "review",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=hejXc_FSYb8",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "title": "O Saki Saki",
@@ -1410,7 +2055,12 @@
     "id": "813a1401-b19f-4bea-91e3-b137b30bc3a9",
     "startTime": 0.0,
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F813a1401-b19f-4bea-91e3-b137b30bc3a9.m4a?alt=media",
-    "suitability": "review"
+    "suitability": "review",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=0H_GBTInxMM",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "title": "Bekhayali",
@@ -1421,7 +2071,12 @@
     "id": "b0dcaac5-dd12-4220-92b7-0dee63050de9",
     "startTime": 0.0,
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fb0dcaac5-dd12-4220-92b7-0dee63050de9.m4a?alt=media",
-    "suitability": "review"
+    "suitability": "review",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=VOLKJJvfAbg",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "title": "Tujhe Kitna Chahne Lage",
@@ -1432,7 +2087,12 @@
     "id": "0076e547-1e15-4d23-bf15-829c60a3fb00",
     "startTime": 0.0,
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F0076e547-1e15-4d23-bf15-829c60a3fb00.m4a?alt=media",
-    "suitability": "review"
+    "suitability": "review",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=AgX2II9si7w",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "title": "Kaise Hua",
@@ -1443,7 +2103,12 @@
     "id": "263627f7-5ac8-4f4f-9944-de520ec52ed0",
     "startTime": 0.0,
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F263627f7-5ac8-4f4f-9944-de520ec52ed0.m4a?alt=media",
-    "suitability": "review"
+    "suitability": "review",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=WWXm39leYew",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "title": "Shaitan Ka Saala",
@@ -1454,7 +2119,12 @@
     "id": "314e84ae-9fd8-4ce2-9eb0-ebc9257fa504",
     "startTime": 0.0,
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F314e84ae-9fd8-4ce2-9eb0-ebc9257fa504.m4a?alt=media",
-    "suitability": "review"
+    "suitability": "review",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=oCBDl58lBoU",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "title": "Bole Chudiyan",
@@ -1465,7 +2135,12 @@
     "id": "4b8b63ee-a4dd-420e-b1cf-b709714d8ecb",
     "startTime": 0.0,
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F4b8b63ee-a4dd-420e-b1cf-b709714d8ecb.m4a?alt=media",
-    "suitability": "review"
+    "suitability": "review",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=KpuTKyfGM5w",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "title": "Maahi Ve",
@@ -1476,7 +2151,12 @@
     "id": "5e05aa93-9b23-4b95-a5fa-0466f5273d33",
     "startTime": 0.0,
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F5e05aa93-9b23-4b95-a5fa-0466f5273d33.m4a?alt=media",
-    "suitability": "review"
+    "suitability": "review",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=1BWdglekty0",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "title": "It's The Time To Disco",
@@ -1487,7 +2167,12 @@
     "id": "2f596f39-7e42-4e02-b249-dd3572b3c189",
     "startTime": 0.0,
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F2f596f39-7e42-4e02-b249-dd3572b3c189.m4a?alt=media",
-    "suitability": "review"
+    "suitability": "review",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=Y8ZN7QjQcP0",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "title": "Main Yahaan Hoon",
@@ -1498,7 +2183,12 @@
     "id": "5616e664-2176-489c-ad2d-35b11e71d350",
     "startTime": 0.0,
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F5616e664-2176-489c-ad2d-35b11e71d350.m4a?alt=media",
-    "suitability": "review"
+    "suitability": "review",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=m6Y8xEfyXTs",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "title": "Tere Liye",
@@ -1509,7 +2199,12 @@
     "id": "9d8fe26d-84e2-42c8-9a5b-44193930d32b",
     "startTime": 0.0,
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F9d8fe26d-84e2-42c8-9a5b-44193930d32b.m4a?alt=media",
-    "suitability": "review"
+    "suitability": "review",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=jo6iAkSoraY",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "title": "Do Pal",
@@ -1520,7 +2215,12 @@
     "id": "796b3508-bb49-4675-942b-a660807f587a",
     "startTime": 0.0,
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F796b3508-bb49-4675-942b-a660807f587a.m4a?alt=media",
-    "suitability": "review"
+    "suitability": "review",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=HPsxxBhv9kc",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "title": "Kabhi Alvida Naa Kehna",
@@ -1531,7 +2231,12 @@
     "id": "1c1acb7c-20bb-4434-a623-29375d45e43b",
     "startTime": 0.0,
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F1c1acb7c-20bb-4434-a623-29375d45e43b.m4a?alt=media",
-    "suitability": "review"
+    "suitability": "review",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=nmTp_esz_Q8",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "title": "Where's The Party Tonight",
@@ -1542,7 +2247,12 @@
     "id": "03267445-1c51-4f33-a912-d65b04890bb6",
     "startTime": 0.0,
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F03267445-1c51-4f33-a912-d65b04890bb6.m4a?alt=media",
-    "suitability": "review"
+    "suitability": "review",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=ifT-NS_E7EY",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "title": "Bidi Jalaile",
@@ -1553,7 +2263,12 @@
     "id": "4cb2c720-12a8-43bd-ba07-f4277a18df04",
     "startTime": 0.0,
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F4cb2c720-12a8-43bd-ba07-f4277a18df04.m4a?alt=media",
-    "suitability": "review"
+    "suitability": "review",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=XLJCtZK0x5M",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "title": "Namak",
@@ -1564,7 +2279,12 @@
     "id": "1505ce5f-55d0-4633-b945-33b39076fd49",
     "startTime": 0.0,
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F1505ce5f-55d0-4633-b945-33b39076fd49.m4a?alt=media",
-    "suitability": "review"
+    "suitability": "review",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=IOKZa1yyM9g",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "title": "Kajra Re",
@@ -1575,7 +2295,12 @@
     "id": "607ada34-b194-42e1-9c67-fecd83acc32e",
     "startTime": 0.0,
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F607ada34-b194-42e1-9c67-fecd83acc32e.m4a?alt=media",
-    "suitability": "review"
+    "suitability": "review",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=4dsFQFCvVGU",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "title": "Chup Chup Ke",
@@ -1586,7 +2311,12 @@
     "id": "23d7e400-fc51-4a3c-941f-d7750b1ad73e",
     "startTime": 0.0,
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F23d7e400-fc51-4a3c-941f-d7750b1ad73e.m4a?alt=media",
-    "suitability": "review"
+    "suitability": "review",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=0MIr2VrA62Y",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "title": "Dhoom Machale",
@@ -1597,7 +2327,12 @@
     "id": "65a01583-41ba-4fa7-9340-4608e7a9b630",
     "startTime": 0.0,
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F65a01583-41ba-4fa7-9340-4608e7a9b630.m4a?alt=media",
-    "suitability": "review"
+    "suitability": "review",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=2uUmHTgT65I",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "title": "Crazy Kiya Re",
@@ -1608,7 +2343,12 @@
     "id": "31b1c41f-c1ad-4324-bc4a-afa0e2a18958",
     "startTime": 0.0,
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F31b1c41f-c1ad-4324-bc4a-afa0e2a18958.m4a?alt=media",
-    "suitability": "review"
+    "suitability": "review",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=J2Bh68GTUOU",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "title": "Mauja Hi Mauja",
@@ -1619,7 +2359,12 @@
     "id": "b0eb87b7-bebb-4eab-b834-03a9a5932bac",
     "startTime": 0.0,
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fb0eb87b7-bebb-4eab-b834-03a9a5932bac.m4a?alt=media",
-    "suitability": "review"
+    "suitability": "review",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=PaDaoNnOQaM",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "title": "Yeh Ishq Hai",
@@ -1630,7 +2375,12 @@
     "id": "0a0c3a15-016f-428e-ae24-a41d360f0a57",
     "startTime": 0.0,
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F0a0c3a15-016f-428e-ae24-a41d360f0a57.m4a?alt=media",
-    "suitability": "review"
+    "suitability": "review",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=dXpG0kavjUo",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "title": "Pehli Nazar Mein",
@@ -1641,7 +2391,12 @@
     "id": "9f978603-1012-40bd-ac30-1bb776f6ca30",
     "startTime": 0.0,
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F9f978603-1012-40bd-ac30-1bb776f6ca30.m4a?alt=media",
-    "suitability": "review"
+    "suitability": "review",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=BadBAMnPX0I",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "title": "Zara Zara Touch Me",
@@ -1652,7 +2407,12 @@
     "id": "875e3b10-654f-493b-9ea9-a46c8ee9c839",
     "startTime": 0.0,
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F875e3b10-654f-493b-9ea9-a46c8ee9c839.m4a?alt=media",
-    "suitability": "provisional_unsuitable"
+    "suitability": "provisional_unsuitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=PifTuxrPubo",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "title": "Desi Girl",
@@ -1663,7 +2423,12 @@
     "id": "0f51800b-d22a-4e5a-bbaa-e8d75825d464",
     "startTime": 0.0,
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F0f51800b-d22a-4e5a-bbaa-e8d75825d464.m4a?alt=media",
-    "suitability": "review"
+    "suitability": "review",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=28Zsch1QjPI",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "title": "Maa Da Laadla",
@@ -1674,7 +2439,12 @@
     "id": "26074b77-e958-466d-9b97-c24587bbd6ad",
     "startTime": 0.0,
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F26074b77-e958-466d-9b97-c24587bbd6ad.m4a?alt=media",
-    "suitability": "review"
+    "suitability": "review",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=wVCZmXiK-6k",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "title": "Iktara",
@@ -1685,7 +2455,12 @@
     "id": "7502905b-ffeb-4606-b0fe-cde2e47bc0ef",
     "startTime": 0.0,
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F7502905b-ffeb-4606-b0fe-cde2e47bc0ef.m4a?alt=media",
-    "suitability": "unsuitable"
+    "suitability": "unsuitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=ZlOZktsODpA",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "title": "Tum Jo Aaye",
@@ -1696,7 +2471,12 @@
     "id": "bbcba94a-bf18-46e5-869f-dc226e5478f6",
     "startTime": 0.0,
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fbbcba94a-bf18-46e5-869f-dc226e5478f6.m4a?alt=media",
-    "suitability": "review"
+    "suitability": "review",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=kTXilT_KbUM",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "title": "Munni Badnaam Hui",
@@ -1707,7 +2487,12 @@
     "id": "4264935f-f508-4192-a15f-90807637d325",
     "startTime": 0.0,
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F4264935f-f508-4192-a15f-90807637d325.m4a?alt=media",
-    "suitability": "review"
+    "suitability": "review",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=Jn5hsfbhWx4",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "title": "Tere Mast Mast Do Nain",
@@ -1718,7 +2503,12 @@
     "id": "08c0e568-2ed4-4d34-bb51-097877e786f6",
     "startTime": 0.0,
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F08c0e568-2ed4-4d34-bb51-097877e786f6.m4a?alt=media",
-    "suitability": "review"
+    "suitability": "review",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=7MnvJ4qwAlM",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "title": "Naatu Naatu",
@@ -1729,7 +2519,12 @@
     "id": "fa3ed932-0674-4117-9d0f-418145bb342a",
     "startTime": 0.0,
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Ffa3ed932-0674-4117-9d0f-418145bb342a.m4a?alt=media",
-    "suitability": "review"
+    "suitability": "review",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=4_eEgJhsBMo",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "title": "Kala Chashma",
@@ -1740,7 +2535,12 @@
     "id": "0a250a0f-e99a-4c49-b64c-5069e9efeb3b",
     "startTime": 0.0,
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F0a250a0f-e99a-4c49-b64c-5069e9efeb3b.m4a?alt=media",
-    "suitability": "review"
+    "suitability": "review",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=k4yXQkG2s1E",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "title": "Tum Hi Aana",
@@ -1751,7 +2551,12 @@
     "id": "fcc85559-d0d5-458a-883b-9ca45ade6fbc",
     "startTime": 0.0,
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Ffcc85559-d0d5-458a-883b-9ca45ade6fbc.m4a?alt=media",
-    "suitability": "review"
+    "suitability": "review",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=tLqtnGLfm4Q",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "title": "Lut Gaye",
@@ -1763,7 +2568,12 @@
     "startTime": 0.0,
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F147066b0-8da5-455b-adc0-520e92eddfe0.m4a?alt=media",
     "difficulty": "super-easy",
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=sCbbMZ-q4-I",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "title": "Bijlee Bijlee",
@@ -1775,7 +2585,12 @@
     "startTime": 0.0,
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F042f9c51-8d19-4c69-a8f6-ae3a1563cbae.m4a?alt=media",
     "difficulty": "super-easy",
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=NwdQx2P_ytk",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "title": "Param Sundari",
@@ -1787,7 +2602,12 @@
     "startTime": 0.0,
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F4a5b6e4f-5a06-438b-9af6-a0930a751845.m4a?alt=media",
     "difficulty": "super-easy",
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=w4ClQO0FFQg",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "title": "Srivalli",
@@ -1798,7 +2618,12 @@
     "id": "abbef501-1ffa-4f43-a005-84d64de2c969",
     "startTime": 0.0,
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fabbef501-1ffa-4f43-a005-84d64de2c969.m4a?alt=media",
-    "suitability": "review"
+    "suitability": "review",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=hcMzwMrr1tE",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "title": "Oo Bolega Ya Oo Oo Bolega",
@@ -1810,7 +2635,12 @@
     "startTime": 0.0,
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fc91f765e-0f15-49f3-ada7-6b853c6605c1.m4a?alt=media",
     "difficulty": "super-easy",
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=sqmNziU3OxQ",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "title": "Saami Saami",
@@ -1821,7 +2651,12 @@
     "id": "419e75fb-14a2-46cf-ae40-8592951a85ce",
     "startTime": 0.0,
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F419e75fb-14a2-46cf-ae40-8592951a85ce.m4a?alt=media",
-    "suitability": "review"
+    "suitability": "review",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=vdY5SFZBgnk",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "title": "Jalebi Baby",
@@ -1832,7 +2667,12 @@
     "id": "b3bc39c7-9f34-4f20-8890-b1a311425670",
     "startTime": 0.0,
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fb3bc39c7-9f34-4f20-8890-b1a311425670.m4a?alt=media",
-    "suitability": "review"
+    "suitability": "review",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=CTmKrwFu7wg",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "title": "Pasoori",
@@ -1843,7 +2683,12 @@
     "id": "a792733f-a2a1-421b-a8db-ba6416a8e3f1",
     "startTime": 0.0,
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fa792733f-a2a1-421b-a8db-ba6416a8e3f1.m4a?alt=media",
-    "suitability": "review"
+    "suitability": "review",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=5Eqb_-j3FDA",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "title": "Jug Jug Jeeve",
@@ -1854,7 +2699,12 @@
     "id": "8673aed4-fe3d-42a5-9389-6ac83b2c1eb4",
     "startTime": 0.0,
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F8673aed4-fe3d-42a5-9389-6ac83b2c1eb4.m4a?alt=media",
-    "suitability": "review"
+    "suitability": "review",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=Irw8llgSC3s",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "title": "Subhanallah",
@@ -1865,7 +2715,12 @@
     "id": "f47395e8-5938-434b-96a2-ca9c80dc657d",
     "startTime": 0.0,
     "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Ff47395e8-5938-434b-96a2-ca9c80dc657d.m4a?alt=media",
-    "suitability": "review"
+    "suitability": "review",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=QYO6AlxiRE4",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "cheques",
@@ -1877,7 +2732,12 @@
     "startTime": 0.0,
     "difficulty": "super-easy",
     "year": 2024,
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=4tywp83zkmk",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "maan-meri-jaan",
@@ -1889,7 +2749,12 @@
     "startTime": 0.0,
     "difficulty": "super-easy",
     "year": 2024,
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=VuG7ge_8I2Y",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "295",
@@ -1901,7 +2766,12 @@
     "startTime": 0.0,
     "difficulty": "super-easy",
     "year": 2024,
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=n_FCrCQ6-bA",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "big-dawgs",
@@ -1913,7 +2783,12 @@
     "startTime": 0.0,
     "difficulty": "super-easy",
     "year": 2024,
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=hOHKltAiKXQ",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "husn",
@@ -1925,7 +2800,12 @@
     "startTime": 0.0,
     "difficulty": "super-easy",
     "year": 2024,
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=gJLVTKhTnog",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "excuses",
@@ -1937,7 +2817,12 @@
     "startTime": 0.0,
     "difficulty": "super-easy",
     "year": 2024,
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=vX2cDW8LUWk",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "genda-phool",
@@ -1949,7 +2834,12 @@
     "startTime": 0.0,
     "difficulty": "super-easy",
     "year": 2024,
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=SD4Z8dlZPd8",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "millionaire",
@@ -1961,7 +2851,12 @@
     "startTime": 0.0,
     "difficulty": "super-easy",
     "year": 2024,
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=XO8wew38VM8",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "titliaan",
@@ -1973,7 +2868,12 @@
     "startTime": 0.0,
     "difficulty": "super-easy",
     "year": 2024,
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=YPohR_9v6HA",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "jamal-kudu",
@@ -1985,7 +2885,12 @@
     "startTime": 0,
     "difficulty": "super-easy",
     "year": 2024,
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=PmdyY38g6Rg",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "kahani-suno-2-0",
@@ -1997,7 +2902,12 @@
     "startTime": 0.0,
     "difficulty": "super-easy",
     "year": 2024,
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=_XBVWlI8TsQ",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "elevated",
@@ -2009,7 +2919,12 @@
     "startTime": 0.0,
     "difficulty": "super-easy",
     "year": 2024,
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=I1nX5EuvwzE",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "no-love",
@@ -2021,7 +2936,12 @@
     "startTime": 0.0,
     "difficulty": "super-easy",
     "year": 2024,
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=6RrEQJNZwPQ",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "baller",
@@ -2033,7 +2953,12 @@
     "startTime": 0.0,
     "difficulty": "super-easy",
     "year": 2024,
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=xR3V5Ow2dTI",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "sajni-o-sajni-re",
@@ -2045,7 +2970,12 @@
     "startTime": 0.0,
     "difficulty": "super-easy",
     "year": 2024,
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=XJAMVPQWvGY",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "the-last-ride",
@@ -2057,7 +2987,12 @@
     "startTime": 0.0,
     "difficulty": "super-easy",
     "year": 2024,
-    "suitability": "provisional_unsuitable"
+    "suitability": "provisional_unsuitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=6xoB4ZiKKn0",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "levels",
@@ -2069,7 +3004,12 @@
     "startTime": 0.0,
     "difficulty": "super-easy",
     "year": 2024,
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=tpFljbJxZiw",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "admirin-you",
@@ -2081,7 +3021,12 @@
     "startTime": 0.0,
     "difficulty": "super-easy",
     "year": 2024,
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=k85UB5b6pJU",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "jugnu",
@@ -2093,7 +3038,12 @@
     "startTime": 0.0,
     "difficulty": "super-easy",
     "year": 2024,
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=ksY3wb4vtlA",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "pani-pani",
@@ -2105,7 +3055,12 @@
     "startTime": 0.0,
     "difficulty": "super-easy",
     "year": 2024,
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=nFjVlf2r9_Q",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "ve-haaniyaan",
@@ -2117,7 +3072,12 @@
     "startTime": 0.0,
     "difficulty": "super-easy",
     "year": 2024,
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=E_SbwSe15y0",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "illuminati",
@@ -2129,7 +3089,12 @@
     "startTime": 0.0,
     "difficulty": "super-easy",
     "year": 2024,
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=yH7eDWTH5iM",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "tu-aake-dekhle",
@@ -2141,7 +3106,12 @@
     "startTime": 0.0,
     "difficulty": "super-easy",
     "year": 2024,
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=A66TYFdz8YA",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "jo-tum-mere-ho",
@@ -2153,7 +3123,12 @@
     "startTime": 0.0,
     "difficulty": "super-easy",
     "year": 2024,
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=ilNt2bikxDI",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "daku",
@@ -2165,7 +3140,12 @@
     "startTime": 0.0,
     "difficulty": "super-easy",
     "year": 2024,
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=WOdnRhWeHoY",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "still-rollin",
@@ -2177,7 +3157,12 @@
     "startTime": 0.0,
     "difficulty": "super-easy",
     "year": 2024,
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=0mCVpUDCkEk",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "king-shit",
@@ -2189,7 +3174,12 @@
     "startTime": 0.0,
     "difficulty": "super-easy",
     "year": 2024,
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=d2ofxg8pHfQ",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "52-bars",
@@ -2201,7 +3191,12 @@
     "startTime": 0.0,
     "difficulty": "super-easy",
     "year": 2024,
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=4DfVxVeqk2o",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "one-love",
@@ -2213,7 +3208,12 @@
     "startTime": 0.0,
     "difficulty": "super-easy",
     "year": 2024,
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=0pWsCiBvLOk",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "wo-noor",
@@ -2225,7 +3225,12 @@
     "startTime": 0.0,
     "difficulty": "super-easy",
     "year": 2024,
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=HrcjFEK58ik",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "spaceship",
@@ -2237,7 +3242,12 @@
     "startTime": 0.0,
     "difficulty": "super-easy",
     "year": 2024,
-    "suitability": "unsuitable"
+    "suitability": "unsuitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=RatDV50alQE",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "signed-to-god",
@@ -2249,7 +3259,12 @@
     "startTime": 0.0,
     "difficulty": "super-easy",
     "year": 2024,
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=7DPcBQ1sjX4",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "syl",
@@ -2261,7 +3276,12 @@
     "startTime": 0.0,
     "difficulty": "super-easy",
     "year": 2024,
-    "suitability": "provisional_unsuitable"
+    "suitability": "provisional_unsuitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=VH47_G0Qd_E",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "drippy",
@@ -2273,7 +3293,12 @@
     "startTime": 0.0,
     "difficulty": "super-easy",
     "year": 2024,
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=5ZKLM5pNoGQ",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "410",
@@ -2285,7 +3310,12 @@
     "startTime": 0.0,
     "difficulty": "super-easy",
     "year": 2024,
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=F9gq_0HXoRI",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "watch-out",
@@ -2297,7 +3327,12 @@
     "startTime": 0.0,
     "difficulty": "super-easy",
     "year": 2024,
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=b_l1IP_6psY",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "we-rollin",
@@ -2309,7 +3344,12 @@
     "startTime": 0.0,
     "difficulty": "super-easy",
     "year": 2024,
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=hV8EGTjzD2s",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "her",
@@ -2321,7 +3361,12 @@
     "startTime": 0.0,
     "difficulty": "super-easy",
     "year": 2024,
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=eD3TP-C3nYE",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "offshore",
@@ -2333,7 +3378,12 @@
     "startTime": 0.0,
     "difficulty": "super-easy",
     "year": 2024,
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=ixgaS-3FfK4",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "dior",
@@ -2345,7 +3395,12 @@
     "startTime": 0.0,
     "difficulty": "super-easy",
     "year": 2024,
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=vyrPwLoIYkc",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "you-and-me",
@@ -2357,7 +3412,12 @@
     "startTime": 0.0,
     "difficulty": "super-easy",
     "year": 2024,
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=IAvw60x0Kn4",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "bandana",
@@ -2369,7 +3429,12 @@
     "startTime": 0.0,
     "difficulty": "super-easy",
     "year": 2024,
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=j2zxCw3voU8",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "mvp",
@@ -2381,7 +3446,12 @@
     "startTime": 0.0,
     "difficulty": "super-easy",
     "year": 2024,
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=gP4k_iruyAM",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "safety-off",
@@ -2393,7 +3463,12 @@
     "startTime": 0.0,
     "difficulty": "super-easy",
     "year": 2024,
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=Y5HIqjf3rek",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "antidote",
@@ -2405,7 +3480,12 @@
     "startTime": 0.0,
     "difficulty": "super-easy",
     "year": 2024,
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=rXoReWNm8Zo",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "jee-ni-lagda",
@@ -2417,7 +3497,12 @@
     "startTime": 0.0,
     "difficulty": "super-easy",
     "year": 2024,
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=BXNxrT59MzQ",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "chitta-kurta",
@@ -2429,7 +3514,12 @@
     "startTime": 0.0,
     "difficulty": "super-easy",
     "year": 2024,
-    "suitability": "provisional_unsuitable"
+    "suitability": "provisional_unsuitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=o9PY6NsB3_E",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "players",
@@ -2441,7 +3531,12 @@
     "startTime": 0.0,
     "difficulty": "super-easy",
     "year": 2024,
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=CeFQO9MQNqs",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "god-damn",
@@ -2453,7 +3548,12 @@
     "startTime": 0.0,
     "difficulty": "super-easy",
     "year": 2024,
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=au5uNkCKzaY",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "soulmate",
@@ -2465,7 +3565,12 @@
     "startTime": 0.0,
     "difficulty": "super-easy",
     "year": 2024,
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=k3ijQJjUbTs",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "payal",
@@ -2477,7 +3582,12 @@
     "startTime": 0.0,
     "difficulty": "super-easy",
     "year": 2024,
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=a-PAcmi5Kas",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "bonita",
@@ -2489,7 +3599,12 @@
     "startTime": 0.0,
     "difficulty": "super-easy",
     "year": 2024,
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=q3EsYvIapPQ",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "jatt-mehkma",
@@ -2501,7 +3616,12 @@
     "startTime": 0.0,
     "difficulty": "super-easy",
     "year": 2024,
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=vrjndQ4BXMU",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "bhool-bhulaiyaa-3-title-track",
@@ -2513,7 +3633,12 @@
     "startTime": 0.0,
     "difficulty": "super-easy",
     "year": 2024,
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=Cus-6cnyt1s",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "ami-je-tomar-3-0",
@@ -2525,7 +3650,12 @@
     "startTime": 0.0,
     "difficulty": "super-easy",
     "year": 2024,
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=FGNc3BibU3o",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "jaana-samjho-na",
@@ -2537,7 +3667,12 @@
     "startTime": 0.0,
     "difficulty": "super-easy",
     "year": 2024,
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=0PyHEaoZE1c",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "samjho-na",
@@ -2549,7 +3684,12 @@
     "startTime": 0.0,
     "difficulty": "super-easy",
     "year": 2024,
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=MhXCj8E9CZU",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "teri-baaton-mein-aisa-uljha-jiya",
@@ -2561,7 +3701,12 @@
     "startTime": 0.0,
     "difficulty": "super-easy",
     "year": 2024,
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=XLqmL9cPN1E",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "laal-peeli-akhiyaan",
@@ -2573,7 +3718,12 @@
     "startTime": 0.0,
     "difficulty": "super-easy",
     "year": 2024,
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=ow77NqggH-0",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "tum-se",
@@ -2585,7 +3735,12 @@
     "startTime": 0.0,
     "difficulty": "super-easy",
     "year": 2024,
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=Nnop2walGmM",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "ishq-mitaye",
@@ -2597,7 +3752,12 @@
     "startTime": 0.0,
     "difficulty": "super-easy",
     "year": 2024,
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=xwUV6AMd5cM",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "naram-kaalja",
@@ -2609,7 +3769,12 @@
     "startTime": 0.0,
     "difficulty": "super-easy",
     "year": 2024,
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=BecMv3U-zr4",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "vida-karo",
@@ -2621,7 +3786,12 @@
     "startTime": 0.0,
     "difficulty": "super-easy",
     "year": 2024,
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=lUul-UbHo_Y",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "tu-kya-jaane",
@@ -2633,7 +3803,12 @@
     "startTime": 0.0,
     "difficulty": "super-easy",
     "year": 2024,
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=aIz74zWfjiA",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "baaja",
@@ -2645,7 +3820,12 @@
     "startTime": 0.0,
     "difficulty": "super-easy",
     "year": 2024,
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=UH2hV-sAty8",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "chaka-chak",
@@ -2657,7 +3837,12 @@
     "startTime": 0.0,
     "difficulty": "super-easy",
     "year": 2024,
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=Kz5uJlucE5Q",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "rait-zara-si",
@@ -2669,7 +3854,12 @@
     "startTime": 0.0,
     "difficulty": "super-easy",
     "year": 2024,
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=aOliIfyH6vI",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "doobey",
@@ -2681,7 +3871,12 @@
     "startTime": 0.0,
     "difficulty": "super-easy",
     "year": 2024,
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=6eGCi4SVy94",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "gehraiyaan-title-track",
@@ -2693,7 +3888,12 @@
     "startTime": 0.0,
     "difficulty": "super-easy",
     "year": 2024,
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=FpY6B-slnV8",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "ghodey-pe-sawaar",
@@ -2705,7 +3905,12 @@
     "startTime": 0.0,
     "difficulty": "super-easy",
     "year": 2024,
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=OC9gl-UEYVo",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "phero-na-najariya",
@@ -2717,7 +3922,12 @@
     "startTime": 0.0,
     "difficulty": "super-easy",
     "year": 2024,
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=1_WaSnOnu1Q",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "shauq",
@@ -2729,7 +3939,12 @@
     "startTime": 0.0,
     "difficulty": "super-easy",
     "year": 2024,
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=cJZKEklZhdM",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "jehda-nasha",
@@ -2741,7 +3956,12 @@
     "startTime": 0.0,
     "difficulty": "super-easy",
     "year": 2024,
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=6zf2dNLS-fs",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "rasiya",
@@ -2753,7 +3973,12 @@
     "startTime": 0.0,
     "difficulty": "super-easy",
     "year": 2024,
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=F_oNAi5DcEU",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "kudmayi",
@@ -2765,7 +3990,12 @@
     "startTime": 0.0,
     "difficulty": "super-easy",
     "year": 2024,
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=3qpxJEp4Ec4",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "dhindhora-baje-re",
@@ -2777,7 +4007,12 @@
     "startTime": 0.0,
     "difficulty": "super-easy",
     "year": 2024,
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=rFOwpX7y-rw",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "pyaar-hota-kayi-baar-hai",
@@ -2789,7 +4024,12 @@
     "startTime": 0.0,
     "difficulty": "super-easy",
     "year": 2024,
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=2yeRRm9AIxI",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "nikle-the-kabhi-hum-ghar-se",
@@ -2801,7 +4041,12 @@
     "startTime": 0.0,
     "difficulty": "super-easy",
     "year": 2024,
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=KDc4ncuZee0",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "papa-meri-jaan",
@@ -2813,7 +4058,12 @@
     "startTime": 0.0,
     "difficulty": "super-easy",
     "year": 2024,
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=dTZIa4BnpGE",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "main-nikla-gaddi-leke-reprise",
@@ -2825,7 +4075,12 @@
     "startTime": 0.0,
     "difficulty": "super-easy",
     "year": 2024,
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=BWTtUw9iu7s",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "udd-jaa-kaale-kaava-reprise",
@@ -2837,7 +4092,12 @@
     "startTime": 0.0,
     "difficulty": "super-easy",
     "year": 2024,
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=7VppHj0Rue0",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "zihaal-e-miskin",
@@ -2849,7 +4109,12 @@
     "startTime": 0.0,
     "difficulty": "super-easy",
     "year": 2024,
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=11OWuPcElJw",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "naseeb-se",
@@ -2861,7 +4126,12 @@
     "startTime": 0.0,
     "difficulty": "super-easy",
     "year": 2024,
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=Sk0DsJuJ_y8",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "jaanam",
@@ -2873,7 +4143,12 @@
     "startTime": 0.0,
     "difficulty": "super-easy",
     "year": 2024,
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=vsfXjCi_63A",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "khoobsurat",
@@ -2885,7 +4160,12 @@
     "startTime": 0.0,
     "difficulty": "super-easy",
     "year": 2024,
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=1-nnEM8chwo",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "tumhare-hi-rahenge-hum",
@@ -2897,7 +4177,12 @@
     "startTime": 0.0,
     "difficulty": "super-easy",
     "year": 2024,
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=cxKAtmvf-uM",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "tilasmi-bahein",
@@ -2909,7 +4194,12 @@
     "startTime": 0.0,
     "difficulty": "super-easy",
     "year": 2024,
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=3TmXnNPta0I",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "sakal-ban",
@@ -2921,7 +4211,12 @@
     "startTime": 0.0,
     "difficulty": "super-easy",
     "year": 2024,
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=JWCi9FaDH24",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "chaudhavi-shab",
@@ -2933,7 +4228,12 @@
     "startTime": 0.0,
     "difficulty": "super-easy",
     "year": 2024,
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=OLskHsoOh3Q",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "choli-ke-peeche",
@@ -2945,7 +4245,12 @@
     "startTime": 0.0,
     "difficulty": "super-easy",
     "year": 2024,
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=FzRQUx224Yc",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "ghagra",
@@ -2957,7 +4262,12 @@
     "startTime": 0.0,
     "difficulty": "super-easy",
     "year": 2024,
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=p3e7Fjv_V-E",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "do-u-know-khel-khel-mein",
@@ -2969,7 +4279,12 @@
     "startTime": 0.0,
     "difficulty": "super-easy",
     "year": 2024,
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=TcJOTnqKIXg",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "hauli-hauli",
@@ -2981,7 +4296,12 @@
     "startTime": 0.0,
     "difficulty": "super-easy",
     "year": 2024,
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=hrxNuIubFJo",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "chal-kudiye",
@@ -2993,7 +4313,12 @@
     "startTime": 0.0,
     "difficulty": "super-easy",
     "year": 2024,
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=FewWUHxY79w",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "tenu-sang-rakhna",
@@ -3005,7 +4330,12 @@
     "startTime": 0.0,
     "difficulty": "super-easy",
     "year": 2024,
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=OkpIoEC44kk",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "akhiyaan-de-kol",
@@ -3017,7 +4347,12 @@
     "startTime": 0.0,
     "difficulty": "super-easy",
     "year": 2024,
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=hz8wnxRxB6k",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "raanjhan",
@@ -3029,7 +4364,12 @@
     "startTime": 0.0,
     "difficulty": "super-easy",
     "year": 2024,
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=lBvbNxiVmZA",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "angaaron-the-couple-song",
@@ -3041,7 +4381,12 @@
     "startTime": 0.0,
     "difficulty": "super-easy",
     "year": 2024,
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=OgRoRBLZbUQ",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "pushpa-pushpa",
@@ -3053,7 +4398,12 @@
     "startTime": 0.0,
     "difficulty": "super-easy",
     "year": 2024,
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=MhIulWFPcpg",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "kissik",
@@ -3065,7 +4415,12 @@
     "startTime": 0.0,
     "difficulty": "super-easy",
     "year": 2024,
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=8cVkLeCqUHk",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "srivalli-hindi",
@@ -3077,7 +4432,12 @@
     "startTime": 0.0,
     "difficulty": "super-easy",
     "year": 2024,
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=hcMzwMrr1tE",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "saami-saami-hindi",
@@ -3089,7 +4449,12 @@
     "startTime": 0.0,
     "difficulty": "super-easy",
     "year": 2024,
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=vdY5SFZBgnk",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "nadiyon-paar-let-the-music-play",
@@ -3101,7 +4466,12 @@
     "startTime": 0.0,
     "difficulty": "super-easy",
     "year": 2024,
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=DKj5m9cSMZs",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "kusu-kusu",
@@ -3113,7 +4483,12 @@
     "startTime": 0.0,
     "difficulty": "super-easy",
     "year": 2024,
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=RgzLnmTaCAU",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "tip-tip-sooryavanshi",
@@ -3125,7 +4500,12 @@
     "startTime": 0.0,
     "difficulty": "super-easy",
     "year": 2024,
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=JyYDODhGE9Y",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "najaa-sooryavanshi",
@@ -3137,7 +4517,12 @@
     "startTime": 0.0,
     "difficulty": "super-easy",
     "year": 2024,
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=cX6g4cbVBwI",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "garmi",
@@ -3149,7 +4534,12 @@
     "startTime": 0.0,
     "difficulty": "super-easy",
     "year": 2024,
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=IE8OD5FbU-c",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "illegal-weapon-2-0",
@@ -3161,7 +4551,12 @@
     "startTime": 0.0,
     "difficulty": "super-easy",
     "year": 2024,
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=H7_yY3yr-jE",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "muqabla-street-dancer-3d",
@@ -3173,7 +4568,12 @@
     "startTime": 0.0,
     "difficulty": "super-easy",
     "year": 2024,
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=IVMquMDUQZY",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "burjkhalifa",
@@ -3185,7 +4585,12 @@
     "startTime": 0.0,
     "difficulty": "super-easy",
     "year": 2024,
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=a0TkeUhcVrM",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "care-ni-karda",
@@ -3197,7 +4602,12 @@
     "startTime": 0.0,
     "difficulty": "super-easy",
     "year": 2024,
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=WGdoaRVOm8o",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "taaron-ke-shehar",
@@ -3209,7 +4619,12 @@
     "startTime": 0.0,
     "difficulty": "super-easy",
     "year": 2024,
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=VAZxSoKb65o",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "baarish-ki-jaaye",
@@ -3221,7 +4636,12 @@
     "startTime": 0.0,
     "difficulty": "super-easy",
     "year": 2024,
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=TYaNfLLOLNY",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "filhaal-2-mohabbat",
@@ -3233,7 +4653,12 @@
     "startTime": 0.0,
     "difficulty": "super-easy",
     "year": 2024,
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=DUwlGduupRI",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "kya-loge-tum",
@@ -3245,7 +4670,12 @@
     "startTime": 0.0,
     "difficulty": "super-easy",
     "year": 2024,
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=wdltrKsWcjo",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "afsos",
@@ -3257,7 +4687,12 @@
     "startTime": 0.0,
     "difficulty": "super-easy",
     "year": 2024,
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=44TIeDStYqQ",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "besharam-bewaffa",
@@ -3269,7 +4704,12 @@
     "startTime": 0.0,
     "difficulty": "super-easy",
     "year": 2024,
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=DRyQKYkyfU0",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "dil-chahte-ho",
@@ -3281,7 +4721,12 @@
     "startTime": 0.0,
     "difficulty": "super-easy",
     "year": 2024,
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=pgQPquFKKpc",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "chhor-denge",
@@ -3293,7 +4738,12 @@
     "startTime": 0.0,
     "difficulty": "super-easy",
     "year": 2024,
-    "suitability": "provisional_unsuitable"
+    "suitability": "provisional_unsuitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=hGf8rOwFzvo",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "soni-soni",
@@ -3305,7 +4755,12 @@
     "startTime": 0.0,
     "difficulty": "super-easy",
     "year": 2024,
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=lSTuOB_kg30",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "ishq-lost-found",
@@ -3317,7 +4772,12 @@
     "startTime": 0.0,
     "difficulty": "super-easy",
     "year": 2024,
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=hHuG7FIKgtc",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "chand-baaliyan",
@@ -3329,7 +4789,12 @@
     "startTime": 0.0,
     "difficulty": "super-easy",
     "year": 2024,
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=CV315UIeOZg",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "alag-aasmaan",
@@ -3341,7 +4806,12 @@
     "startTime": 0.0,
     "difficulty": "super-easy",
     "year": 2024,
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=vA86QFrXoho",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "baarishein",
@@ -3353,7 +4823,12 @@
     "startTime": 0.0,
     "difficulty": "super-easy",
     "year": 2024,
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=PJWemSzExXs",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "gul",
@@ -3365,7 +4840,12 @@
     "startTime": 0.0,
     "difficulty": "super-easy",
     "year": 2024,
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=SmaY7RfBgas",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "mishri",
@@ -3377,7 +4857,12 @@
     "startTime": 0.0,
     "difficulty": "super-easy",
     "year": 2024,
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=0P3Gt-60yLc",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "tu-te-sharab",
@@ -3389,7 +4874,12 @@
     "startTime": 0.0,
     "difficulty": "super-easy",
     "year": 2024,
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=Rya3ElR8mjQ",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "kinna-chir",
@@ -3401,7 +4891,12 @@
     "startTime": 0.0,
     "difficulty": "super-easy",
     "year": 2024,
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=Wa6it7j_OHY",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "akhiyaan",
@@ -3413,7 +4908,12 @@
     "startTime": 0.0,
     "difficulty": "super-easy",
     "year": 2024,
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=xEALTVLxrDw",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "junoon",
@@ -3425,7 +4925,12 @@
     "startTime": 0.0,
     "difficulty": "super-easy",
     "year": 2024,
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=MchGnrsGQ3E",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "gulaab",
@@ -3437,7 +4942,12 @@
     "startTime": 0.0,
     "difficulty": "super-easy",
     "year": 2024,
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=5Z9oa3gMX5s",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "faasle",
@@ -3449,7 +4959,12 @@
     "startTime": 0.0,
     "difficulty": "super-easy",
     "year": 2024,
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=EiiOYwqk3A0",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "jadugar",
@@ -3461,7 +4976,12 @@
     "startTime": 0.0,
     "difficulty": "super-easy",
     "year": 2024,
-    "suitability": "provisional_unsuitable"
+    "suitability": "provisional_unsuitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=IOcGS4D1tM0",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "babam-bam",
@@ -3473,7 +4993,12 @@
     "startTime": 0.0,
     "difficulty": "super-easy",
     "year": 2024,
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=9KCtZ9r4OAw",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "bt-ho-gayi",
@@ -3485,7 +5010,12 @@
     "startTime": 0.0,
     "difficulty": "super-easy",
     "year": 2024,
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=ybRYNRcIuA4",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "main-nahi-toh-kaun",
@@ -3497,7 +5027,12 @@
     "startTime": 0.0,
     "difficulty": "super-easy",
     "year": 2024,
-    "suitability": "unsuitable"
+    "suitability": "unsuitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=RyJW3NbN9XA",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "ram-ram",
@@ -3509,7 +5044,12 @@
     "startTime": 0.0,
     "difficulty": "super-easy",
     "year": 2024,
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=Tnfs0MZsBBE",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "nadaan",
@@ -3521,7 +5061,12 @@
     "startTime": 0.0,
     "difficulty": "super-easy",
     "year": 2024,
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=m0PXzulwp7Y",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "khatta-flow",
@@ -3533,7 +5078,12 @@
     "startTime": 0.0,
     "difficulty": "super-easy",
     "year": 2024,
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=qVcHlaFZf6A",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "hola-amigo",
@@ -3545,7 +5095,12 @@
     "startTime": 0.0,
     "difficulty": "super-easy",
     "year": 2024,
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=De9VIp37CjY",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "old-money",
@@ -3557,7 +5112,12 @@
     "startTime": 0.0,
     "difficulty": "super-easy",
     "year": 2024,
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=-K-WY0WRT48",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "bora-bora",
@@ -3569,7 +5129,12 @@
     "startTime": 0.0,
     "difficulty": "super-easy",
     "year": 2024,
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=xARHpBzxFNI",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "chhaila",
@@ -3581,7 +5146,12 @@
     "startTime": 0.0,
     "difficulty": "super-easy",
     "year": 2024,
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=4UkJ-AziPu0",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "nadaan-parinde",
@@ -3593,7 +5163,12 @@
     "startTime": 0,
     "difficulty": "medium",
     "year": 2011,
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=6MgsHSAcI9k",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "sadda-haq",
@@ -3605,7 +5180,12 @@
     "startTime": 0,
     "difficulty": "medium",
     "year": 2011,
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=p9DQINKZxWE",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "tum-ho",
@@ -3617,7 +5197,12 @@
     "startTime": 0,
     "difficulty": "medium",
     "year": 2011,
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=gkCKTuR-ECI",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "kyon",
@@ -3629,7 +5214,12 @@
     "startTime": 0,
     "difficulty": "medium",
     "year": 2012,
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=Rq7tyOcVgLQ",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "ala-barfi",
@@ -3641,7 +5231,12 @@
     "startTime": 0,
     "difficulty": "medium",
     "year": 2012,
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=wSnn-w8f1xA",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "main-kya-karoon",
@@ -3653,7 +5248,12 @@
     "startTime": 0,
     "difficulty": "medium",
     "year": 2012,
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=5q_Ms8QKta0",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "badtameez-dil",
@@ -3665,7 +5265,12 @@
     "startTime": 0.0,
     "difficulty": "medium",
     "year": 2013,
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=LaqnaNYEqi0",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "shukran-allah",
@@ -3677,7 +5282,12 @@
     "startTime": 0.0,
     "difficulty": "medium",
     "year": 2009,
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=Cw0o_66ZmsA",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "kurbaan-hua",
@@ -3689,7 +5299,12 @@
     "startTime": 0.0,
     "difficulty": "medium",
     "year": 2009,
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=gCNmhrvplpw",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "rehnuma",
@@ -3701,7 +5316,12 @@
     "startTime": 0.0,
     "difficulty": "medium",
     "year": 2016,
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=6Ss2Ga7A0TA",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "alfazon-ki-tarah",
@@ -3713,7 +5333,12 @@
     "startTime": 0.0,
     "difficulty": "medium",
     "year": 2016,
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=_xNRZfX6_Og",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "dil-vich-lagya",
@@ -3725,7 +5350,12 @@
     "startTime": 0.0,
     "difficulty": "medium",
     "year": 2006,
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=FWO9pbfdvD0",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "aaya-re",
@@ -3737,7 +5367,12 @@
     "startTime": 0.0,
     "difficulty": "medium",
     "year": 2006,
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=ZtQCMz9XLbA",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "masakali",
@@ -3749,7 +5384,12 @@
     "startTime": 0.0,
     "difficulty": "medium",
     "year": 2009,
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=SS3lIQdKP-A",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "rehna-tu",
@@ -3761,7 +5401,12 @@
     "startTime": 0.0,
     "difficulty": "medium",
     "year": 2009,
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=ZYGyuaEU2aA",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "arziyan",
@@ -3773,7 +5418,12 @@
     "startTime": 0.0,
     "difficulty": "medium",
     "year": 2009,
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=dXdD1_AGBZg",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "bhaag-d-k-bose",
@@ -3785,7 +5435,12 @@
     "startTime": 0.0,
     "difficulty": "medium",
     "year": 2011,
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=IQEDu8SPHao",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "nakkaddwaley-disco",
@@ -3797,7 +5452,12 @@
     "startTime": 0.0,
     "difficulty": "medium",
     "year": 2011,
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=CW9p7harRhg",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "saadi-galli-aaja",
@@ -3809,7 +5469,12 @@
     "startTime": 0.0,
     "difficulty": "medium",
     "year": 2013,
-    "suitability": "provisional_unsuitable"
+    "suitability": "provisional_unsuitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=kut3TKQFO0w",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "mera-mann-kehne-laga",
@@ -3821,7 +5486,12 @@
     "startTime": 0.0,
     "difficulty": "medium",
     "year": 2013,
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=t18juVZprAk",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "pani-da-rang",
@@ -3833,7 +5503,12 @@
     "startTime": 0.0,
     "difficulty": "medium",
     "year": 2012,
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=EiItLWWxgOI",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "rum-whisky",
@@ -3845,7 +5520,12 @@
     "startTime": 0.0,
     "difficulty": "medium",
     "year": 2012,
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=-nG1SGXmsoY",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "sweety-tera-drama",
@@ -3857,7 +5537,12 @@
     "startTime": 0.0,
     "difficulty": "medium",
     "year": 2017,
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=RpuhD_xKadk",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "nazm-nazm",
@@ -3869,7 +5554,12 @@
     "startTime": 0.0,
     "difficulty": "medium",
     "year": 2017,
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=-JD8B4Gf4Sc",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "twist-kamariya",
@@ -3881,7 +5571,12 @@
     "startTime": 0.0,
     "difficulty": "medium",
     "year": 2017,
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=emdoqHkeAE8",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "zinda",
@@ -3893,7 +5588,12 @@
     "startTime": 0.0,
     "difficulty": "medium",
     "year": 2013,
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=Ax0G_P2dSBw",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "maston-ka-jhund",
@@ -3905,7 +5605,12 @@
     "startTime": 0.0,
     "difficulty": "medium",
     "year": 2013,
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=yWeVII7qF3A",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "o-rangrez",
@@ -3917,7 +5622,12 @@
     "startTime": 0.0,
     "difficulty": "medium",
     "year": 2013,
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=jmpUP1MaQ9Q",
+      "apple": null,
+      "spotify": null
+    }
   },
   {
     "id": "hud-hud-dabangg",
@@ -3929,6 +5639,11 @@
     "startTime": 0.0,
     "difficulty": "medium",
     "year": 2010,
-    "suitability": "suitable"
+    "suitability": "suitable",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=yG1K5YzmmBA",
+      "apple": null,
+      "spotify": null
+    }
   }
 ]
