@@ -4,7 +4,7 @@ export const DEFAULT_TIERS = [
   { index: 2, cutoffSeconds: 2, label: "2 seconds" },
   { index: 3, cutoffSeconds: 5, label: "5 seconds" },
   { index: 4, cutoffSeconds: 10, label: "10 seconds" },
-  { index: 5, cutoffSeconds: null, label: "Full song" }
+  { index: 5, cutoffSeconds: null, label: "20 seconds" }
 ];
 
 export const HARD_TIERS = [
@@ -13,5 +13,5 @@ export const HARD_TIERS = [
   { index: 2, cutoffSeconds: 6, label: "6 seconds" },
   { index: 3, cutoffSeconds: 10, label: "10 seconds" },
   { index: 4, cutoffSeconds: 15, label: "15 seconds" },
-  { index: 5, cutoffSeconds: null, label: "Full song" }
+  { index: 5, cutoffSeconds: null, label: "20 seconds" }
 ];

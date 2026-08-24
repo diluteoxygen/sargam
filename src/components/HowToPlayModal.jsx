@@ -51,7 +51,7 @@ export default function HowToPlayModal({ onClose }) {
                 </tr>
                 <tr>
                   <td style={{ padding: "6px 4px" }}>6</td>
-                  <td style={{ padding: "6px 4px" }}>Full song</td>
+                  <td style={{ padding: "6px 4px" }}>20 seconds</td>
                 </tr>
               </tbody>
             </table>
