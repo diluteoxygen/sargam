@@ -2764,5 +2764,201 @@
     "artist": "B Praak",
     "movie": "Shershaah",
     "genre": "red-herring"
+  },
+  {
+    "id": "nadaan-parinde",
+    "title": "Nadaan Parinde",
+    "artist": "A.R. Rahman",
+    "movie": "Rockstar",
+    "genre": "trending"
+  },
+  {
+    "id": "sadda-haq",
+    "title": "Sadda Haq",
+    "artist": "Mohit Chauhan",
+    "movie": "Rockstar",
+    "genre": "trending"
+  },
+  {
+    "id": "tum-ho",
+    "title": "Tum Ho",
+    "artist": "Mohit Chauhan",
+    "movie": "Rockstar",
+    "genre": "trending"
+  },
+  {
+    "id": "kyon",
+    "title": "Kyon",
+    "artist": "Papon, Sunidhi Chauhan",
+    "movie": "Barfi",
+    "genre": "trending"
+  },
+  {
+    "id": "ala-barfi",
+    "title": "Ala Barfi",
+    "artist": "Mohit Chauhan",
+    "movie": "Barfi",
+    "genre": "trending"
+  },
+  {
+    "id": "main-kya-karoon",
+    "title": "Main Kya Karoon",
+    "artist": "Nikhil Paul George",
+    "movie": "Barfi",
+    "genre": "trending"
+  },
+  {
+    "id": "shukran-allah",
+    "title": "Shukran Allah",
+    "artist": "Sonu Nigam, Shreya Ghoshal",
+    "movie": "Kurbaan",
+    "genre": "trending"
+  },
+  {
+    "id": "kurbaan-hua",
+    "title": "Kurbaan Hua",
+    "artist": "Vishal Dadlani",
+    "movie": "Kurbaan",
+    "genre": "trending"
+  },
+  {
+    "id": "rehnuma",
+    "title": "Rehnuma",
+    "artist": "Shreya Ghoshal, Inder Bawra",
+    "movie": "Rocky Handsome",
+    "genre": "trending"
+  },
+  {
+    "id": "alfazon-ki-tarah",
+    "title": "Alfazon Ki Tarah",
+    "artist": "John Abraham, Ankit Tiwari",
+    "movie": "Rocky Handsome",
+    "genre": "trending"
+  },
+  {
+    "id": "dil-vich-lagya",
+    "title": "Dil Vich Lagya",
+    "artist": "Sonu Nigam, Kunal Ganjawala, Akriti Kakar",
+    "movie": "Chup Chup Ke",
+    "genre": "trending"
+  },
+  {
+    "id": "aaya-re",
+    "title": "Aaya Re",
+    "artist": "Kunal Ganjawala, Sunidhi Chauhan",
+    "movie": "Chup Chup Ke",
+    "genre": "trending"
+  },
+  {
+    "id": "masakali",
+    "title": "Masakali",
+    "artist": "Mohit Chauhan",
+    "movie": "Delhi 6",
+    "genre": "trending"
+  },
+  {
+    "id": "rehna-tu",
+    "title": "Rehna Tu",
+    "artist": "A.R. Rahman",
+    "movie": "Delhi 6",
+    "genre": "trending"
+  },
+  {
+    "id": "arziyan",
+    "title": "Arziyan",
+    "artist": "Javed Ali, Kailash Kher",
+    "movie": "Delhi 6",
+    "genre": "trending"
+  },
+  {
+    "id": "bhaag-d-k-bose",
+    "title": "Bhaag D.K. Bose",
+    "artist": "Ram Sampath",
+    "movie": "Delhi Belly",
+    "genre": "trending"
+  },
+  {
+    "id": "nakkaddwaley-disco",
+    "title": "Nakkaddwaley Disco",
+    "artist": "Keerthi Sagathia",
+    "movie": "Delhi Belly",
+    "genre": "trending"
+  },
+  {
+    "id": "saadi-galli-aaja",
+    "title": "Saadi Galli Aaja",
+    "artist": "Ayushmann Khurrana, Neeti Mohan",
+    "movie": "Nautanki Saala",
+    "genre": "trending"
+  },
+  {
+    "id": "mera-mann-kehne-laga",
+    "title": "Mera Mann Kehne Laga",
+    "artist": "Falak Shabir",
+    "movie": "Nautanki Saala",
+    "genre": "trending"
+  },
+  {
+    "id": "pani-da-rang",
+    "title": "Pani Da Rang",
+    "artist": "Ayushmann Khurrana",
+    "movie": "Vicky Donor",
+    "genre": "trending"
+  },
+  {
+    "id": "rum-whisky",
+    "title": "Rum Whisky",
+    "artist": "Akshay Dhawan",
+    "movie": "Vicky Donor",
+    "genre": "trending"
+  },
+  {
+    "id": "sweety-tera-drama",
+    "title": "Sweety Tera Drama",
+    "artist": "Dev Negi, Pawni Pandey, Shraddha Pandit",
+    "movie": "Bareilly Ki Barfi",
+    "genre": "trending"
+  },
+  {
+    "id": "nazm-nazm",
+    "title": "Nazm Nazm",
+    "artist": "Arko",
+    "movie": "Bareilly Ki Barfi",
+    "genre": "trending"
+  },
+  {
+    "id": "twist-kamariya",
+    "title": "Twist Kamariya",
+    "artist": "Harshdeep Kaur, Yasser Desai",
+    "movie": "Bareilly Ki Barfi",
+    "genre": "trending"
+  },
+  {
+    "id": "zinda",
+    "title": "Zinda",
+    "artist": "Siddharth Mahadevan",
+    "movie": "Bhaag Milkha Bhaag",
+    "genre": "trending"
+  },
+  {
+    "id": "maston-ka-jhund",
+    "title": "Maston Ka Jhund",
+    "artist": "Divya Kumar",
+    "movie": "Bhaag Milkha Bhaag",
+    "genre": "trending"
+  },
+  {
+    "id": "o-rangrez",
+    "title": "O Rangrez",
+    "artist": "Shreya Ghoshal, Javed Bashir",
+    "movie": "Bhaag Milkha Bhaag",
+    "genre": "trending"
+  },
+  {
+    "id": "hud-hud-dabangg",
+    "title": "Hud Hud Dabangg",
+    "artist": "Sukhwinder Singh, Wajid",
+    "movie": "Dabangg",
+    "genre": "trending"
   }
 ]

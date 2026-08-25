@@ -273,6 +273,23 @@ for i, song in enumerate(parsed_songs):
         with open(DB_PATH, 'w') as f:
             json.dump(db, f, indent=2)
             
+        # Update search catalog
+        try:
+            with open("data/search_catalog.json", "r") as sc_file:
+                sc = json.load(sc_file)
+            sc.append({
+                "id": slug,
+                "title": song["title"],
+                "artist": song["artist"],
+                "movie": song.get("movie", ""),
+                "genre": new_entry["genre"]
+            })
+            with open("data/search_catalog.json", "w") as sc_file:
+                json.dump(sc, sc_file, indent=2)
+        except Exception as e:
+            print("Failed to update search catalog:", e)
+
+            
         added_count += 1
         existing_titles.add(song["title"].lower().strip())
         print(f"  -> SUCCESS! Saved to {slug}.m4a")
