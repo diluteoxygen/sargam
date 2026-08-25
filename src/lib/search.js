@@ -30,6 +30,7 @@ export function phoneticNormalize(str) {
        .replace(/sh/g, "s")
        .replace(/z/g, "j");
 
+  s = s.replace(/([a-z])\1+/g, "$1");
   return s.replace(/\s+/g, " ").trim();
 }
 
@@ -128,9 +129,38 @@ export function searchSongs(catalog, query, limit = 8) {
       score = Math.max(score, 66);
     }
 
-    // 3. Multi-token match across fields (e.g. "karan aujla", "animal ranbir")
-    if (qTokens.length > 0 && qTokens.every((tok) => fullNorm.includes(tok))) {
-      score = Math.max(score, 62);
+    // 3. Multi-token match across fields with per-token fuzzy tolerance
+    if (qTokens.length > 0) {
+      const songWords = fullNorm.split(/[\s\-]+/);
+      let allTokensMatched = true;
+      let fuzzyPenalties = 0;
+      
+      for (const tok of qTokens) {
+        if (fullNorm.includes(tok)) {
+          continue; // Exact substring match is fine
+        }
+        // Try fuzzy match against each word in the song
+        let bestDist = 999;
+        for (const sw of songWords) {
+          if (!sw) continue;
+          if (Math.abs(sw.length - tok.length) > 2) continue;
+          const dist = levenshtein(tok, sw);
+          if (dist < bestDist) bestDist = dist;
+        }
+        
+        // Allow up to distance 1 for tokens of length 4-5, and distance 2 for tokens >= 6
+        const allowedDist = tok.length >= 6 ? 2 : (tok.length >= 4 ? 1 : 0);
+        if (bestDist <= allowedDist) {
+           fuzzyPenalties += bestDist;
+        } else {
+           allTokensMatched = false;
+           break;
+        }
+      }
+      
+      if (allTokensMatched) {
+        score = Math.max(score, 62 - (fuzzyPenalties * 3));
+      }
     }
 
     // 4. Phonetic & transliteration matching (e.g. "saiyaraa" -> "saiyaara", "randawa" -> "randhawa")
