@@ -1,5 +1,6 @@
 import { useState, useEffect, useCallback, useRef } from "react";
 import songsData from "../../data/songs.json";
+import dailyOrder from "../../data/daily_order.json";
 import { DEFAULT_TIERS, HARD_TIERS } from "../lib/tiers.js";
 
 // Session-level tracking of played song IDs per mode to prevent repeats in the session
@@ -42,8 +43,14 @@ function getFallbackSong(mode, exclude = []) {
   let picked;
   if (mode === "daily") {
     const now = Date.now();
-    const dayIndex = Math.floor(now / 86400000) % pool.length;
-    picked = pool[dayIndex];
+    // Epoch: August 25, 2026 (20690 days since 1970 UTC)
+    let dayIndex = Math.floor(now / 86400000) - 20690;
+    if (dayIndex < 0) dayIndex = 0;
+    
+    // Fallback in case dailyOrder is smaller or gets changed
+    const safeIndex = dayIndex % dailyOrder.length;
+    const dailyId = dailyOrder[safeIndex];
+    picked = pool.find(s => s.id === dailyId) || pool[0];
   } else {
     let candidates = pool.filter((s) => !exclude.includes(s.id));
     if (candidates.length === 0) candidates = pool;
