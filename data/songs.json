@@ -5629,5 +5629,65 @@
       "apple": "https://music.apple.com/us/album/hud-hud-dabangg/1123346616?i=1123346658&uo=4",
       "spotify": null
     }
+  },
+  {
+    "id": "1-2-3-4-get-on-the-dance-floor",
+    "title": "1 2 3 4 Get on the Dance Floor",
+    "movie": "Chennai Express",
+    "artist": "Vishal Dadlani, Hamsika Iyer",
+    "genre": "trending",
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2F1-2-3-4-get-on-the-dance-floor.m4a?alt=media",
+    "startTime": 0.0,
+    "difficulty": "easy",
+    "year": 2013,
+    "suitability": "suitable"
+  },
+  {
+    "id": "titli",
+    "title": "Titli",
+    "movie": "Chennai Express",
+    "artist": "Chinmayi, Gopi Sunder",
+    "genre": "trending",
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Ftitli.m4a?alt=media",
+    "startTime": 0.0,
+    "difficulty": "easy",
+    "year": 2013,
+    "suitability": "suitable"
+  },
+  {
+    "id": "tera-rastaa-chhodoon-na",
+    "title": "Tera Rastaa Chhodoon Na",
+    "movie": "Chennai Express",
+    "artist": "Amitabh Bhattacharya, Anusha Mani",
+    "genre": "trending",
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Ftera-rastaa-chhodoon-na.m4a?alt=media",
+    "startTime": 0.0,
+    "difficulty": "easy",
+    "year": 2013,
+    "suitability": "suitable"
+  },
+  {
+    "id": "kashmir-main-tu-kanyakumari",
+    "title": "Kashmir Main Tu Kanyakumari",
+    "movie": "Chennai Express",
+    "artist": "Sunidhi Chauhan, Arijit Singh, Neeti Mohan",
+    "genre": "trending",
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Fkashmir-main-tu-kanyakumari.m4a?alt=media",
+    "startTime": 0.0,
+    "difficulty": "easy",
+    "year": 2013,
+    "suitability": "suitable"
+  },
+  {
+    "id": "lungi-dance",
+    "title": "Lungi Dance",
+    "movie": "Chennai Express",
+    "artist": "Yo Yo Honey Singh",
+    "genre": "trending",
+    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Flungi-dance.m4a?alt=media",
+    "startTime": 0.0,
+    "difficulty": "easy",
+    "year": 2013,
+    "suitability": "suitable"
   }
 ]

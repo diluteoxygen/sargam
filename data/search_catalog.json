@@ -2960,5 +2960,40 @@
     "artist": "Sukhwinder Singh, Wajid",
     "movie": "Dabangg",
     "genre": "trending"
+  },
+  {
+    "id": "1-2-3-4-get-on-the-dance-floor",
+    "title": "1 2 3 4 Get on the Dance Floor",
+    "artist": "Vishal Dadlani, Hamsika Iyer",
+    "movie": "Chennai Express",
+    "genre": "trending"
+  },
+  {
+    "id": "titli",
+    "title": "Titli",
+    "artist": "Chinmayi, Gopi Sunder",
+    "movie": "Chennai Express",
+    "genre": "trending"
+  },
+  {
+    "id": "tera-rastaa-chhodoon-na",
+    "title": "Tera Rastaa Chhodoon Na",
+    "artist": "Amitabh Bhattacharya, Anusha Mani",
+    "movie": "Chennai Express",
+    "genre": "trending"
+  },
+  {
+    "id": "kashmir-main-tu-kanyakumari",
+    "title": "Kashmir Main Tu Kanyakumari",
+    "artist": "Sunidhi Chauhan, Arijit Singh, Neeti Mohan",
+    "movie": "Chennai Express",
+    "genre": "trending"
+  },
+  {
+    "id": "lungi-dance",
+    "title": "Lungi Dance",
+    "artist": "Yo Yo Honey Singh",
+    "movie": "Chennai Express",
+    "genre": "trending"
   }
 ]
