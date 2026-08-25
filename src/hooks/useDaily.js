@@ -4,11 +4,41 @@ import dailyOrder from "../../data/daily_order.json";
 import { DEFAULT_TIERS, HARD_TIERS } from "../lib/tiers.js";
 
 // Session-level tracking of played song IDs per mode to prevent repeats in the session
-const sessionPlayedIds = {
-  daily: [],
-  all: [],
-  trending: []
-};
+
+
+function getPersistentHistory(mode) {
+  if (typeof localStorage === "undefined" || mode === "daily" || mode === "challenge") return [];
+  try {
+    const raw = localStorage.getItem(`sargam-history-${mode}`);
+    return raw ? JSON.parse(raw) : [];
+  } catch {
+    return [];
+  }
+}
+
+function addSongToHistory(mode, songId, poolSize) {
+  if (typeof localStorage === "undefined" || mode === "daily" || mode === "challenge") return;
+  const history = getPersistentHistory(mode);
+  
+  // Dynamic LRU buffer: 85% of the total available pool size
+  const maxSize = Math.max(0, Math.floor(poolSize * 0.85));
+  
+  if (!history.includes(songId)) {
+    history.push(songId);
+  } else {
+    const idx = history.indexOf(songId);
+    history.splice(idx, 1);
+    history.push(songId);
+  }
+  
+  while (history.length > maxSize && history.length > 0) {
+    history.shift(); // Remove oldest
+  }
+  
+  try {
+    localStorage.setItem(`sargam-history-${mode}`, JSON.stringify(history));
+  } catch {}
+}
 
 // Memory cache of current song per mode
 const modeSongCache = {};
@@ -20,11 +50,13 @@ function isSuitable(song) {
   return s !== "unsuitable" && s !== "provisional_unsuitable";
 }
 
-function getFallbackSong(mode, exclude = []) {
+function getFallbackSong(mode) {
   let pool = songsData.filter(isSuitable);
   if (mode === "trending") {
     pool = pool.filter((s) => s.year >= 2024);
   }
+  
+  const exclude = getPersistentHistory(mode);
   
   // Adaptive Matchmaking for non-daily modes
   if (typeof localStorage !== "undefined" && mode !== "daily") {
@@ -53,7 +85,10 @@ function getFallbackSong(mode, exclude = []) {
     picked = pool.find(s => s.id === dailyId) || pool[0];
   } else {
     let candidates = pool.filter((s) => !exclude.includes(s.id));
-    if (candidates.length === 0) candidates = pool;
+    if (candidates.length === 0) {
+       // Failsafe: if LRU buffer is completely exhausted or broken, just clear it implicitly
+       candidates = pool;
+    }
     picked = candidates[Math.floor(Math.random() * candidates.length)] || pool[0] || songsData[0];
   }
 
@@ -108,7 +143,7 @@ export function useDaily(mode = "daily", challengeId = null) {
       return modeSongCache[mode];
     }
 
-    const fallback = getFallbackSong(mode, sessionPlayedIds[mode] || []);
+    const fallback = getFallbackSong(mode);
     return {
       song: fallback,
       date: today,
@@ -171,7 +206,7 @@ export function useDaily(mode = "daily", challengeId = null) {
     }
 
     // 3. Otherwise use static data
-    const fallback = getFallbackSong(mode, sessionPlayedIds[mode]);
+    const fallback = getFallbackSong(mode);
     const result = {
       song: fallback,
       date: today,
@@ -180,8 +215,10 @@ export function useDaily(mode = "daily", challengeId = null) {
       error: null
     };
     modeSongCache[mode] = result;
-    if (fallback?.id && !sessionPlayedIds[mode].includes(fallback.id)) {
-      sessionPlayedIds[mode].push(fallback.id);
+    if (fallback?.id) {
+      let currentPoolSize = songsData.filter(isSuitable).length;
+      if (mode === "trending") currentPoolSize = songsData.filter(isSuitable).filter(s => s.year >= 2024).length;
+      addSongToHistory(mode, fallback.id, currentPoolSize);
     }
     setDaily(result);
 
@@ -193,12 +230,14 @@ export function useDaily(mode = "daily", challengeId = null) {
       const m = targetMode || mode;
       const today = new Date().toISOString().slice(0, 10);
 
-      // Track current song as played in session
-      if (daily?.song?.id && !sessionPlayedIds[m].includes(daily.song.id)) {
-        sessionPlayedIds[m].push(daily.song.id);
+      // Track current song as played persistently
+      if (daily?.song?.id) {
+        let currentPoolSize = songsData.filter(isSuitable).length;
+        if (m === "trending") currentPoolSize = songsData.filter(isSuitable).filter(s => s.year >= 2024).length;
+        addSongToHistory(m, daily.song.id, currentPoolSize);
       }
 
-      const fallback = getFallbackSong(m, sessionPlayedIds[m]);
+      const fallback = getFallbackSong(m);
       const fallbackEntry = {
         song: fallback,
         date: today,
@@ -207,8 +246,10 @@ export function useDaily(mode = "daily", challengeId = null) {
         error: null
       };
       modeSongCache[m] = fallbackEntry;
-      if (fallback?.id && !sessionPlayedIds[m].includes(fallback.id)) {
-        sessionPlayedIds[m].push(fallback.id);
+      if (fallback?.id) {
+        let currentPoolSize = songsData.filter(isSuitable).length;
+        if (m === "trending") currentPoolSize = songsData.filter(isSuitable).filter(s => s.year >= 2024).length;
+        addSongToHistory(m, fallback.id, currentPoolSize);
       }
       setDaily(fallbackEntry);
       return fallback;
