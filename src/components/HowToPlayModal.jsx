@@ -31,7 +31,7 @@ export default function HowToPlayModal({ onClose }) {
               <tbody>
                 <tr style={{ borderBottom: "1px solid var(--border)" }}>
                   <td style={{ padding: "6px 4px" }}>1</td>
-                  <td style={{ padding: "6px 4px" }}>0.2 seconds</td>
+                  <td style={{ padding: "6px 4px" }}>1 second</td>
                 </tr>
                 <tr style={{ borderBottom: "1px solid var(--border)" }}>
                   <td style={{ padding: "6px 4px" }}>2</td>

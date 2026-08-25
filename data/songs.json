@@ -855,22 +855,6 @@
     }
   },
   {
-    "id": "aaj-ki-raat",
-    "title": "Aaj Ki Raat",
-    "movie": "Stree 2",
-    "artist": "Madhubanti Bagchi",
-    "genre": "new-age",
-    "audioUrl": "https://firebasestorage.googleapis.com/v0/b/sargam-app-2026.firebasestorage.app/o/audio%2Faaj-ki-raat.m4a?alt=media",
-    "startTime": 0.0,
-    "difficulty": "super-easy",
-    "suitability": "suitable",
-    "links": {
-      "youtube": "https://www.youtube.com/watch?v=DNabARVbztw",
-      "apple": "https://music.apple.com/us/album/aaj-ki-raat-from-stree-2/1759100523?i=1759100524&uo=4",
-      "spotify": null
-    }
-  },
-  {
     "id": "aayi-nai",
     "title": "Aayi Nai",
     "movie": "Stree 2",
