@@ -222,7 +222,6 @@ export default function App() {
 
   useEffect(() => {
     if (ftueStep === 1) {
-      setModal("help");
       try {
         localStorage.setItem("sargam-played", "true");
       } catch {}
@@ -470,7 +469,7 @@ export default function App() {
                 disabled={gameOver}
                 aria-label={playing ? "Pause snippet" : "Play snippet"}
               >
-                {ftueStep === 1 && <div className="sg-tutorial-text">Tap to listen to 0.2s!</div>}
+                {ftueStep === 1 && <div className="sg-tutorial-text">Tap to listen to 0.5s!</div>}
                 {playing ? (
                   <Pause size={22} strokeWidth={2.4} />
                 ) : (
